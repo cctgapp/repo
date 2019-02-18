@@ -1,0 +1,9 @@
+Origin: CCT 
+Label: CC’s APP
+Suite: stable 
+Version: 1.0 
+Codename: CCT
+Support: http://myappios.blogspot.com
+Architectures: iphoneos-arm 
+Components: main 
+Description: If you need support, welcome to contact me via cctseng6048@gmail.com
