@@ -2,7 +2,7 @@ Package: org.cc.unboxd
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: cc
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.2)
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
 Filename: debs/ios.ccunboxd+0.0.1-3-iphone-arm.deb
 Size: 23414
 MD5sum: a256f39c7cbc1118465ad85c89e7fcaf
@@ -15,15 +15,15 @@ Author: cc
 Name: ccunboxd
 
 Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.1.5
+Version: 2.1.6b1
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.1.5.deb
-Size: 30440866
-MD5sum: c69ec7cf1e66e9047c1ce4572b026ba6
-SHA1: ba3c231fa7cfad68b3ed098ae15121bf598075fe
-SHA256: 4d24301ea38221f1de5ca046eace0698548d2dffdb751cbc78bbc6a06cafa797
+Filename: debs/TOSSavior2.1.6b1.deb
+Size: 30598148
+MD5sum: b7628314423f0650b1a293d5e0c463fc
+SHA1: 920f52b0f7a0e24faea29c0563e45702f4caf30a
+SHA256: dce9da881af76ad0a99a744cb422f206f4702ed73b5a50204e2f7362a0ef655c
 Section: Apps
 Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
 Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
