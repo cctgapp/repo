@@ -30,3 +30,19 @@ Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份�
 Author: ChengChung Tseng
 Name: 神魔救星
 
+Package: tw.blogspot.myappios.tospatch
+Version: 0.0.1-50+debug
+Architecture: iphoneos-arm
+Maintainer: Cheng-Chung Tseng
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/tw.blogspot.myappios.tospatch_0.0.1-50+debug_iphoneos-arm.deb
+Size: 5982
+MD5sum: a5075d2c66de71dc36900fc5eba42d52
+SHA1: 447165c1422ec6f8db5330676710fee53f9a1cc4
+SHA256: 3b7f4b6c840b01b2ef593b49769e594d9f40eff6dab9b89098735c60fb9ae5eb
+Section: Tweaks
+Description: 神魔之塔中文版patch. 1. 玩家生命最多減到1（不死）.
+Author: Cheng-Chung Tseng
+Name: tospatch
+
