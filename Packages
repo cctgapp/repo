@@ -11,6 +11,20 @@ Description: modified version of unbox from h2co3 to use rocketbootstrap
 Name: ccunboxd
 Author: cc
 
+Package: tw.blogspot.myappios.tospatch
+Version: 0.0.1-50+debug
+Section: Tweaks
+Maintainer: Cheng-Chung Tseng
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/tw.blogspot.myappios.tospatch_0.0.1-50+debug_iphoneos-arm.deb
+Size: 5982
+Installed-Size: 104
+MD5sum: a5075d2c66de71dc36900fc5eba42d52
+Description: 神魔之塔中文版patch. 1. 玩家生命最多減到1（不死）.
+Name: tospatch
+Author: Cheng-Chung Tseng
+
 Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.1.6b1
 Section: Apps
@@ -41,17 +55,4 @@ Author: ChengChung Tseng
 Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
 Depiction: 
 
-Package: tw.blogspot.myappios.tospatch
-Version: 0.0.1-50+debug
-Section: Tweaks
-Maintainer: Cheng-Chung Tseng
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/tw.blogspot.myappios.tospatch_0.0.1-50+debug_iphoneos-arm.deb
-Size: 5982
-Installed-Size: 104
-MD5sum: a5075d2c66de71dc36900fc5eba42d52
-Description: 神魔之塔中文版patch. 1. 玩家生命最多減到1（不死）.
-Name: tospatch
-Author: Cheng-Chung Tseng
 
