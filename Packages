@@ -46,6 +46,22 @@ Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份�
 Author: ChengChung Tseng
 Name: 神魔救星
 
+Package: tw.blogspot.myappios.tmyfamiport
+Version: 0.0.1-11+debug
+Architecture: iphoneos-arm
+Maintainer: Cheng-Chung Tseng
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/tw.blogspot.myappios.tmyfamiport_0.0.1-11+debug_iphoneos-arm.deb
+Size: 3240
+MD5sum: e4685c879ad5abaaffdb38328f60a072
+SHA1: 20b520b04b24ecd447a85009385691cf026720ee
+SHA256: 105d8fafc711af053ff363178ca2ea4b6e2b64025e90f25927ec145e8e32912c
+Section: Tweaks
+Description: Bypass JB detection for the app MyFamiPort
+Author: Cheng-Chung Tseng
+Name: tmyfamiport
+
 Package: tw.blogspot.myappios.tospatch
 Version: 0.0.1-50+debug
 Architecture: iphoneos-arm
