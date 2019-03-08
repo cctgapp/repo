@@ -110,3 +110,19 @@ Description: 神魔之塔中文版patch. 1. 玩家生命最多減到1（不死�
 Author: Cheng-Chung Tseng
 Name: tospatch
 
+Package: tw.blogspot.myappios.tospatch
+Version: 0.0.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cheng-Chung Tseng
+Installed-Size: 220
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/tw.blogspot.myappios.tospatch_0.0.4-1+debug_iphoneos-arm.deb
+Size: 11744
+MD5sum: d364d4d29f35e9833688bffd68d716e0
+SHA1: 150a0f112fd77b0b91f587e0ad7bff724ba5b37b
+SHA256: 08bc29530730cc852d850fb3a0b807932d5c252402b2c0f656e706021e7bcec9
+Section: Tweaks
+Description: 神魔之塔中文版patch. 1. 玩家生命最多減到1（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加預設轉珠時間(可開關，預防某些手機進入戰鬥會閃退).
+Author: Cheng-Chung Tseng
+Name: tospatch
+
