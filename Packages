@@ -46,6 +46,22 @@ Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份�
 Author: ChengChung Tseng
 Name: 神魔救星
 
+Package: tw.blogspot.myappios.TOS-Savior
+Version: 2.1.7
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/TOSSavior2.1.7.deb
+Size: 30599738
+MD5sum: ef9a7c354b70ae1b25974e02f56a5bb6
+SHA1: e786fc2548b637abf74a38aa459676ccbdf9f5b7
+SHA256: eb55b9e8c03158b494bf572fa146171918f29c22158c04e0bc21b195d1b67836
+Section: Apps
+Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
+Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
+Author: ChengChung Tseng
+Name: 神魔救星
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
