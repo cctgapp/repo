@@ -127,6 +127,22 @@ Author: Cheng-Chung Tseng
 Name: tospatch
 
 Package: tw.blogspot.myappios.tospatch
+Version: 0.0.11-1+debug
+Architecture: iphoneos-arm
+Maintainer: Cheng-Chung Tseng
+Installed-Size: 232
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/tw.blogspot.myappios.tospatch_0.0.11-1+debug_iphoneos-arm.deb
+Size: 18162
+MD5sum: 4c01ce17490c2694b0ed5078fe109782
+SHA1: b18c5ef114c63e820c46fba5152b5c5e57ce40ba
+SHA256: 62f5a9006ed3279c2f0476ad5a5205df7e570b3cff40b91360b6b7b62d7d5a5b
+Section: Tweaks
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到1（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加預設轉珠時間(可開關，預防某些手機進入戰鬥會閃退). 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾.
+Author: Cheng-Chung Tseng
+Name: tospatch
+
+Package: tw.blogspot.myappios.tospatch
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: Cheng-Chung Tseng
