@@ -1,4 +1,4 @@
-Origin: CCT 
+Origin: CC’s APP 
 Label: CC’s APP
 Suite: stable 
 Version: 1.0 
