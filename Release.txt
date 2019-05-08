@@ -6,4 +6,4 @@ Codename: CCT
 Support: http://myappios.blogspot.com
 Architectures: iphoneos-arm 
 Components: main 
-Description: If you need support, welcome to contact me via cctseng6048@gmail.com
+Description: CC
