@@ -14,6 +14,22 @@ Tag: role::hacker
 Author: cc
 Name: ccunboxd
 
+Package: org.cc.unboxd
+Version: 0.0.2+debug
+Architecture: iphoneos-arm
+Maintainer: cc
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: debs/ios.ccunboxd+0.0.2-iphone-arm.deb
+Size: 32902
+MD5sum: c80e01bde70c0b9f228703da75684a46
+SHA1: ae0d6a018e34c3c500d162ef8f5f1a9c561a610f
+SHA256: e824d97f324b38e872d8fc50c32babf0d94034f95704fc172099d8d9a9d9e49b
+Section: System
+Description: modified version of unbox from h2co3 to use rocketbootstrap
+Tag: role::hacker
+Author: cc
+Name: ccunboxd
+
 Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.1.5
 Architecture: iphoneos-arm
