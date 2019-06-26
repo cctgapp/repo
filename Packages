@@ -142,6 +142,22 @@ Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份�
 Author: ChengChung Tseng
 Name: 神魔救星
 
+Package: tw.blogspot.myappios.parchero
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Archero0.1.1.deb
+Size: 12898614
+MD5sum: 644f0be73d13de73d0e1767e77ee2dcb
+SHA1: 0fabe9d86633859367c7c2c2941a0e77e010265e
+SHA256: 19f3c53cbcd0028a00596705d125504208c1675a9342ee4febeadcd7ac5ac1bb
+Section: Apps
+Homepage: https://myappios.blogspot.com/
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
+Author: ChengChung Tseng
+Name: pArchero
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
