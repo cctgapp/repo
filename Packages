@@ -158,6 +158,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.parchero
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Archero0.1.2.deb
+Size: 12912848
+MD5sum: e6d7ec8f47b71a034340cba44a649941
+SHA1: 349915c73b0261c3a6877235de460248b94b6ebf
+SHA256: b184f3757c7f5b9e8fb9ff56572453d7bc7c8c6c05498112e54e04e040061ae0
+Section: Apps
+Homepage: https://myappios.blogspot.com/
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
+Author: ChengChung Tseng
+Name: pArchero
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
