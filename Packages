@@ -143,22 +143,6 @@ Author: ChengChung Tseng
 Name: 神魔救星
 
 Package: tw.blogspot.myappios.parchero
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.1.1.deb
-Size: 12898614
-MD5sum: 644f0be73d13de73d0e1767e77ee2dcb
-SHA1: 0fabe9d86633859367c7c2c2941a0e77e010265e
-SHA256: 19f3c53cbcd0028a00596705d125504208c1675a9342ee4febeadcd7ac5ac1bb
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -173,6 +157,22 @@ Homepage: https://myappios.blogspot.com/
 Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
+
+Package: tw.blogspot.myappios.psoulknight
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SoulKnight0.1.1.deb
+Size: 12927044
+MD5sum: 68b71beb33e02795fbbd83590f7b7c47
+SHA1: 3107884f0a57c41959dffe608f9c4c9861e11c0e
+SHA256: e18eae58f93e8348670e1627b118cddca071bbc71e847aeae9f27a9b56246b68
+Section: Apps
+Homepage: https://myappios.blogspot.com/
+Description: Soul Knight patch. 1. At least 1 blood.
+Author: ChengChung Tseng
+Name: pSoulKnight
 
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
