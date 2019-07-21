@@ -254,6 +254,22 @@ Description: Soul Knight patch. 1. At least 1 blood.
 Author: ChengChung Tseng
 Name: pSoulKnight
 
+Package: tw.blogspot.myappios.psoulknight
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SoulKnight0.2.0.deb
+Size: 12899864
+MD5sum: 0873fdc066c290ea0303c853568219f5
+SHA1: eb6eecf28e7b522466b179a52cc24adac93f340f
+SHA256: 55cfec0117144370e6a2dd8023213bd57b6aef4cf4460f8a8df9706ac4e72ca7
+Section: Apps
+Homepage: https://myappios.blogspot.com/
+Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
+Author: ChengChung Tseng
+Name: pSoulKnight
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
