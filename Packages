@@ -318,6 +318,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.pmwHK
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MakaiWars0.1.1.deb
+Size: 12837264
+MD5sum: 75d7454c5ab10495aa51613b2e7d536d
+SHA1: cb9cbff0fc81a32fc8f292f02079a1ecb806ea97
+SHA256: 4124a72a3695eecba0a0ae13d385de411f488834c97addb83715f12930cbc7b4
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/10/pmwhk.html
+Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
+Author: ChengChung Tseng
+Name: pmwHK
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.1.1
 Architecture: iphoneos-arm
