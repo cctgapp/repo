@@ -319,15 +319,15 @@ Author: ChengChung Tseng
 Name: pArchero
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.1.1.deb
-Size: 12831036
-MD5sum: 135e800ff0c92859a64693cf82180c04
-SHA1: 07fb913411108d53d43d0221c74dadfb1a776ab0
-SHA256: 5b0b02b7db13e4ff0b98e2bd64f4fe9fca068b8ef61465363086d35cfe9aa584
+Filename: debs/KGTW0.1.2.deb
+Size: 12831338
+MD5sum: d193bec394ebf52e9a0873e4dc47ef4c
+SHA1: 5dc897e2f51f9b45242286d7fba3f9a56552a2ed
+SHA256: 09a11372f8579691af3d8e64a6aa037d1a11ddd8728216b9a58858507beb9b7c
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Adjust the sight raduis multiplier from 1 ~ 10.
