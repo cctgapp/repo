@@ -319,15 +319,15 @@ Author: ChengChung Tseng
 Name: pArchero
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.1.4.deb
-Size: 12850842
-MD5sum: 641488183051b3ceb7f992e5145bf606
-SHA1: 80d7352c4f9a362ef938f007eefe37f9d864e73e
-SHA256: 88b53270cf7550d1c56d7353a96d60ea5631209feb031145a4fdddad34fc98ab
+Filename: debs/KGTW0.1.5.deb
+Size: 12849830
+MD5sum: 94cf1e39a6a5deee53dcb4e42a115c6b
+SHA1: 857bf7633184c8079bb20013c5d611c37c77a3ba
+SHA256: 61aa0d63d2f40a2e37f108f456bb5db45116d33a38ec45686503ffa9519d7501
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
