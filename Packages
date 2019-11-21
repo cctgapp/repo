@@ -398,6 +398,22 @@ Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Ener
 Author: ChengChung Tseng
 Name: pSoulKnight
 
+Package: tw.blogspot.myappios.ptriglav
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Triglav0.1.1.deb
+Size: 12818670
+MD5sum: 99589bf8a601f84b6d0a42f75889c1b5
+SHA1: 7079b38306e31237cd1900f44f51fd4b94eab7bb
+SHA256: 48e5c0b91407fa1c19b8b4771b24a44393856782ab290ae58f0a78e1f19aa2e8
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
+Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special.
+Author: ChengChung Tseng
+Name: pTriglav
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
