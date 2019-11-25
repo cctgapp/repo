@@ -1,20 +1,4 @@
 Package: org.cc.unboxd
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: cc
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
-Filename: debs/ios.ccunboxd+0.0.1-3-iphone-arm.deb
-Size: 23414
-MD5sum: a256f39c7cbc1118465ad85c89e7fcaf
-SHA1: 5faf7460587488705aacda1117a5f1a42746a27e
-SHA256: 0509804e7df274f0e079898caaa3dac53d39c13685827e659a3ee8cf6dcc938e
-Section: System
-Description: modified version of unbox from h2co3 to use rocketbootstrap
-Tag: role::hacker
-Author: cc
-Name: ccunboxd
-
-Package: org.cc.unboxd
 Version: 0.0.2+debug
 Architecture: iphoneos-arm
 Maintainer: cc
@@ -29,54 +13,6 @@ Description: modified version of unbox from h2co3 to use rocketbootstrap
 Tag: role::hacker
 Author: cc
 Name: ccunboxd
-
-Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.1.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.1.5.deb
-Size: 30440866
-MD5sum: c69ec7cf1e66e9047c1ce4572b026ba6
-SHA1: ba3c231fa7cfad68b3ed098ae15121bf598075fe
-SHA256: 4d24301ea38221f1de5ca046eace0698548d2dffdb751cbc78bbc6a06cafa797
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.1.6b1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.1.6b1.deb
-Size: 30598148
-MD5sum: b7628314423f0650b1a293d5e0c463fc
-SHA1: 920f52b0f7a0e24faea29c0563e45702f4caf30a
-SHA256: dce9da881af76ad0a99a744cb422f206f4702ed73b5a50204e2f7362a0ef655c
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.1.7
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.1.7.deb
-Size: 30599738
-MD5sum: ef9a7c354b70ae1b25974e02f56a5bb6
-SHA1: e786fc2548b637abf74a38aa459676ccbdf9f5b7
-SHA256: eb55b9e8c03158b494bf572fa146171918f29c22158c04e0bc21b195d1b67836
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
 
 Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.2.0
@@ -173,86 +109,6 @@ Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
 Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
 Author: ChengChung Tseng
 Name: 神魔救星
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.1.2.deb
-Size: 12912848
-MD5sum: e6d7ec8f47b71a034340cba44a649941
-SHA1: 349915c73b0261c3a6877235de460248b94b6ebf
-SHA256: b184f3757c7f5b9e8fb9ff56572453d7bc7c8c6c05498112e54e04e040061ae0
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.1.3.deb
-Size: 12935874
-MD5sum: 227d64c0fdb2f17aaf51c095b19c512a
-SHA1: 2db144cc60b578edfc7b578d08e87a8d4bf278be
-SHA256: 400b3b317f7780dd9e4a519d2ca648c71760e22cc85a349c5bc7df72e2197c7b
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.2.0.deb
-Size: 12938862
-MD5sum: 9815cf4caae0220f68bba32629f9d638
-SHA1: 9d25c0b100c106ad183e3b60eb3ccd14a343c977
-SHA256: c4ea10d23fc9a801e9ee037884410952bb07c1da5ed1c5ba25479fcbb3e9ff8d
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.3.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.3.0.deb
-Size: 12911428
-MD5sum: cd1637bdf152474bc834941e4033edb3
-SHA1: 959ba8b3f17689ca5f7ad5c3f07734b116bc09dd
-SHA256: 0de76f3b8a7c5aa5ca3d9692fb13b326894a54fcfe6b14b3b22386eaec9b4e52
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.4.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.4.0.deb
-Size: 12913782
-MD5sum: dcc75ecdb36650c3223eec53fb517d9e
-SHA1: 324750d3b913430f115d203b53277390af6a7300
-SHA256: c38014e8049cdf9adc7fb51577b01be826feeb0dd00e26572bc9b240196c4b4e
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate.
-Author: ChengChung Tseng
-Name: pArchero
 
 Package: tw.blogspot.myappios.parchero
 Version: 0.5.0
@@ -399,15 +255,15 @@ Author: ChengChung Tseng
 Name: pSoulKnight
 
 Package: tw.blogspot.myappios.ptriglav
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Triglav0.1.1.deb
-Size: 12818670
-MD5sum: 99589bf8a601f84b6d0a42f75889c1b5
-SHA1: 7079b38306e31237cd1900f44f51fd4b94eab7bb
-SHA256: 48e5c0b91407fa1c19b8b4771b24a44393856782ab290ae58f0a78e1f19aa2e8
+Filename: debs/Triglav0.1.2.deb
+Size: 12822426
+MD5sum: e5d33710b1b2482442235ead50c5b45b
+SHA1: 980595fdb6a62f08e309961de0f91fe41751b6ca
+SHA256: 2d88b8f68656635677a4a25b723fcaa950a187a5ba870a0080448fe234e9acd6
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special.
@@ -429,38 +285,6 @@ Section: Tweaks
 Description: Bypass JB detection for the app MyFamiPort
 Author: Cheng-Chung Tseng
 Name: tmyfamiport
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.0.deb
-Size: 13153704
-MD5sum: 709d25a4921b1e1d735299415cced35e
-SHA1: ccc7ab43a21ba9bb5ee2429302f772c3d99965e2
-SHA256: 0d4e1229c26eef79206402c8fa45d77b14392987836d6832e88c2857b1f6a67e
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.1.deb
-Size: 13153874
-MD5sum: d194d9b5ff5c42663cf74e6fc65a3e4d
-SHA1: 69f65c7f72a2fa58f42fa6615fb6c7d33c49d63e
-SHA256: 5f76e258e4f3488143ad386579ecd2bf05b6d6bf30d3bf58ec8d16ffc78181c5
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
 
 Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.4.10
@@ -520,118 +344,6 @@ Size: 13328570
 MD5sum: 54d97f1f8ddcefcc548d92c8ab333a5e
 SHA1: 7b089396225a0369bedd449a237599e48e5e262a
 SHA256: dee5aa53a51667eb0c4d4bbb89649966b76b7a2f3e27d2f1c1e823bd19b33b72
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.2.deb
-Size: 13171660
-MD5sum: 7c70c2c449eec532a02ba5b6429a2542
-SHA1: 895fad71a499e49d0aff15723446ea64c397a7cd
-SHA256: 1439dbc7b9f14b536dd6234c54b07da3ccaca1c849ab7478b7698de3e193bc40
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.3.deb
-Size: 13177166
-MD5sum: d11dc1089aead221859abead3d5a8e1a
-SHA1: 8a58fd8c179b6bd71043249f0a6f855129e08848
-SHA256: d14bcef7c3f700d80e7cae2b8134cce854b4e4e6a548b85dcb2d6dea892665d5
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.4.deb
-Size: 13123868
-MD5sum: 8194e3322c0b685da43f57812df13841
-SHA1: ad95472edc4dbf01c27941f8b4494679f16d7563
-SHA256: 1625e9eec8f2a1778b3bf6a690e0eb60960ee343b2cb2dbe39adcbaca46a1e9a
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.5.deb
-Size: 13127606
-MD5sum: 3d966623d7086ecd2378b05ca048b6c3
-SHA1: f00d1fa7085184f13344697ba1edce2bcf072ab9
-SHA256: bf3819b8f3f7aa1f7f5109ee7de306f98f534103a4e2d2927129288a04ea57bf
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.6
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.6.deb
-Size: 13127566
-MD5sum: ab4b8e64fd3e3ca255e006db7c776517
-SHA1: df782bd869141477837f997e9df92994306742f0
-SHA256: 225cd082a651c9917bc0857518e59beb8105ad6e527912358e457b70ac51af18
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.8
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.8.deb
-Size: 13143034
-MD5sum: 80069f949e6f061adf5887846bda545a
-SHA1: a58ea6150fb5027ff6cdf875e6a36f7942461883
-SHA256: e98ae4be167300264a73f0a747cd5681bd602fb7a25957d5f50ec98fbf4c332c
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.4.9
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.4.9.deb
-Size: 13144424
-MD5sum: c1086b7554daee5696698146716abc36
-SHA1: e06b82f687705de82d45bc6a144220f17e7a5a17
-SHA256: 89d6281fe15ab919c6314ae1f87d6f7a2be9cc626c76640293b7d8683a93877d
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能
