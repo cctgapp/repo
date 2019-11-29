@@ -174,6 +174,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.pfatego
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/FateGoApp0.1.1.deb
+Size: 12795090
+MD5sum: baaa0516b7083653a20a11fbb3d9f963
+SHA1: 657184bda59f61233a77a1c46224c95b773447fc
+SHA256: b4914b5cded134e46305dab25dad15414616ce238760c3de2230bba92a58b88e
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pfatego.html
+Description: Fate/Grand Order patch. 1. One Hit Kill.
+Author: ChengChung Tseng
+Name: pTriglav
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.1.5
 Architecture: iphoneos-arm
