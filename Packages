@@ -302,6 +302,22 @@ Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Ener
 Author: ChengChung Tseng
 Name: pSoulKnight
 
+Package: tw.blogspot.myappios.ptalesrush
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/TalesRushApp0.1.1.deb
+Size: 12832826
+MD5sum: 221f1e2a260de6e3f06f8c351c4de030
+SHA1: 38c6a6756e34b207393d36a73d3da1f983d842b3
+SHA256: 84ac31665126d3cba07023e8eaffe9a98bd84572ef8f04700fcf3b8e6a71d8d7
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
+Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 5. Treasure number. 6. Treasure change.
+Author: ChengChung Tseng
+Name: pTalesRush
+
 Package: tw.blogspot.myappios.ptriglav
 Version: 0.1.2
 Architecture: iphoneos-arm
