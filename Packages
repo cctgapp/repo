@@ -366,6 +366,22 @@ Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, sp
 Author: ChengChung Tseng
 Name: pTriglav
 
+Package: tw.blogspot.myappios.pzooba
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ZoobaApp0.1.1.deb
+Size: 12794726
+MD5sum: 499a9c94dab380cc36bd1f57f58d6e60
+SHA1: 743a7983949b81d24c54be3cfa9b445a8b21c023
+SHA256: f0c8a68b4b1a497bcfd790015448270cdcd14bba01325a43d51ce4365a8aaee2
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
+Description: Zooba patch. 1. Enable map hack.
+Author: ChengChung Tseng
+Name: pZooba
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
