@@ -254,6 +254,22 @@ Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
 Author: ChengChung Tseng
 Name: pKGTW
 
+Package: tw.blogspot.myappios.plinechef
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/LineChefApp0.1.1.deb
+Size: 12803272
+MD5sum: a72531250c7360ec6fdf6e3f3b7c59f9
+SHA1: 8329f96bfe4c3e5f21377b61aaf1845392425320
+SHA256: e80cce493513439b59a6d5cb48c8fe0bb7a7cd6edf73952afb519a00730af665
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time.
+Author: ChengChung Tseng
+Name: pLineChef
+
 Package: tw.blogspot.myappios.pmwHK
 Version: 0.1.1
 Architecture: iphoneos-arm
