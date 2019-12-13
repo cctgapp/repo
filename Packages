@@ -302,6 +302,22 @@ Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. 
 Author: ChengChung Tseng
 Name: pLineChef
 
+Package: tw.blogspot.myappios.plinechef
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/LineChefApp0.1.4.deb
+Size: 12812760
+MD5sum: 8d21c380a69eb0b2334bcb74b5bb61ac
+SHA1: a584eb6b9d5f4ce6b9538a7c72557968644ff9b5
+SHA256: 7c28cf0d9b1cdb1b2ad8ecbd241390481872d4ad74b05abe56dd04d875a97bb5
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time.
+Author: ChengChung Tseng
+Name: pLineChef
+
 Package: tw.blogspot.myappios.pmwHK
 Version: 0.1.1
 Architecture: iphoneos-arm
