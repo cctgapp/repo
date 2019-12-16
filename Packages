@@ -319,18 +319,18 @@ Author: ChengChung Tseng
 Name: pLineChef
 
 Package: tw.blogspot.myappios.plinechef
-Version: 0.1.5
+Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.5.deb
-Size: 12810358
-MD5sum: 0f0b17f4a3b3f411cc94253e9de3f397
-SHA1: fac43e141ec8776ea815f4bdfdfd6e17c94f1424
-SHA256: b12acbe5713f4c9b38c37e09eddd9ac20bcec3e56b286c2ccc7a967c9bcd8348
+Filename: debs/LineChefApp0.1.6.deb
+Size: 12810110
+MD5sum: addb2555ac32017ad41e975c2451ee56
+SHA1: f072b834bb9265293f6f22e9ce89f3f02f859a99
+SHA256: f78b7827596a3030ee89a1d2b04f1ca7a1ce4541189d7922d15b2fcf04007e57
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Increase buddy's vip probability
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier.
 Author: ChengChung Tseng
 Name: pLineChef
 
