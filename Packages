@@ -478,6 +478,22 @@ Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, sp
 Author: ChengChung Tseng
 Name: pTriglav
 
+Package: tw.blogspot.myappios.ptriglav
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Triglav0.1.4.deb
+Size: 12848184
+MD5sum: 4ec8c09556586d979a929e4e6779c6bc
+SHA1: dfd17626601493279147f6e2fce8282ac3a912a4
+SHA256: 3dcfb0cbddeecf725d307ee8a527fe2f0f33cba90a9b4072003204064690924e
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
+Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X n, Gold X n.
+Author: ChengChung Tseng
+Name: pTriglav
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.1.1
 Architecture: iphoneos-arm
