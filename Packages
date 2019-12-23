@@ -494,6 +494,22 @@ Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, sp
 Author: ChengChung Tseng
 Name: pTriglav
 
+Package: tw.blogspot.myappios.pwcp
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/WhiteCatProject0.1.1.deb
+Size: 12852082
+MD5sum: 62fd5187af42af9434eef2cd48d8f1b3
+SHA1: 2e17c48260c0543e67b3ee5fd1b4ee7462a6b497
+SHA256: c068c7b0b225f2c73719545c5f059fab905421bb32979c15b8385223cad89656
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pwhilecatproject.html
+Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplier. 3. Add attack. 4. Add SP.
+Author: ChengChung Tseng
+Name: pWhiteCatProject
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.1.1
 Architecture: iphoneos-arm
