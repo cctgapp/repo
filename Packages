@@ -190,6 +190,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.pdod
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/DungeonOfDespair0.1.1.deb
+Size: 12821646
+MD5sum: 4f025263828678d99b6499eb8172fa82
+SHA1: 0fb983144401ae050805448534f5eb91b6107f03
+SHA256: e9861e17617da3b49987a45b47f24e848a56020cd14408a7aa5fbd8b1817aeca
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
+Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Author: ChengChung Tseng
+Name: pDOD
+
 Package: tw.blogspot.myappios.pfatego
 Version: 0.1.1
 Architecture: iphoneos-arm
