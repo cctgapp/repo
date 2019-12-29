@@ -222,6 +222,22 @@ Description: Fate/Grand Order patch. 1. One Hit Kill.
 Author: ChengChung Tseng
 Name: pFateGo
 
+Package: tw.blogspot.myappios.pherocantare
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HCGlobal0.1.1.deb
+Size: 12824956
+MD5sum: 4e2cb62a817ba0d16db87228ef83780b
+SHA1: 8ee90466802485c4d27a5751c022a2e83598d6f9
+SHA256: 8151f5abc3087c2e3d5da6d4d2f3b8ab8d84bf6f456c671630f63eaf53558a0a
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
+Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
+Author: ChengChung Tseng
+Name: pHeroCantare
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.1.5
 Architecture: iphoneos-arm
