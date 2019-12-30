@@ -190,6 +190,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.pcombatofhero
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CombatOfHero0.1.1.deb
+Size: 12822154
+MD5sum: 70d4af2e04500d3331684183f2d8534e
+SHA1: 1bb5a41a9466098b0fe7c346ac5e0ab7297ffc6f
+SHA256: 1c59de6884a0ab9ec73a5575361ff2758119376faef4aeed9ea33515acfa4f70
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
+Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
+Author: ChengChung Tseng
+Name: pCombatOfHero
+
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.1
 Architecture: iphoneos-arm
