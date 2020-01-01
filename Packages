@@ -238,6 +238,22 @@ Description: Fate/Grand Order patch. 1. One Hit Kill.
 Author: ChengChung Tseng
 Name: pFateGo
 
+Package: tw.blogspot.myappios.pgrandchase
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/GrandChase0.1.1.deb
+Size: 12817600
+MD5sum: fc90378b1aa4b3a0796b7931d35be448
+SHA1: 44f85975f1436219840e1912fa54d74a15bd42ea
+SHA256: 6b16631abe1b8dab0b3844ec2fa52fb364562a97ff7a7371b24b63d258859ce6
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
+Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
+Author: ChengChung Tseng
+Name: pGrandChase
+
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.1.1
 Architecture: iphoneos-arm
