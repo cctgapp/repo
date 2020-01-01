@@ -446,6 +446,22 @@ Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Ener
 Author: ChengChung Tseng
 Name: pSoulKnight
 
+Package: tw.blogspot.myappios.pstarwars
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/StarWars0.1.1.deb
+Size: 12852412
+MD5sum: 6c0930e248bcf75616dbf4725820d6ac
+SHA1: a9c4ad3c5d63d5e208803531aa6f3575b9e0a0e8
+SHA256: 0b3cd525f886d9335bb76e136d0a0b34f9f0f550a9b89bef34ba88f280117022
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/pstarwars.html
+Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
+Author: ChengChung Tseng
+Name: pStarWars
+
 Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.1
 Architecture: iphoneos-arm
