@@ -526,6 +526,22 @@ Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed mult
 Author: ChengChung Tseng
 Name: pTalesRush
 
+Package: tw.blogspot.myappios.ptalesrush
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/TalesRushApp0.1.4.deb
+Size: 12846952
+MD5sum: eef6cd77eeebdbc643dedf3272417ab5
+SHA1: b0ee7a4a4d0a455403bbe53d0511455fdb4a94f5
+SHA256: 4fe63bb9337a790474768f6a4ab0812b6dfa32f99dad73c241b77a7fc8a06c57
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
+Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
+Author: ChengChung Tseng
+Name: pTalesRush
+
 Package: tw.blogspot.myappios.ptriglav
 Version: 0.1.2
 Architecture: iphoneos-arm
