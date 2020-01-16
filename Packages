@@ -324,10 +324,10 @@ Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/KGTW0.1.7.deb
-Size: 12837636
-MD5sum: ff96ed916455a3475ca4403172957b1d
-SHA1: fe09dc394017406670f951c8715d651d1b4634ff
-SHA256: d4164ffa14d1d4b67ca51d38af36ff1db12b406f711b22c51edd3363f23efb6e
+Size: 12989196
+MD5sum: c818ee2fec9338a80237b259514f7d7f
+SHA1: 50aeae88c174eb385c8e425f89239b12a61ca19e
+SHA256: 73187f475da8a320b3f763040ab77ca3bb511059a83bede9a50ea76a972d18db
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
