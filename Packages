@@ -302,6 +302,22 @@ Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplie
 Author: ChengChung Tseng
 Name: pHeroCantare
 
+Package: tw.blogspot.myappios.phundredsoul
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HundredSoul0.1.1.deb
+Size: 12980086
+MD5sum: c8320c33d3f48bbeca531045e513d7d8
+SHA1: 6d6c324afd8e551b40505f1745da851513644368
+SHA256: 4b46715b083ec9b4a6ade87ed2fa8ac560e733b669c4cdee5b6adb9c8f02596c
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
+Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
+Author: ChengChung Tseng
+Name: pHundredSoul
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.1.5
 Architecture: iphoneos-arm
