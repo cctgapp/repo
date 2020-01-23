@@ -302,6 +302,22 @@ Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplie
 Author: ChengChung Tseng
 Name: pHeroCantare
 
+Package: tw.blogspot.myappios.pherocantare
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HCGlobal0.1.2.deb
+Size: 12963066
+MD5sum: 4d1d2e638704c2a05f0c9a2953aca68a
+SHA1: 0cd34153fe67334df260de4018d2043cd0b74a33
+SHA256: ae1ab88569a02f2a5d6c47b4582dcee2806f92bd7648b0f952532c36f3ad2439
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
+Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
+Author: ChengChung Tseng
+Name: pHeroCantare
+
 Package: tw.blogspot.myappios.phundredsoul
 Version: 0.1.1
 Architecture: iphoneos-arm
