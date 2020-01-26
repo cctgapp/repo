@@ -222,6 +222,22 @@ Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divi
 Author: ChengChung Tseng
 Name: pCombatOfHero
 
+Package: tw.blogspot.myappios.pcombatofhero
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CombatOfHero0.1.3.deb
+Size: 12972364
+MD5sum: 6b180465c85293f02fa373f0b34d44cc
+SHA1: 547a9f40423d5d201c2e6e95579d4750efd8124b
+SHA256: b195270d249ab1707856377a86b01ac1025dba693254c5bd3cda443d0dda4e4d
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
+Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
+Author: ChengChung Tseng
+Name: pCombatOfHero
+
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.1
 Architecture: iphoneos-arm
