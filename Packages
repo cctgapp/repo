@@ -350,6 +350,22 @@ Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
 Author: ChengChung Tseng
 Name: pHundredSoul
 
+Package: tw.blogspot.myappios.phundredsoul
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HundredSoul0.1.2.deb
+Size: 12980208
+MD5sum: e1dd640943734b9d5cc5f1ef371d8ce4
+SHA1: 8bd104cd43bb8d9a35b3228bc0fd28194bbc7273
+SHA256: 86e9dc4851e96ae549017019d2b4eaf27cc74c8d3830acd812249511547c8583
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
+Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
+Author: ChengChung Tseng
+Name: pHundredSoul
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.1.5
 Architecture: iphoneos-arm
