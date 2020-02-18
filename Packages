@@ -302,6 +302,22 @@ Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
 Author: ChengChung Tseng
 Name: pGrandChase
 
+Package: tw.blogspot.myappios.pgrandchase
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/GrandChase0.1.2.deb
+Size: 12947050
+MD5sum: c13ed3ffc4bd2fb6358aa16b903b1ee2
+SHA1: 61ff7f42df0b454618efb3df3bca764f2053e8cd
+SHA256: c6d72350f79c229ae9c4171edad73a9fc2f9d2aa9b3f54eddf0c3a0e861baa26
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
+Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
+Author: ChengChung Tseng
+Name: pGrandChase
+
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.1.1
 Architecture: iphoneos-arm
