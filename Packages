@@ -532,10 +532,10 @@ Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/LineChefApp0.1.7.deb
-Size: 12963326
-MD5sum: 72130eace3418c8318c0477b723d6dc3
-SHA1: 310e16fe0aebf9c7eb36d805f7093936ad273295
-SHA256: abe9923ec153b264fd446c65de6bdfc033b12b345eba21607cbeb68fff4f3185
+Size: 12963284
+MD5sum: c910189627b8768e0473e91fc52a3722
+SHA1: 80246033ff301907bf248fc3ea1619e1384f861f
+SHA256: cb52b33c834c61ec68bb2f60bc4601595f3bf1fa522bdb34df332733c4057c5f
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
 Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
