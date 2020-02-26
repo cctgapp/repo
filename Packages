@@ -638,6 +638,22 @@ Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Play
 Author: ChengChung Tseng
 Name: pStarWars
 
+Package: tw.blogspot.myappios.pstarwars
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/StarWars0.1.2.deb
+Size: 12958792
+MD5sum: d453b75809627d55131699061a7230ab
+SHA1: 8df434eb74bb5da82f7e2b1819ef741422bc2ac3
+SHA256: 32c08c0eb569704b94e38af638dc64f31b2cf611748670941dc7ec16f2659415
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/pstarwars.html
+Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
+Author: ChengChung Tseng
+Name: pStarWars
+
 Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.1
 Architecture: iphoneos-arm
