@@ -830,6 +830,22 @@ Description: Zooba patch. 1. Enable map hack.
 Author: ChengChung Tseng
 Name: pZooba
 
+Package: tw.blogspot.myappios.pzooba
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ZoobaApp0.1.2.deb
+Size: 12916394
+MD5sum: 83b7df5a6ce46ae8711320ea83230329
+SHA1: 252fb52f4ead4ba222a9bf289a51645c180f852e
+SHA256: 5f7f7289caa511f831ba920c1cdf9111a2dd2993c689e9681c40dbf9707de5be
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
+Description: Zooba patch. 1. Enable map hack.
+Author: ChengChung Tseng
+Name: pZooba
+
 Package: tw.blogspot.myappios.tmyfamiport
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
