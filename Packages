@@ -462,6 +462,22 @@ Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
 Author: ChengChung Tseng
 Name: pKGTW
 
+Package: tw.blogspot.myappios.pkgtw
+Version: 0.1.8
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KGTW0.1.8.deb
+Size: 12968282
+MD5sum: b45ff4a2bb96cec1ed4558d6d976db0f
+SHA1: 7e1f4844441041dee2adfc5e51f0f1419c344d92
+SHA256: e0521e70c5f94a2077afefd102ab08d4dd7ec1db336477eabfd06e691671f256
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
+Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
+Author: ChengChung Tseng
+Name: pKGTW
+
 Package: tw.blogspot.myappios.plinechef
 Version: 0.1.1
 Architecture: iphoneos-arm
