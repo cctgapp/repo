@@ -590,6 +590,22 @@ Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player atta
 Author: ChengChung Tseng
 Name: pmwHK
 
+Package: tw.blogspot.myappios.pnightagent
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/NightAgent0.1.1.deb
+Size: 12958980
+MD5sum: a922416ff164f5a5ad2836318c0ee9be
+SHA1: 238e871725d1355a320d387945a803043b7b7641
+SHA256: a618849490232ecc6a22339e33029a907f8dcbfd4441b6139d4240fd7a6fe00c
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
+Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
+Author: ChengChung Tseng
+Name: pNightAgent
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.1.1
 Architecture: iphoneos-arm
