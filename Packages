@@ -622,6 +622,22 @@ Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Rew
 Author: ChengChung Tseng
 Name: pRandomDice
 
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.1.2.deb
+Size: 13011498
+MD5sum: a37fdf8edcfa3a8a7fc45589bdcfcfea
+SHA1: 90cff33d4b662b123df920fba153ba3914a56f6b
+SHA256: 08a34e0acaba5dad9ea226879205d828678ca99577313aef51e59461bc5128bf
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy.
+Author: ChengChung Tseng
+Name: pRandomDice
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.1.1
 Architecture: iphoneos-arm
