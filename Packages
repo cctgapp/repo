@@ -574,6 +574,22 @@ Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: ChengChung Tseng
 Name: pNightAgent
 
+Package: tw.blogspot.myappios.pnightagent
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/NightAgent0.1.2.deb
+Size: 13041384
+MD5sum: 2a04e900bd98d87318e3667a4a94125c
+SHA1: 67d80824b3e58306b16bf085c6e4bbb927530950
+SHA256: 6226d546fd96a16dab7ffb4a9059c7d83b466ee803b4f04a8f4b14fe36b358d2
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
+Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
+Author: ChengChung Tseng
+Name: pNightAgent
+
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.1.1
 Architecture: iphoneos-arm
