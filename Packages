@@ -500,10 +500,10 @@ Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/KGTW0.5.0.deb
-Size: 13074206
-MD5sum: 116f007b0b4f8455cd7891db12a9e900
-SHA1: 4947b77118874e3e23a74575bdef8554b1f4c1ce
-SHA256: 45f1a4b1ca0b4f384bc70f3c7b660ab79c1e0665f8dd0e5347cc3c0107e6bb29
+Size: 13073998
+MD5sum: 77ea3bde655f07a57c32e8f86f71d63c
+SHA1: 19a609a08494b36a6760e54e74783fde9713fab8
+SHA256: 694b7500cc65bc10dacb1dc7eba8b514f004dd49fef022d1c059a796899d7bbb
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank.
