@@ -510,6 +510,22 @@ Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range
 Author: ChengChung Tseng
 Name: pKGTW
 
+Package: tw.blogspot.myappios.pkgtw
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KGTW0.5.1.deb
+Size: 13073790
+MD5sum: e406b8bc7a3d4b748650e0fb93f1a0a6
+SHA1: b27c950af6089c904ca486f415cac80f518bcb6d
+SHA256: 057c03453ac145f7b0b9a0c0768944ab052af31da31890268161d514a0a81d79
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
+Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank.
+Author: ChengChung Tseng
+Name: pKGTW
+
 Package: tw.blogspot.myappios.plinechef
 Version: 0.1.1
 Architecture: iphoneos-arm
