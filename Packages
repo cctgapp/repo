@@ -94,6 +94,22 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
+Package: tw.blogspot.myappios.parchero
+Version: 0.5.6
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Archero0.5.6.deb
+Size: 13055274
+MD5sum: 4bf0122e8bd56064790522fb8de8ef5c
+SHA1: 68a21bc0bf0979ee0fbfef4a15cfc49555910ad3
+SHA256: 58b31a54b19100ccae7de6458fca363d3fa3e77cbf03d00f40e2dfa52a926bc8
+Section: Apps
+Homepage: http://myappios.blogspot.com/2019/06/parchero.html
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
+Author: ChengChung Tseng
+Name: pArchero
+
 Package: tw.blogspot.myappios.pcombatofhero
 Version: 0.1.3
 Architecture: iphoneos-arm
@@ -152,6 +168,22 @@ Size: 12795092
 MD5sum: 02e41631c1dda93482ac109d91c97b57
 SHA1: 177b4d967a049220b2de36e351849c49f40a6cdf
 SHA256: 8b9357190e330db249898133788e13d38afd9950c0b620dab7083f77352e6af9
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/11/pfatego.html
+Description: Fate/Grand Order patch. 1. One Hit Kill.
+Author: ChengChung Tseng
+Name: pFateGo
+
+Package: tw.blogspot.myappios.pfatego
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/FateGoApp0.1.2.deb
+Size: 13037114
+MD5sum: 5be1a36dc71ad07c8502b5a1f35ba6ab
+SHA1: c70935fbb02499961c150e044b103a28b3d63972
+SHA256: d6bdcf701f8cfc542e950fad023f8ddf1e979cf10eab32efc825b9900023ee25
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pfatego.html
 Description: Fate/Grand Order patch. 1. One Hit Kill.
@@ -335,22 +367,6 @@ Author: ChengChung Tseng
 Name: pmwHK
 
 Package: tw.blogspot.myappios.pnightagent
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/NightAgent0.1.1.deb
-Size: 12958980
-MD5sum: a922416ff164f5a5ad2836318c0ee9be
-SHA1: 238e871725d1355a320d387945a803043b7b7641
-SHA256: a618849490232ecc6a22339e33029a907f8dcbfd4441b6139d4240fd7a6fe00c
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
-Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
-Author: ChengChung Tseng
-Name: pNightAgent
-
-Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -366,21 +382,21 @@ Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: ChengChung Tseng
 Name: pNightAgent
 
-Package: tw.blogspot.myappios.prandomdice
-Version: 0.1.1
+Package: tw.blogspot.myappios.pnightagent
+Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.1.1.deb
-Size: 12970770
-MD5sum: bcd8f92b5cc450486f19afa94a2c2d65
-SHA1: f900aff51df1de984f6e9bb0136d82831cae2a2f
-SHA256: 25b9bdf39b8bb6c1d43f63dc051075c68464ce7afc25bc7e92190d8e61afbbc1
+Filename: debs/NightAgent0.1.3.deb
+Size: 13043400
+MD5sum: 459c2a745c4c9deeb8de4afbbf2767e8
+SHA1: 0e1bdd3417efc1e57b44c9e194a203123e4a0a48
+SHA256: 928ea528430c92f3d0f3fc5deff8df88e3755ed99927e14a175a00da3e6141ef
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy.
+Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
+Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: ChengChung Tseng
-Name: pRandomDice
+Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.1.2
@@ -392,6 +408,22 @@ Size: 13011498
 MD5sum: a37fdf8edcfa3a8a7fc45589bdcfcfea
 SHA1: 90cff33d4b662b123df920fba153ba3914a56f6b
 SHA256: 08a34e0acaba5dad9ea226879205d828678ca99577313aef51e59461bc5128bf
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy.
+Author: ChengChung Tseng
+Name: pRandomDice
+
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.1.3.deb
+Size: 13067152
+MD5sum: 3759a25d2f34f779890179845ff7f721
+SHA1: 600ec5427fd6a93a8f4bf8e8ec4fc9825c08d751
+SHA256: 9cd3c6433536d534636a510b04278f7a0835bb0324635335869d95afadbf0bfb
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy.
@@ -543,22 +575,6 @@ Author: ChengChung Tseng
 Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pzooba
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.2.deb
-Size: 12916394
-MD5sum: 83b7df5a6ce46ae8711320ea83230329
-SHA1: 252fb52f4ead4ba222a9bf289a51645c180f852e
-SHA256: 5f7f7289caa511f831ba920c1cdf9111a2dd2993c689e9681c40dbf9707de5be
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
-Description: Zooba patch. 1. Enable map hack.
-Author: ChengChung Tseng
-Name: pZooba
-
-Package: tw.blogspot.myappios.pzooba
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -568,6 +584,22 @@ Size: 13033522
 MD5sum: 259742560845aea3d6b567a2ff263206
 SHA1: 33d8dbecaa7612660a344785377886c95224b40d
 SHA256: f6d192a2b53a2adbdba68ff4940a02e347748c62ad8ca35854c0e7ee36549d61
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
+Description: Zooba patch. 1. Enable map hack.
+Author: ChengChung Tseng
+Name: pZooba
+
+Package: tw.blogspot.myappios.pzooba
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ZoobaApp0.1.4.deb
+Size: 13035010
+MD5sum: 07f473783bd882d71b855ad5db0b443a
+SHA1: 921bfa348f092e1ff4b215e417ac0020421a6b16
+SHA256: 42dc0924ef707f67ca9b00eefda8f97bdc2f711423509699d4df042110b70693
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
 Description: Zooba patch. 1. Enable map hack.
