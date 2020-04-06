@@ -15,54 +15,6 @@ Author: cc
 Name: ccunboxd
 
 Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.2.0.deb
-Size: 31003788
-MD5sum: fb4be1cf3c3b332d16fd6e764dc7d121
-SHA1: ecf797bd3d50fc2aed13e5df8c5b705af7aba36a
-SHA256: eeae5d69967aee6998d47f77455a7f79f6464e70b12cf742cf85c4cde4a4f535
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.2.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.2.1.deb
-Size: 30231890
-MD5sum: c5e2d7d332d7baef8726420a3cff1367
-SHA1: 598aac29c84b5bf647a9cc16c0e7248f6e309aaf
-SHA256: c91d5fd69dddc1ad11ebc3e95defd7fcb01b7023adde4ee6560feabdceb75217
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.2.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.2.2.deb
-Size: 30231970
-MD5sum: 7fa774d077cc91f353936049115a1b0f
-SHA1: c341bb2b9d3ccf4547b0cd4b3e1eb50d7d356856
-SHA256: ddf28015a2c13d3deb8631df73c9ff49ab284a67397c7a0ad875e5da3874313d
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.2.3
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -111,70 +63,6 @@ Author: ChengChung Tseng
 Name: 神魔救星
 
 Package: tw.blogspot.myappios.parchero
-Version: 0.5.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.0.deb
-Size: 12960948
-MD5sum: 0ca376b0f0eb031e45ebdfc1c537456c
-SHA1: cea6358849e1cc2ef516bb7d1af60b93c3296438
-SHA256: a105ee11995009904f35128ad4cb185e6afaeacd7ea91c9234f50fd18a42d76e
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.5.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.1.deb
-Size: 12961284
-MD5sum: 8c872ed8fc83287b264842f4e3c99503
-SHA1: ea26502bb963d24886e0cca79468a462b2c7ee99
-SHA256: f3903499b9d5a45ab2c0c7f9e404bedff9f84c1451de08a9b3c6a6fa2aa5fa07
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.5.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.2.deb
-Size: 12825892
-MD5sum: 09f68326716295d066baf8f31c0eb76e
-SHA1: 654b3ed8eacba5084dc9171d983af3a8d805f5d3
-SHA256: 84252435b8d00d22b404a29110d2e0d6dc9594fc605e4cb66f02fac7dd60459b
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
-Version: 0.5.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.3.deb
-Size: 12849088
-MD5sum: 0c465359977d1ee48766f82d3a308fda
-SHA1: 03ece4d421aea280a764e74cc67540f22625430d
-SHA256: dc98f894dba46b51ac5dfb69cdf954e90c79dbf913ffdcc5bf2dff4bb3934114
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
 Version: 0.5.4
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -207,38 +95,6 @@ Author: ChengChung Tseng
 Name: pArchero
 
 Package: tw.blogspot.myappios.pcombatofhero
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CombatOfHero0.1.1.deb
-Size: 12822154
-MD5sum: 70d4af2e04500d3331684183f2d8534e
-SHA1: 1bb5a41a9466098b0fe7c346ac5e0ab7297ffc6f
-SHA256: 1c59de6884a0ab9ec73a5575361ff2758119376faef4aeed9ea33515acfa4f70
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
-Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
-Author: ChengChung Tseng
-Name: pCombatOfHero
-
-Package: tw.blogspot.myappios.pcombatofhero
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CombatOfHero0.1.2.deb
-Size: 12822290
-MD5sum: d882a38b4e04a8f99a40cd5c288619bc
-SHA1: 8657ce35b4af58fe5c0c43838b81a80e53788c08
-SHA256: dc80551106a9ff0afd59275ed0ad1cdb2fc541362a01ed48f01099ade3b99278
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
-Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
-Author: ChengChung Tseng
-Name: pCombatOfHero
-
-Package: tw.blogspot.myappios.pcombatofhero
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -253,22 +109,6 @@ Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
 Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
 Author: ChengChung Tseng
 Name: pCombatOfHero
-
-Package: tw.blogspot.myappios.pdod
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.1.deb
-Size: 12821646
-MD5sum: 4f025263828678d99b6499eb8172fa82
-SHA1: 0fb983144401ae050805448534f5eb91b6107f03
-SHA256: e9861e17617da3b49987a45b47f24e848a56020cd14408a7aa5fbd8b1817aeca
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
-Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
-Author: ChengChung Tseng
-Name: pDOD
 
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.2
@@ -383,22 +223,6 @@ Author: ChengChung Tseng
 Name: pHeroCantare
 
 Package: tw.blogspot.myappios.phundredsoul
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/HundredSoul0.1.1.deb
-Size: 12980086
-MD5sum: c8320c33d3f48bbeca531045e513d7d8
-SHA1: 6d6c324afd8e551b40505f1745da851513644368
-SHA256: 4b46715b083ec9b4a6ade87ed2fa8ac560e733b669c4cdee5b6adb9c8f02596c
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
-Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
-Author: ChengChung Tseng
-Name: pHundredSoul
-
-Package: tw.blogspot.myappios.phundredsoul
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -431,70 +255,6 @@ Author: ChengChung Tseng
 Name: pHundredSoul
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.1.9.deb
-Size: 13025388
-MD5sum: cc955412e0587219bd91af4f78dd10dd
-SHA1: df426cf6e6a224a481631a2beb9452b490db2c37
-SHA256: d218ba3bbc571fc248c9c4619090d6a5d46b007c1f3c0d5b7e8f19e814d1fc18
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
-Author: ChengChung Tseng
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.2.0.deb
-Size: 13059176
-MD5sum: 9b2bb0b8c02341ac95d89b0ee345cbd7
-SHA1: 03e0a5b573a3bbda4ebd2ab81790971d7cdba8d5
-SHA256: aa8b192f00602f73643bd923a6729101729d4d10f645cc262d56e17215146521
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
-Author: ChengChung Tseng
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
-Version: 0.3.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.3.0.deb
-Size: 13071202
-MD5sum: 25167404aa7f3cbd942476ae565ab36e
-SHA1: 5338aeb4099a203285edf1380d2b75d66df6e156
-SHA256: 073a8bb555f3674caadf1ad89e0a66798995af00ad791a1f9edef58a8f838816
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Arena Of Valor TW version patch. 1. Enable mpa hack.
-Author: ChengChung Tseng
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
-Version: 0.4.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.4.0.deb
-Size: 13073998
-MD5sum: 2559e8608d0e8ad3a00958e38410cf77
-SHA1: 1244ca582271ca22001cc73204cf820ec7ee3231
-SHA256: 331e0065e7ec4ae2aec49d05c4827b9cbf2fd1470a8ee14619719aea8fc19544
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill.
-Author: ChengChung Tseng
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
 Version: 0.5.0
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -525,70 +285,6 @@ Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank.
 Author: ChengChung Tseng
 Name: pKGTW
-
-Package: tw.blogspot.myappios.plinechef
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.1.deb
-Size: 12803272
-MD5sum: a72531250c7360ec6fdf6e3f3b7c59f9
-SHA1: 8329f96bfe4c3e5f21377b61aaf1845392425320
-SHA256: e80cce493513439b59a6d5cb48c8fe0bb7a7cd6edf73952afb519a00730af665
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time.
-Author: ChengChung Tseng
-Name: pLineChef
-
-Package: tw.blogspot.myappios.plinechef
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.2.deb
-Size: 12809220
-MD5sum: b1d727fd16454e90f56092767d679e7c
-SHA1: 08611677e7ed7cc8462121bc5e5d5352b70231cd
-SHA256: 6c91ef436f43b8ffbf14b7b60c315567df7184d2d563b2c0d7d5904822413ef9
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment.
-Author: ChengChung Tseng
-Name: pLineChef
-
-Package: tw.blogspot.myappios.plinechef
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.3.deb
-Size: 12809192
-MD5sum: 53790294f7d0ce143f48c88cec21bfbe
-SHA1: adfc618a6e421908f1a90fe66c73d69098d388c3
-SHA256: 2db78ac9ba749163523b31a00c5c0f5b9824c28361a1394c71aeb10c31ceea06
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment.
-Author: ChengChung Tseng
-Name: pLineChef
-
-Package: tw.blogspot.myappios.plinechef
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.4.deb
-Size: 12812760
-MD5sum: 8d21c380a69eb0b2334bcb74b5bb61ac
-SHA1: a584eb6b9d5f4ce6b9538a7c72557968644ff9b5
-SHA256: 7c28cf0d9b1cdb1b2ad8ecbd241390481872d4ad74b05abe56dd04d875a97bb5
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time.
-Author: ChengChung Tseng
-Name: pLineChef
 
 Package: tw.blogspot.myappios.plinechef
 Version: 0.1.6
@@ -703,38 +399,6 @@ Author: ChengChung Tseng
 Name: pRandomDice
 
 Package: tw.blogspot.myappios.psoulknight
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SoulKnight0.1.1.deb
-Size: 12927044
-MD5sum: 68b71beb33e02795fbbd83590f7b7c47
-SHA1: 3107884f0a57c41959dffe608f9c4c9861e11c0e
-SHA256: e18eae58f93e8348670e1627b118cddca071bbc71e847aeae9f27a9b56246b68
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Soul Knight patch. 1. At least 1 blood.
-Author: ChengChung Tseng
-Name: pSoulKnight
-
-Package: tw.blogspot.myappios.psoulknight
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SoulKnight0.1.2.deb
-Size: 12936266
-MD5sum: ecaf36560c13721340ff53395b66fca0
-SHA1: c2a02cca307aaa4e1ee6d2b5072611bec4eef176
-SHA256: db1827a30d9d88b49655307a1f4976c4a730d30c955728e16d42067cd394ce65
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Soul Knight patch. 1. At least 1 blood.
-Author: ChengChung Tseng
-Name: pSoulKnight
-
-Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -799,38 +463,6 @@ Author: ChengChung Tseng
 Name: pStarWars
 
 Package: tw.blogspot.myappios.ptalesrush
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/TalesRushApp0.1.1.deb
-Size: 12832826
-MD5sum: 221f1e2a260de6e3f06f8c351c4de030
-SHA1: 38c6a6756e34b207393d36a73d3da1f983d842b3
-SHA256: 84ac31665126d3cba07023e8eaffe9a98bd84572ef8f04700fcf3b8e6a71d8d7
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
-Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 5. Treasure number. 6. Treasure change.
-Author: ChengChung Tseng
-Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptalesrush
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/TalesRushApp0.1.2.deb
-Size: 12833522
-MD5sum: 9c4a86a081b901b6975885118568c87b
-SHA1: fbc19c9fac3a38d3c79086ae31aa938b3ef46caf
-SHA256: 41cd59dc053801557d463cc76666a85611e8c754b06075569fba776f91e6ebdd
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
-Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 5. Treasure number. 6. Treasure change.
-Author: ChengChung Tseng
-Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -861,38 +493,6 @@ Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
 Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
 Author: ChengChung Tseng
 Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptriglav
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Triglav0.1.2.deb
-Size: 12822426
-MD5sum: e5d33710b1b2482442235ead50c5b45b
-SHA1: 980595fdb6a62f08e309961de0f91fe41751b6ca
-SHA256: 2d88b8f68656635677a4a25b723fcaa950a187a5ba870a0080448fe234e9acd6
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special.
-Author: ChengChung Tseng
-Name: pTriglav
-
-Package: tw.blogspot.myappios.ptriglav
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Triglav0.1.3.deb
-Size: 12826198
-MD5sum: 5c344c186236e4f69715f832f867a964
-SHA1: e8b6f030c718effc26f5b4489866dc3d609a95b6
-SHA256: 4e76a09d7c1759c12aa17b2fe004147d6d1c07dfb6faaa3cc88c3a19da41665f
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X 2, Gold X 2.
-Author: ChengChung Tseng
-Name: pTriglav
 
 Package: tw.blogspot.myappios.ptriglav
 Version: 0.1.4
@@ -943,22 +543,6 @@ Author: ChengChung Tseng
 Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pzooba
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.1.deb
-Size: 12794726
-MD5sum: 499a9c94dab380cc36bd1f57f58d6e60
-SHA1: 743a7983949b81d24c54be3cfa9b445a8b21c023
-SHA256: f0c8a68b4b1a497bcfd790015448270cdcd14bba01325a43d51ce4365a8aaee2
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
-Description: Zooba patch. 1. Enable map hack.
-Author: ChengChung Tseng
-Name: pZooba
-
-Package: tw.blogspot.myappios.pzooba
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -990,22 +574,6 @@ Description: Zooba patch. 1. Enable map hack.
 Author: ChengChung Tseng
 Name: pZooba
 
-Package: tw.blogspot.myappios.tmyfamiport
-Version: 0.0.1-11+debug
-Architecture: iphoneos-arm
-Maintainer: Cheng-Chung Tseng
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: debs/tw.blogspot.myappios.tmyfamiport_0.0.1-11+debug_iphoneos-arm.deb
-Size: 3240
-MD5sum: e4685c879ad5abaaffdb38328f60a072
-SHA1: 20b520b04b24ecd447a85009385691cf026720ee
-SHA256: 105d8fafc711af053ff363178ca2ea4b6e2b64025e90f25927ec145e8e32912c
-Section: Tweaks
-Description: Bypass JB detection for the app MyFamiPort
-Author: Cheng-Chung Tseng
-Name: tmyfamiport
-
 Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.6.1
 Architecture: iphoneos-arm
@@ -1032,6 +600,22 @@ Size: 13535556
 MD5sum: 3d1b187dae9d0636b9682b46d8f8b691
 SHA1: 0d0f45648c63738d1c7195b7154f1e96df0e86e2
 SHA256: 8628021bdff78a49b6ea6dc280677a0c1cbfdd82a097b5922b46214e10a46cef
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
+Author: ChengChung Tseng
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.7.0
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.7.0.deb
+Size: 13571104
+MD5sum: fd6acc9e21f7b895fe89015177e5a930
+SHA1: e46c3baaa324cbe63097c94ff2539a97dc837f84
+SHA256: 32dedd3b5eda3b3ccf7d6dac713f6a2384bb7511cec59625aee2eb50ccbdd302
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
