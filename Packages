@@ -111,31 +111,15 @@ Author: ChengChung Tseng
 Name: pCombatOfHero
 
 Package: tw.blogspot.myappios.pdod
-Version: 0.1.2
+Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.2.deb
-Size: 12959170
-MD5sum: e9063899dc8620da6504a87796be4dd5
-SHA1: c9ef8834c231817f246a24f38a97f8f166dbdd63
-SHA256: 3464fd3b8ab001ec00375ed07822d6117b5835f7089016bdcde7e0e84b1329a6
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
-Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
-Author: ChengChung Tseng
-Name: pDOD
-
-Package: tw.blogspot.myappios.pdod
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.3.deb
-Size: 12919732
-MD5sum: 4dedf667c19fd9c620a89b82821c103a
-SHA1: b8371c667df9532cc2aef1b3b5ce0abed25bbfab
-SHA256: a31ca81e9af0694d67d6ae07a4f3cb3549b3e3b0a5a067ba39fcb248d8218220
+Filename: debs/DungeonOfDespair0.1.4.deb
+Size: 13060192
+MD5sum: cf3de44dc4d3c2cbe16bcd96ae003dad
+SHA1: 9557bfebed18bc08b09f6fc58290309b5319b325
+SHA256: e22c9b90ce1b9d60c4f425b71468a18ef2836ce00304b18e3d4024158514c809
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
 Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
