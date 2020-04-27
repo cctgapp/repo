@@ -334,6 +334,22 @@ Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. 
 Author: ChengChung Tseng
 Name: pLineChef
 
+Package: tw.blogspot.myappios.pmaplestorym
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MapleStoryM0.1.1.deb
+Size: 13098824
+MD5sum: 609922e399e39771eb712b4f5d0f28d1
+SHA1: 173e0ba910e9319c176d1cdd191abe84f7c5cb54
+SHA256: 1d63a80a4668c062a11b054cba7fb5ad0a3bc5b6dc9d645e7e670680a95a7868
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/04/pmaplestorym.html
+Description: Maple Story M patch. 1. HP 9999. 2. Mana 9999. 3. Attack 9999. 4. Defense 9999.
+Author: ChengChung Tseng
+Name: pMapleStoryM
+
 Package: tw.blogspot.myappios.pmwHK
 Version: 0.1.1
 Architecture: iphoneos-arm
