@@ -334,22 +334,6 @@ Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. 
 Author: ChengChung Tseng
 Name: pLineChef
 
-Package: tw.blogspot.myappios.pmaplestorym
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/MapleStoryM0.1.1.deb
-Size: 13098824
-MD5sum: 609922e399e39771eb712b4f5d0f28d1
-SHA1: 173e0ba910e9319c176d1cdd191abe84f7c5cb54
-SHA256: 1d63a80a4668c062a11b054cba7fb5ad0a3bc5b6dc9d645e7e670680a95a7868
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/04/pmaplestorym.html
-Description: Maple Story M patch. 1. HP 9999. 2. Mana 9999. 3. Attack 9999. 4. Defense 9999.
-Author: ChengChung Tseng
-Name: pMapleStoryM
-
 Package: tw.blogspot.myappios.pmwHK
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -445,6 +429,22 @@ Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection.
 Author: ChengChung Tseng
 Name: pRandomDice
+
+Package: tw.blogspot.myappios.prod
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ROD0.1.1.deb
+Size: 13106756
+MD5sum: 1354475bcc215e9816bf5377d1d4aba4
+SHA1: 8345b38d709b1cdc700c900e6e5e0d34b8720c0a
+SHA256: 0d29ce9124140d18658b7adb13228a6154acf64eaca44b063378546abdddd50e
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/prod.html
+Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
+Author: ChengChung Tseng
+Name: pROD
 
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.1
