@@ -367,22 +367,6 @@ Author: ChengChung Tseng
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.1.3.deb
-Size: 13067152
-MD5sum: 3759a25d2f34f779890179845ff7f721
-SHA1: 600ec5427fd6a93a8f4bf8e8ec4fc9825c08d751
-SHA256: 9cd3c6433536d534636a510b04278f7a0835bb0324635335869d95afadbf0bfb
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy.
-Author: ChengChung Tseng
-Name: pRandomDice
-
-Package: tw.blogspot.myappios.prandomdice
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -414,6 +398,22 @@ Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Rew
 Author: ChengChung Tseng
 Name: pRandomDice
 
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.2.2.deb
+Size: 13144946
+MD5sum: 6e91e45916a06d336cd06ee288bbb20d
+SHA1: b41e3a2a33b753475c0076006ce4b921ec9b64f6
+SHA256: 8427989975e7310e781e19c7521212434059b58c418778acee8246ac617892ad
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection.
+Author: ChengChung Tseng
+Name: pRandomDice
+
 Package: tw.blogspot.myappios.prod
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -424,6 +424,22 @@ Size: 13106756
 MD5sum: 1354475bcc215e9816bf5377d1d4aba4
 SHA1: 8345b38d709b1cdc700c900e6e5e0d34b8720c0a
 SHA256: 0d29ce9124140d18658b7adb13228a6154acf64eaca44b063378546abdddd50e
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/prod.html
+Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
+Author: ChengChung Tseng
+Name: pROD
+
+Package: tw.blogspot.myappios.prod
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ROD0.1.2.deb
+Size: 13122114
+MD5sum: 68574de7dbf22138d645bd0a6c588545
+SHA1: c882fbac7619b64b991cf4e62f39446f295c69b1
+SHA256: a106c4c33beee8241bb26afdc3a9ac1c417b05b51a2ce3c3f6111a124867af0d
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/05/prod.html
 Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
@@ -664,6 +680,22 @@ Size: 13602602
 MD5sum: d223c8933819a5bde3b8f7c8bf2a2c77
 SHA1: f13f69cc7094bc2e09a9dccda0c7970c3cb40ad6
 SHA256: 6163f9fb0531fb4011fb84715b72cc4ba422e04ee6e4bd2b1c30acd1605c8d70
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
+Author: ChengChung Tseng
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.7.4
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.7.4.deb
+Size: 13617012
+MD5sum: 5e7bc30a9683dbf921706b6c40b695e6
+SHA1: 08e0889b04d86edd081276fc6a31e7e5a46e135e
+SHA256: 0ef4c4949f8f3ad5790bb6dcab6ac3e2967b5eb1524d0f131c0dce4b39829065
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
