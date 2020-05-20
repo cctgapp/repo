@@ -511,22 +511,6 @@ Author: ChengChung Tseng
 Name: pStarWars
 
 Package: tw.blogspot.myappios.ptalesrush
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/TalesRushApp0.1.4.deb
-Size: 12846952
-MD5sum: eef6cd77eeebdbc643dedf3272417ab5
-SHA1: b0ee7a4a4d0a455403bbe53d0511455fdb4a94f5
-SHA256: 4fe63bb9337a790474768f6a4ab0812b6dfa32f99dad73c241b77a7fc8a06c57
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
-Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
-Author: ChengChung Tseng
-Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -536,6 +520,22 @@ Size: 13100002
 MD5sum: afd0b4e388c9dff4513a6a50cc87c754
 SHA1: a5bf7780f03e85f0c8476ee01f7009645c2d2402
 SHA256: 6577961b4b02afcb24b3bc1d1f99466ab99e7ec7065f282372eddc3b0690c826
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
+Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
+Author: ChengChung Tseng
+Name: pTalesRush
+
+Package: tw.blogspot.myappios.ptalesrush
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/TalesRushApp0.1.6.deb
+Size: 13122468
+MD5sum: 6142cc493b3dafeb0b4af158a8b9a301
+SHA1: 3d800bc86eaa65c10218d819e72f3ed2f829b9b2
+SHA256: 4709dc7826282809f78cce3d35a061a8967050773b85cb2923221883c03146a0
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
 Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
