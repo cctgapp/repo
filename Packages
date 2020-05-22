@@ -254,6 +254,22 @@ Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
 Author: ChengChung Tseng
 Name: pHundredSoul
 
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.1.1.deb
+Size: 11411878
+MD5sum: a4de91159f9575680a5639bd43f44d31
+SHA1: aa01612e47ba35c04ca7bc2167eb2cc7d94b31fb
+SHA256: 677534c91bd728aebc5ad89dfef673905020a2c4ebe17c69722153fb6559b41a
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease.
+Author: ChengChung Tseng
+Name: pKartRiderRush
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.7.0
 Architecture: iphoneos-arm
