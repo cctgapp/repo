@@ -255,22 +255,6 @@ Author: ChengChung Tseng
 Name: pHundredSoul
 
 Package: tw.blogspot.myappios.pkartriderrush
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KartRiderRush0.1.1.deb
-Size: 11411878
-MD5sum: a4de91159f9575680a5639bd43f44d31
-SHA1: aa01612e47ba35c04ca7bc2167eb2cc7d94b31fb
-SHA256: 677534c91bd728aebc5ad89dfef673905020a2c4ebe17c69722153fb6559b41a
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
-Description: KartRiderRush+ patch. 1.Nitrogen don't decrease.
-Author: ChengChung Tseng
-Name: pKartRiderRush
-
-Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -283,6 +267,22 @@ SHA256: cde0b679b017d0be5b811a6a73554c5f0469b3669f6b6cff7f2a5e6a4f80059c
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Full gauge.
+Author: ChengChung Tseng
+Name: pKartRiderRush
+
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.2.1.deb
+Size: 11417864
+MD5sum: d5ae2066e70912f76e08e473bfad8b6d
+SHA1: 880c6234174eaafa388328ef7a42ae64dfaa12a8
+SHA256: 9ff582d35b7d7d5778683c5662fbebf3f59d16fc867ab3957b651fd222ea4222
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
 Author: ChengChung Tseng
 Name: pKartRiderRush
 
