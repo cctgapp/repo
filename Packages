@@ -286,6 +286,22 @@ Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge accelerat
 Author: ChengChung Tseng
 Name: pKartRiderRush
 
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.2.2.deb
+Size: 11417852
+MD5sum: 4aafe434bb7109e6ab5fcd757273b088
+SHA1: c67ee6e326f0478219df7b46e4d6d34f6767b131
+SHA256: 9babafd023d96ee5eb1055840eb032bec01c72af147aeccf36a78ae2ce9a6129
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
+Author: ChengChung Tseng
+Name: pKartRiderRush
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.7.0
 Architecture: iphoneos-arm
