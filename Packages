@@ -510,6 +510,22 @@ Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhanc
 Author: ChengChung Tseng
 Name: pROD
 
+Package: tw.blogspot.myappios.pslamdunk
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SlamDunk0.1.1.deb
+Size: 11435448
+MD5sum: e3e8a0572e60ecbecb85c9495f3ef9ea
+SHA1: 273c9e5f7d3a137952886f694068eb3cfa854e8a
+SHA256: 9c0a9b99f689d22c50075ef345be88e4a8ef0a365ee70150c6ff0a4ceb527071
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
+Description: SLAM DUNK patch. 1.Minus CD. 2. Perfect shot.
+Author: ChengChung Tseng
+Name: pSlamDunk
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.1
 Architecture: iphoneos-arm
