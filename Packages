@@ -526,6 +526,22 @@ Description: SLAM DUNK patch. 1.Minus CD. 2. Perfect shot.
 Author: ChengChung Tseng
 Name: pSlamDunk
 
+Package: tw.blogspot.myappios.pslamdunk
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SlamDunk0.1.2.deb
+Size: 11446734
+MD5sum: 2948be7800545f43d10e57d545988a39
+SHA1: 10cc5c132fc583299b7fefc1351cd1e40da6fb56
+SHA256: 97fa0ec26de23e209411ef28cca680d42c5e51a49db8c8866fb03d413f3a05b4
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
+Description: SLAM DUNK patch. 1.Minus CD（NG）. 2. Perfect shot（NG）. 3. Set Property value.
+Author: ChengChung Tseng
+Name: pSlamDunk
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.1
 Architecture: iphoneos-arm
