@@ -398,6 +398,22 @@ Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player atta
 Author: ChengChung Tseng
 Name: pmwHK
 
+Package: tw.blogspot.myappios.pmwHK
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MakaiWars0.1.2.deb
+Size: 13115306
+MD5sum: e49eb6fcc6ba30d9dff7cb8cc98cde6d
+SHA1: 5199674611386f5224875bdaf8527bcda882dd9e
+SHA256: 3e6e2d21232de97a3dd7c9243fdad6f8600f0aa7f37afff4e00443096d6e11f9
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/10/pmwhk.html
+Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
+Author: ChengChung Tseng
+Name: pmwHK
+
 Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.2
 Architecture: iphoneos-arm
