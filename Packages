@@ -159,22 +159,6 @@ Author: ChengChung Tseng
 Name: pFateGo
 
 Package: tw.blogspot.myappios.pgrandchase
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/GrandChase0.1.1.deb
-Size: 12817600
-MD5sum: fc90378b1aa4b3a0796b7931d35be448
-SHA1: 44f85975f1436219840e1912fa54d74a15bd42ea
-SHA256: 6b16631abe1b8dab0b3844ec2fa52fb364562a97ff7a7371b24b63d258859ce6
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
-Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
-Author: ChengChung Tseng
-Name: pGrandChase
-
-Package: tw.blogspot.myappios.pgrandchase
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -184,6 +168,22 @@ Size: 12947050
 MD5sum: c13ed3ffc4bd2fb6358aa16b903b1ee2
 SHA1: 61ff7f42df0b454618efb3df3bca764f2053e8cd
 SHA256: c6d72350f79c229ae9c4171edad73a9fc2f9d2aa9b3f54eddf0c3a0e861baa26
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
+Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
+Author: ChengChung Tseng
+Name: pGrandChase
+
+Package: tw.blogspot.myappios.pgrandchase
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/GrandChase0.1.3.deb
+Size: 13100918
+MD5sum: 6fd838ce44e5d2f80715eecbfc686ead
+SHA1: d2914e079e50b0a6d1c2b0b6cb30ec7e0fe4d0cf
+SHA256: 14ea83d7f13a79ba5071f108e958ec7c62dda09a17003e34d733d69cf0dabc17
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
 Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
