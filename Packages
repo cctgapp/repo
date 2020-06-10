@@ -351,22 +351,6 @@ Author: ChengChung Tseng
 Name: pKGTW
 
 Package: tw.blogspot.myappios.plinechef
-Version: 0.1.6
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.6.deb
-Size: 12810110
-MD5sum: addb2555ac32017ad41e975c2451ee56
-SHA1: f072b834bb9265293f6f22e9ce89f3f02f859a99
-SHA256: f78b7827596a3030ee89a1d2b04f1ca7a1ce4541189d7922d15b2fcf04007e57
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier.
-Author: ChengChung Tseng
-Name: pLineChef
-
-Package: tw.blogspot.myappios.plinechef
 Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -376,6 +360,22 @@ Size: 12963284
 MD5sum: c910189627b8768e0473e91fc52a3722
 SHA1: 80246033ff301907bf248fc3ea1619e1384f861f
 SHA256: cb52b33c834c61ec68bb2f60bc4601595f3bf1fa522bdb34df332733c4057c5f
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
+Author: ChengChung Tseng
+Name: pLineChef
+
+Package: tw.blogspot.myappios.plinechef
+Version: 0.1.8
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/LineChefApp0.1.8.deb
+Size: 13112916
+MD5sum: 93e3f31524f12bb43942976302a4e7d1
+SHA1: 698c0b38cb4318ac6ea2ee22b4b52dd58676f62d
+SHA256: 3b609568c22ca3e22d97da92232113f3645a97af01c24a5a1aba091102d649d7
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
 Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
