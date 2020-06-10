@@ -702,6 +702,22 @@ Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplie
 Author: ChengChung Tseng
 Name: pWhiteCatProject
 
+Package: tw.blogspot.myappios.pwcp
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/WhiteCatProject0.1.2.deb
+Size: 13129508
+MD5sum: 69173a492c036978358819257d248c08
+SHA1: daba331aefa899d70ff9192c1e70d12248456cda
+SHA256: b81758bb33264fa6f31f1e8cef86bad064418dd22d03f384768a3717dc1667f4
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pwhilecatproject.html
+Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplier. 3. Add attack. 4. Add SP.
+Author: ChengChung Tseng
+Name: pWhiteCatProject
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.1.3
 Architecture: iphoneos-arm
