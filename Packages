@@ -126,6 +126,22 @@ Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: ChengChung Tseng
 Name: pDOD
 
+Package: tw.blogspot.myappios.pdod
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/DungeonOfDespair0.1.5.deb
+Size: 13091928
+MD5sum: f2820604b7045f02c89e52b092f6f8e3
+SHA1: de6ae10bf2df4dc59d23d1ff0cddd78c35dd0a66
+SHA256: 0ea613c9e0fc6cd05c09fcac4b096b8d784785c557f1341d98b54a0083550511
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
+Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Author: ChengChung Tseng
+Name: pDOD
+
 Package: tw.blogspot.myappios.pfatego
 Version: 0.1.1
 Architecture: iphoneos-arm
