@@ -751,38 +751,6 @@ Author: ChengChung Tseng
 Name: pZooba
 
 Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.7.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.7.3.deb
-Size: 13602602
-MD5sum: d223c8933819a5bde3b8f7c8bf2a2c77
-SHA1: f13f69cc7094bc2e09a9dccda0c7970c3cb40ad6
-SHA256: 6163f9fb0531fb4011fb84715b72cc4ba422e04ee6e4bd2b1c30acd1605c8d70
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.7.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.7.4.deb
-Size: 13617012
-MD5sum: 5e7bc30a9683dbf921706b6c40b695e6
-SHA1: 08e0889b04d86edd081276fc6a31e7e5a46e135e
-SHA256: 0ef4c4949f8f3ad5790bb6dcab6ac3e2967b5eb1524d0f131c0dce4b39829065
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.7.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -795,6 +763,22 @@ SHA256: a2190595e249b4c0c895db9f63d5ccb6b8588219188ceffd9b83b8342e342f45
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0.
+Author: ChengChung Tseng
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.8.0
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.8.0.deb
+Size: 13637886
+MD5sum: 683b0f8164efab3c3d27ede4da789cc9
+SHA1: 5e6e3368b27bd37658edba91791cb46b560bcda0
+SHA256: 2137f417e3af1fa3723945312a25ffd0cdcb93c0cef02494e1fb2d93188d8ca2
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
 Author: ChengChung Tseng
 Name: tosp設定
 
