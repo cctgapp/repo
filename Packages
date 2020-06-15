@@ -463,22 +463,6 @@ Author: ChengChung Tseng
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
-Version: 0.2.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.2.3.deb
-Size: 13157756
-MD5sum: 602097e51bf3e2fce3e32f1f006b9f24
-SHA1: be2e2c53793c4a512df5e710b99b3753554d0a4b
-SHA256: 132a66997d554ab6453f381a83433cd403a898ae56acb0f6db6e38f86f2983a0
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection.
-Author: ChengChung Tseng
-Name: pRandomDice
-
-Package: tw.blogspot.myappios.prandomdice
 Version: 0.2.4
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -491,6 +475,22 @@ SHA256: 67cd9cae73a6a58dd57ef95faf3259f72232813f12c2b24e8f8e98fa259c4c4e
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection.
+Author: ChengChung Tseng
+Name: pRandomDice
+
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.3.0.deb
+Size: 13163272
+MD5sum: ed54725be24cc0329660f74f712679d6
+SHA1: 2b10a5d282c639b81cb77cf84c2794c229a991a5
+SHA256: 6c894991fe621aff74781e71c4834b7041f6bcfcc4f5f904535291f4783ecd48
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
 Author: ChengChung Tseng
 Name: pRandomDice
 
