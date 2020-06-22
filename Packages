@@ -335,15 +335,15 @@ Author: ChengChung Tseng
 Name: pKGTW
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.1
+Version: 0.8.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.8.1.deb
-Size: 11458352
-MD5sum: 953d16e7602f3f4e48809d5152635f7c
-SHA1: a04b1a4e1e6b7aa737aca54ea2d83334f7770237
-SHA256: 99ef0160ce2504a10b9f1387e570d6935c89af377008ef71948a597bc2953cf2
+Filename: debs/KGTW0.8.2.deb
+Size: 11458278
+MD5sum: 2730e49249790aac51b169249ef46676
+SHA1: ec885250580207f54b5c143a546dcdd6bf37d70e
+SHA256: 45f79ae8027bc11f43104e791b7b56fdf9eea4452f1e8a361836e2046c192e27
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
@@ -355,11 +355,11 @@ Version: 0.8.2
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.8.2.deb
-Size: 11458278
-MD5sum: 2730e49249790aac51b169249ef46676
-SHA1: ec885250580207f54b5c143a546dcdd6bf37d70e
-SHA256: 45f79ae8027bc11f43104e791b7b56fdf9eea4452f1e8a361836e2046c192e27
+Filename: debs/KGTW0.8.3.deb
+Size: 11458154
+MD5sum: 18f06efa334d7779cf8e0e8bcaba0798
+SHA1: 6a657e120dd244461cd82e810ed66bb045803395
+SHA256: 28c402359d6e17df2b4370fa3ba67700628d31fc636d24f1310a8ad00574e36d
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
