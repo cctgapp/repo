@@ -270,6 +270,22 @@ Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
 Author: ChengChung Tseng
 Name: pHundredSoul
 
+Package: tw.blogspot.myappios.phunter
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Hunter0.1.1.deb
+Size: 11423244
+MD5sum: 9a8d68f0b9bb16dcf2bfa79808686f62
+SHA1: 9589204b6d44190f0d42004afd0e553b68879d47
+SHA256: 2e6d0f9ca948278fce395e11cf276372939fb79cebc3dc40b2cc019c64599ca0
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/07/phunter.html
+Description: Hunter x Hunter patch. Support patch following values: 1. Strength, 2.Intelligent, 3. Spiritual, 4. Dexterity, 5. Physical Damage, 6. Magical Damage, 7. Armor, 8. Resist, 9. Max HP, 10. Max MP.
+Author: ChengChung Tseng
+Name: pHunter
+
 Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.0
 Architecture: iphoneos-arm
