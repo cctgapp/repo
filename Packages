@@ -286,6 +286,22 @@ Description: Hunter x Hunter patch. Support patch following values: 1. Strength,
 Author: ChengChung Tseng
 Name: pHunter
 
+Package: tw.blogspot.myappios.phunter
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Hunter0.1.2.deb
+Size: 11423004
+MD5sum: bfb683175609af1581dd6326bf130c53
+SHA1: 209afd398bdacd3bb0a8bafac3b9424285121e4d
+SHA256: 070d7f872a8e18e2e7b3a0732355213729dc530e6f8a4a275587c0fb7fb20bce
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/07/phunter.html
+Description: Hunter x Hunter patch. Support patch following values: 1. Strength, 2.Intelligent, 3. Spiritual, 4. Dexterity, 5. Physical Damage, 6. Magical Damage, 7. Armor, 8. Resist, 9. Max HP, 10. Max MP.
+Author: ChengChung Tseng
+Name: pHunter
+
 Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.0
 Architecture: iphoneos-arm
