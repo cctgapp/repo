@@ -543,22 +543,6 @@ Author: ChengChung Tseng
 Name: pROD
 
 Package: tw.blogspot.myappios.pslamdunk
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SlamDunk0.1.4.deb
-Size: 11441360
-MD5sum: 908de2ab56facf361faa4ea1c6d42240
-SHA1: 17d9485875f439ba6e5ba46b4be29d9f3a65313b
-SHA256: c9c7580f2a2dffe9281cfe85bc65dce73231672ad04d3d99393d5857ed10db78
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
-Description: SLAM DUNK patch. 1. Set Property value.
-Author: ChengChung Tseng
-Name: pSlamDunk
-
-Package: tw.blogspot.myappios.pslamdunk
 Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -568,6 +552,22 @@ Size: 11460702
 MD5sum: e6dc6fef2f5e0bd9d97cb16f4bb55dc9
 SHA1: c8ea242b067d2fc3a22857e521cbe71c051ec9b3
 SHA256: 4b97c807b817d00c23898bf8dbb08ef1c320d5b5dcedcbd84d3c05a35fe6b2a3
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
+Description: SLAM DUNK patch. 1. Set Property value.
+Author: ChengChung Tseng
+Name: pSlamDunk
+
+Package: tw.blogspot.myappios.pslamdunk
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SlamDunk0.1.6.deb
+Size: 11465532
+MD5sum: c125e8cf76c1236ef5ec174793e30379
+SHA1: b8d680b5a5cd8c3a8a0424f718b2b6a506f2b90d
+SHA256: 2ca2b61dab61caec10ecaf8777dbf61d63c92cffba9af9518045c1c26fdccb85
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
 Description: SLAM DUNK patch. 1. Set Property value.
