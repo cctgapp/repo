@@ -500,10 +500,10 @@ Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/RandomDice0.3.0.deb
-Size: 11493698
-MD5sum: f0e821e4faa5d17edd7beed33706a2a1
-SHA1: 2137ed9b0200a077a6f70099f3dde89aa10d0acf
-SHA256: 273e958c65681815ecdf78a9a449d6fdba4ca25e4c2ca8baa65f9af644f47e04
+Size: 11495536
+MD5sum: 8c804316f36fc9865a60b34c7610ef44
+SHA1: 442139ad6baaedf1a1da4cadf5847fd0149da1ac
+SHA256: 7698c150f356b08ca486425a7e1cb9dc89adb2587f77eb572e6e48c3c6b2dfbe
 Section: Apps
 Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
