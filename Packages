@@ -799,22 +799,6 @@ Author: ChengChung Tseng
 Name: tosp設定
 
 Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.3.deb
-Size: 11934048
-MD5sum: 9049b7a6b9a8eef3862fd762f65767a5
-SHA1: 3b5d879f8286ca4159a201095a4c5240d1d11038
-SHA256: 2aee19b43248b33d966a3d00cbc62bb92ecdea79dc90a3217952e93bfb0feccc
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.8.4
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -824,6 +808,22 @@ Size: 11926308
 MD5sum: eb3d3086df17e330bfdb64b08c6072f3
 SHA1: 82a7f22466a3ccd2d3bfbf393047f1fe549c634d
 SHA256: f8c0f33187a89dfbedcc2d712c8e41cc2e2ffbbf5f5bdee766bfb001958725a1
+Section: Apps
+Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
+Author: ChengChung Tseng
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.8.5
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.8.5.deb
+Size: 11926320
+MD5sum: 7dd23853871a44278113aae82c41d675
+SHA1: 3d56e9f1837a9e58cf3deecee9596f3221c858b5
+SHA256: 364c260599fc42da4b24c10e29be288eb8d594a78edf7e667592eb042da4c55b
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
