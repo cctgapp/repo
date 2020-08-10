@@ -94,22 +94,6 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: ChengChung Tseng
 Name: pArchero
 
-Package: tw.blogspot.myappios.pcombatofhero
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CombatOfHero0.1.3.deb
-Size: 12972364
-MD5sum: 6b180465c85293f02fa373f0b34d44cc
-SHA1: 547a9f40423d5d201c2e6e95579d4750efd8124b
-SHA256: b195270d249ab1707856377a86b01ac1025dba693254c5bd3cda443d0dda4e4d
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
-Description: Combat Of Hero patch. 1. Player ap multiplier. 2. Damage taken divisor. 3. Gold multiplier.
-Author: ChengChung Tseng
-Name: pCombatOfHero
-
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.4
 Architecture: iphoneos-arm
@@ -303,22 +287,6 @@ Author: ChengChung Tseng
 Name: pHunter
 
 Package: tw.blogspot.myappios.pkartriderrush
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KartRiderRush0.2.0.deb
-Size: 11416056
-MD5sum: b4245bea4c5a7e8f50df396e8c086a74
-SHA1: 45c84da644934b5a5370cc9b810db1789afe18e3
-SHA256: cde0b679b017d0be5b811a6a73554c5f0469b3669f6b6cff7f2a5e6a4f80059c
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
-Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Full gauge.
-Author: ChengChung Tseng
-Name: pKartRiderRush
-
-Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -446,6 +414,22 @@ Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player atta
 Author: ChengChung Tseng
 Name: pmwHK
 
+Package: tw.blogspot.myappios.pmyhero
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: ChengChung Tseng
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MyHeros0.1.1.deb
+Size: 11434752
+MD5sum: 8b0366574b387fb40a296122ff5cbacd
+SHA1: 814e143bf8bfed0821ec13871bf517f6b3f8978e
+SHA256: b66a6455df936a26a55c2259ecef90d98d01e7941a631130380e016ad8d478ce
+Section: Apps
+Homepage: https://myappios.blogspot.com/2020/08/myheros.html
+Description: My Heros patch. 1. Attack multiplier. 2. Drop(Gold) multiplier. 3. Enemy attack divisor.
+Author: ChengChung Tseng
+Name: pMyHeros
+
 Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -477,22 +461,6 @@ Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
 Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: ChengChung Tseng
 Name: pNightAgent
-
-Package: tw.blogspot.myappios.prandomdice
-Version: 0.2.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.2.4.deb
-Size: 13158378
-MD5sum: d099ae5905becb1764e65c7469e123b5
-SHA1: 932149987b208c2a145a496528114298452bc5d6
-SHA256: 67cd9cae73a6a58dd57ef95faf3259f72232813f12c2b24e8f8e98fa259c4c4e
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection.
-Author: ChengChung Tseng
-Name: pRandomDice
 
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.0
@@ -808,22 +776,6 @@ Size: 13658560
 MD5sum: 6b5ff87d69f54a5b1520f1048a6c0ced
 SHA1: eedfe4c79c121b64f2dbf200431f48db8cc2dfd2
 SHA256: a9ad36ea713002e90b9bdb3e865c25c3a24c5316b866bf025bf3490dbfde23b9
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.4.deb
-Size: 11926308
-MD5sum: eb3d3086df17e330bfdb64b08c6072f3
-SHA1: 82a7f22466a3ccd2d3bfbf393047f1fe549c634d
-SHA256: f8c0f33187a89dfbedcc2d712c8e41cc2e2ffbbf5f5bdee766bfb001958725a1
 Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
