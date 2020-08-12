@@ -430,22 +430,6 @@ Description: My Heros patch. 1. Attack multiplier. 2. Drop(Gold) multiplier. 3. 
 Author: ChengChung Tseng
 Name: pMyHeros
 
-Package: tw.blogspot.myappios.pmyhero
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/MyHeros0.1.2.deb
-Size: 11434660
-MD5sum: 852367db48987a48173d6985fc3a1d82
-SHA1: 25fd5d117ba6d2e8c3b77ef5e069bb9cadc25f94
-SHA256: 47d5a91ec3d46c8d8c6d48fdaeacfe0a8488aab508a3a990e5cdf0bb7c6f32b7
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/08/myheros.html
-Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor.
-Author: ChengChung Tseng
-Name: pMyHeros
-
 Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.2
 Architecture: iphoneos-arm
