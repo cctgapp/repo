@@ -638,6 +638,21 @@ Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Play
 Author: ChengChung Tseng
 Name: pStarWars
 
+Package: tw.blogspot.myappios.pstateofsurvival
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/StateOfSurvival0.1.1.deb
+Size: 11376616
+MD5sum: dccd5dbee6c12a8b670167e477774292
+SHA1: c06114eb2960df9b39186f9b368b3c890a243efb
+SHA256: 97311992d3298a6d231c0704e37c508c8c07c910f82a63f8334baf00d02f78cc
+Section: Apps
+Description: State Of Survival patch. 1. Bothside attack multiplier.
+Author: Savior
+Name: pStateOfSurvival
+
 Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.5
 Architecture: iphoneos-arm
