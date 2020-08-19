@@ -95,22 +95,6 @@ Author: ChengChung Tseng
 Name: pArchero
 
 Package: tw.blogspot.myappios.pdod
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.4.deb
-Size: 13060192
-MD5sum: cf3de44dc4d3c2cbe16bcd96ae003dad
-SHA1: 9557bfebed18bc08b09f6fc58290309b5319b325
-SHA256: e22c9b90ce1b9d60c4f425b71468a18ef2836ce00304b18e3d4024158514c809
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
-Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
-Author: ChengChung Tseng
-Name: pDOD
-
-Package: tw.blogspot.myappios.pdod
 Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -124,6 +108,21 @@ Section: Apps
 Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
 Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: ChengChung Tseng
+Name: pDOD
+
+Package: tw.blogspot.myappios.pdod
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/DungeonOfDespair0.1.6.deb
+Size: 13115266
+MD5sum: e7e04f63cb4fcd04e056796979ca8eb2
+SHA1: d849e6f1e24534b20873a6295af885f747b3dadc
+SHA256: 718fe8ce0f894ed03737dfdab342510bc75a6619ace3826419cbf6d1e0deed10
+Section: Apps
+Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Author: Savior
 Name: pDOD
 
 Package: tw.blogspot.myappios.pfatego
@@ -253,38 +252,6 @@ Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
 Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
 Author: ChengChung Tseng
 Name: pHundredSoul
-
-Package: tw.blogspot.myappios.phunter
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Hunter0.1.1.deb
-Size: 11423244
-MD5sum: 9a8d68f0b9bb16dcf2bfa79808686f62
-SHA1: 9589204b6d44190f0d42004afd0e553b68879d47
-SHA256: 2e6d0f9ca948278fce395e11cf276372939fb79cebc3dc40b2cc019c64599ca0
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/07/phunter.html
-Description: Hunter x Hunter patch. Support patch following values: 1. Strength, 2.Intelligent, 3. Spiritual, 4. Dexterity, 5. Physical Damage, 6. Magical Damage, 7. Armor, 8. Resist, 9. Max HP, 10. Max MP.
-Author: ChengChung Tseng
-Name: pHunter
-
-Package: tw.blogspot.myappios.phunter
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Hunter0.1.2.deb
-Size: 11423004
-MD5sum: bfb683175609af1581dd6326bf130c53
-SHA1: 209afd398bdacd3bb0a8bafac3b9424285121e4d
-SHA256: 070d7f872a8e18e2e7b3a0732355213729dc530e6f8a4a275587c0fb7fb20bce
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/07/phunter.html
-Description: Hunter x Hunter patch. Support patch following values: 1. Strength, 2.Intelligent, 3. Spiritual, 4. Dexterity, 5. Physical Damage, 6. Magical Damage, 7. Armor, 8. Resist, 9. Max HP, 10. Max MP.
-Author: ChengChung Tseng
-Name: pHunter
 
 Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.1
@@ -541,38 +508,6 @@ Homepage: https://myappios.blogspot.com/2020/05/prod.html
 Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
 Author: ChengChung Tseng
 Name: pROD
-
-Package: tw.blogspot.myappios.pslamdunk
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SlamDunk0.1.5.deb
-Size: 11460702
-MD5sum: e6dc6fef2f5e0bd9d97cb16f4bb55dc9
-SHA1: c8ea242b067d2fc3a22857e521cbe71c051ec9b3
-SHA256: 4b97c807b817d00c23898bf8dbb08ef1c320d5b5dcedcbd84d3c05a35fe6b2a3
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
-Description: SLAM DUNK patch. 1. Set Property value.
-Author: ChengChung Tseng
-Name: pSlamDunk
-
-Package: tw.blogspot.myappios.pslamdunk
-Version: 0.1.6
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SlamDunk0.1.6.deb
-Size: 11465532
-MD5sum: c125e8cf76c1236ef5ec174793e30379
-SHA1: b8d680b5a5cd8c3a8a0424f718b2b6a506f2b90d
-SHA256: 2ca2b61dab61caec10ecaf8777dbf61d63c92cffba9af9518045c1c26fdccb85
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pslamdunk.html
-Description: SLAM DUNK patch. 1. Set Property value.
-Author: ChengChung Tseng
-Name: pSlamDunk
 
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.1
