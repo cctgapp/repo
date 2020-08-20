@@ -95,22 +95,6 @@ Author: ChengChung Tseng
 Name: pArchero
 
 Package: tw.blogspot.myappios.pdod
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.5.deb
-Size: 13091928
-MD5sum: f2820604b7045f02c89e52b092f6f8e3
-SHA1: de6ae10bf2df4dc59d23d1ff0cddd78c35dd0a66
-SHA256: 0ea613c9e0fc6cd05c09fcac4b096b8d784785c557f1341d98b54a0083550511
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pdungeonofdeapair.html
-Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
-Author: ChengChung Tseng
-Name: pDOD
-
-Package: tw.blogspot.myappios.pdod
 Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -120,6 +104,21 @@ Size: 13115266
 MD5sum: e7e04f63cb4fcd04e056796979ca8eb2
 SHA1: d849e6f1e24534b20873a6295af885f747b3dadc
 SHA256: 718fe8ce0f894ed03737dfdab342510bc75a6619ace3826419cbf6d1e0deed10
+Section: Apps
+Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Author: Savior
+Name: pDOD
+
+Package: tw.blogspot.myappios.pdod
+Version: 0.1.7
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/DungeonOfDespair0.1.7.deb
+Size: 13114222
+MD5sum: 8ea70a9362e79f5259cc54f93a9a9d99
+SHA1: 69f33257a8f8df3b9ec805186b4101a1f3207acf
+SHA256: 7aa42eef344de811410461e6ab7d8c6fb39534457841a1646773c0d77b965d43
 Section: Apps
 Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: Savior
