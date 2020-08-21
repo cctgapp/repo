@@ -63,51 +63,19 @@ Author: ChengChung Tseng
 Name: 神魔救星
 
 Package: tw.blogspot.myappios.parchero
-Version: 0.5.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.5.deb
-Size: 13055778
-MD5sum: 7fe8e8bbf3b7cc98a30fe5095720fad8
-SHA1: 8c8332d68ea5a262de74e5ae649f8c573f705963
-SHA256: a7641b08689f77c5ce61e34e457ecde9bc6abf39fb3c12c09255954cdff2bd13
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
 Version: 0.5.6
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.6.deb
-Size: 13055274
-MD5sum: 4bf0122e8bd56064790522fb8de8ef5c
-SHA1: 68a21bc0bf0979ee0fbfef4a15cfc49555910ad3
-SHA256: 58b31a54b19100ccae7de6458fca363d3fa3e77cbf03d00f40e2dfa52a926bc8
-Section: Apps
-Homepage: http://myappios.blogspot.com/2019/06/parchero.html
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
-Author: ChengChung Tseng
-Name: pArchero
-
-Package: tw.blogspot.myappios.pdod
-Version: 0.1.6
 Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/DungeonOfDespair0.1.6.deb
-Size: 13115266
-MD5sum: e7e04f63cb4fcd04e056796979ca8eb2
-SHA1: d849e6f1e24534b20873a6295af885f747b3dadc
-SHA256: 718fe8ce0f894ed03737dfdab342510bc75a6619ace3826419cbf6d1e0deed10
+Filename: debs/Archero0.5.6.deb
+Size: 11366730
+MD5sum: a776a2d987378b4ff91c2861b9bdea9f
+SHA1: 01194e3788185fd78a0886abf2da72b33477aef0
+SHA256: 84485dbce71ac569beb729e90be9c0fc328d6fc7d72c984eb0a7454ce8b9c4f8
 Section: Apps
-Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
 Author: Savior
-Name: pDOD
+Name: pArchero
 
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.7
@@ -115,333 +83,163 @@ Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/DungeonOfDespair0.1.7.deb
-Size: 13114222
-MD5sum: 8ea70a9362e79f5259cc54f93a9a9d99
-SHA1: 69f33257a8f8df3b9ec805186b4101a1f3207acf
-SHA256: 7aa42eef344de811410461e6ab7d8c6fb39534457841a1646773c0d77b965d43
+Size: 11337892
+MD5sum: 68bdde05d3541d942987e96307d5fb9e
+SHA1: 7997f8899bbe0785ba131914687b821c27881bd0
+SHA256: 59de6e7a46f0c868cd80ef92213904e94d0ad6c1a2d4af7689fa86f312c9cf9a
 Section: Apps
 Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: Savior
 Name: pDOD
 
 Package: tw.blogspot.myappios.pfatego
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/FateGoApp0.1.1.deb
-Size: 12795092
-MD5sum: 02e41631c1dda93482ac109d91c97b57
-SHA1: 177b4d967a049220b2de36e351849c49f40a6cdf
-SHA256: 8b9357190e330db249898133788e13d38afd9950c0b620dab7083f77352e6af9
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pfatego.html
-Description: Fate/Grand Order patch. 1. One Hit Kill.
-Author: ChengChung Tseng
-Name: pFateGo
-
-Package: tw.blogspot.myappios.pfatego
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/FateGoApp0.1.2.deb
-Size: 13037114
-MD5sum: 5be1a36dc71ad07c8502b5a1f35ba6ab
-SHA1: c70935fbb02499961c150e044b103a28b3d63972
-SHA256: d6bdcf701f8cfc542e950fad023f8ddf1e979cf10eab32efc825b9900023ee25
+Size: 11336640
+MD5sum: f24bcb0966b521faf22d799b184c3b44
+SHA1: 5a3723545d24a53a01268531ab80ff86418bdd86
+SHA256: ff689bd9eabe43f6c9183ea0de4802d54a565e667ab8cf926cee01be4ae29b09
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pfatego.html
 Description: Fate/Grand Order patch. 1. One Hit Kill.
-Author: ChengChung Tseng
+Author: Savior
 Name: pFateGo
 
 Package: tw.blogspot.myappios.pgrandchase
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/GrandChase0.1.2.deb
-Size: 12947050
-MD5sum: c13ed3ffc4bd2fb6358aa16b903b1ee2
-SHA1: 61ff7f42df0b454618efb3df3bca764f2053e8cd
-SHA256: c6d72350f79c229ae9c4171edad73a9fc2f9d2aa9b3f54eddf0c3a0e861baa26
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
-Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
-Author: ChengChung Tseng
-Name: pGrandChase
-
-Package: tw.blogspot.myappios.pgrandchase
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/GrandChase0.1.3.deb
-Size: 13100918
-MD5sum: 6fd838ce44e5d2f80715eecbfc686ead
-SHA1: d2914e079e50b0a6d1c2b0b6cb30ec7e0fe4d0cf
-SHA256: 14ea83d7f13a79ba5071f108e958ec7c62dda09a17003e34d733d69cf0dabc17
+Size: 11347624
+MD5sum: f39d097900d86ca0436d14662e8669ca
+SHA1: c7564a745aa636e27e76617a6834070d65dd2ee8
+SHA256: 6144d8b4f0eef28741519f294adf4fe7517b059249bb214c1aa711b003f22c12
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/pgrandchase.html
 Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
-Author: ChengChung Tseng
+Author: Savior
 Name: pGrandChase
-
-Package: tw.blogspot.myappios.pherocantare
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/HCGlobal0.1.2.deb
-Size: 12963066
-MD5sum: 4d1d2e638704c2a05f0c9a2953aca68a
-SHA1: 0cd34153fe67334df260de4018d2043cd0b74a33
-SHA256: ae1ab88569a02f2a5d6c47b4582dcee2806f92bd7648b0f952532c36f3ad2439
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
-Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
-Author: ChengChung Tseng
-Name: pHeroCantare
 
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/HCGlobal0.1.3.deb
-Size: 13095872
-MD5sum: fe2801c062e6fee539119bf9464bb30d
-SHA1: 926d330d16c19d4435176d2f44200865c0b86d56
-SHA256: 3bf274265f5e06df81aeafabd869fe8ac29c9921c612f42acf3b66e05b8ffadf
+Size: 11344340
+MD5sum: 53cd7df377e3bfe79c135fc603c7d0a7
+SHA1: 332e89d155c6a5f071a8c24a640abc9a603fea9b
+SHA256: d209b499c000e19c84f78c0ece47f6ee13a271b7a3f953fda5fd72c1ed64221a
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pherocantare.html
 Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
-Author: ChengChung Tseng
+Author: Savior
 Name: pHeroCantare
-
-Package: tw.blogspot.myappios.phundredsoul
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/HundredSoul0.1.4.deb
-Size: 13118096
-MD5sum: 690844a05185ec26bcc17d65fc0ff968
-SHA1: d5dbcd46a3021f5cdc7d13b7dbb3996e091f6791
-SHA256: 107d643d74b8b8f4b3c5a62bde50b46a8381fce2ae069d501f950a86f2f71bdb
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
-Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
-Author: ChengChung Tseng
-Name: pHundredSoul
 
 Package: tw.blogspot.myappios.phundredsoul
 Version: 0.1.5
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/HundredSoul0.1.5.deb
-Size: 13135536
-MD5sum: 45bd910cc48fc02864a38f7459f30c1d
-SHA1: 34269da9eaca8ff4ab51553f4ff318f73ab1ed87
-SHA256: 556482068406bf510b56335fecf75c735d00996b71adf6a31704df77a2c7002c
+Size: 11363390
+MD5sum: 54ac2ec18a14e69d7ba87d90d9ddf489
+SHA1: 46f7dc2d456477181a77c272d3ad8b47f56ee1f5
+SHA256: e021ffafd5de80cb26fb2fd9329777e1bb954ed3d725d0dfe4f0b159f37aca3f
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/phundredsoul.html
 Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
-Author: ChengChung Tseng
+Author: Savior
 Name: pHundredSoul
-
-Package: tw.blogspot.myappios.pkartriderrush
-Version: 0.2.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KartRiderRush0.2.1.deb
-Size: 11417864
-MD5sum: d5ae2066e70912f76e08e473bfad8b6d
-SHA1: 880c6234174eaafa388328ef7a42ae64dfaa12a8
-SHA256: 9ff582d35b7d7d5778683c5662fbebf3f59d16fc867ab3957b651fd222ea4222
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
-Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
-Author: ChengChung Tseng
-Name: pKartRiderRush
 
 Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/KartRiderRush0.2.2.deb
-Size: 11417852
-MD5sum: 4aafe434bb7109e6ab5fcd757273b088
-SHA1: c67ee6e326f0478219df7b46e4d6d34f6767b131
-SHA256: 9babafd023d96ee5eb1055840eb032bec01c72af147aeccf36a78ae2ce9a6129
+Size: 11353582
+MD5sum: 49d4e620329a2b2114fb180e428b4e4c
+SHA1: 7e4f47e62bb311a86851ed055106b862e2a62083
+SHA256: ea2d3fea1544c8985b3c030af61ef36dca833792cbc8eabe7b2c2d37a21c899a
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/pkartriderrush.html
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
-Author: ChengChung Tseng
+Author: Savior
 Name: pKartRiderRush
-
-Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.8.4.deb
-Size: 11461992
-MD5sum: 8bf0c39453348087b7597a70c8110c8e
-SHA1: 9f4f956f51e2b756cccf21e4b81f46cb7e8ca6f7
-SHA256: a6084f9023ac9ba2d2c892f1312c84c75ee5c12b857e89683440d0b5f0e7287f
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
-Author: ChengChung Tseng
-Name: pKGTW
 
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.8.5
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/KGTW0.8.5.deb
-Size: 11462694
-MD5sum: 7360e93e14ad0ec759a3881dcbf0f71f
-SHA1: c088b1a266d7dc713e2a4979f16f8922b3f133ec
-SHA256: 6ca6b53130d34f1b20070573be929b3285546a096947d881dffc92581991e3d8
+Size: 11388930
+MD5sum: 729c0c95b5cac3f2def509dd1c3e5f1e
+SHA1: 1c737e81d3bbe6442b05cf871ce2fbc3aec65721
+SHA256: e79e1e30d31c88e4779109a68395b41937ba1e94e971b83b47c300aaef550faa
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
-Author: ChengChung Tseng
+Author: Savior
 Name: pKGTW
-
-Package: tw.blogspot.myappios.plinechef
-Version: 0.1.8
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.8.deb
-Size: 13112916
-MD5sum: 93e3f31524f12bb43942976302a4e7d1
-SHA1: 698c0b38cb4318ac6ea2ee22b4b52dd58676f62d
-SHA256: 3b609568c22ca3e22d97da92232113f3645a97af01c24a5a1aba091102d649d7
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
-Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
-Author: ChengChung Tseng
-Name: pLineChef
 
 Package: tw.blogspot.myappios.plinechef
 Version: 0.1.9
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/LineChefApp0.1.9.deb
-Size: 13141652
-MD5sum: a9cc88d58e8718d1b070d54bc244a8ad
-SHA1: 0251659d9d25739c484d9b23f7d804a9385e1416
-SHA256: 14297988d45686244c4f0bf016b42b14ffbea69730870841745184504a322a49
+Size: 11362824
+MD5sum: d8308f214c6b0a3f5c481611204a696b
+SHA1: ef2433c85b9a59ff02095081a4765e70263b0e57
+SHA256: 686ee00fcf3570533ce6f1b60ce523758bc12c218555de929990bd272175bf9c
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/plinechef.html
 Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
-Author: ChengChung Tseng
+Author: Savior
 Name: pLineChef
 
 Package: tw.blogspot.myappios.pmwHK
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/MakaiWars0.1.1.deb
-Size: 12837264
-MD5sum: 75d7454c5ab10495aa51613b2e7d536d
-SHA1: cb9cbff0fc81a32fc8f292f02079a1ecb806ea97
-SHA256: 4124a72a3695eecba0a0ae13d385de411f488834c97addb83715f12930cbc7b4
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/10/pmwhk.html
-Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
-Author: ChengChung Tseng
-Name: pmwHK
-
-Package: tw.blogspot.myappios.pmwHK
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/MakaiWars0.1.2.deb
-Size: 13115306
-MD5sum: e49eb6fcc6ba30d9dff7cb8cc98cde6d
-SHA1: 5199674611386f5224875bdaf8527bcda882dd9e
-SHA256: 3e6e2d21232de97a3dd7c9243fdad6f8600f0aa7f37afff4e00443096d6e11f9
+Size: 11358104
+MD5sum: 29253d8d4e89336238ed159ea79fc727
+SHA1: dced6ba85decf4287cd3bb82c2720c444c9a0cf7
+SHA256: 7e9af293337293075b82aa32545a90d58e2baf1d0e73cc7a39b6f501da74c70c
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/10/pmwhk.html
 Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
-Author: ChengChung Tseng
+Author: Savior
 Name: pmwHK
 
 Package: tw.blogspot.myappios.pmyhero
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/MyHeros0.1.1.deb
-Size: 11434752
-MD5sum: 8b0366574b387fb40a296122ff5cbacd
-SHA1: 814e143bf8bfed0821ec13871bf517f6b3f8978e
-SHA256: b66a6455df936a26a55c2259ecef90d98d01e7941a631130380e016ad8d478ce
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/08/myheros.html
-Description: My Heros patch. 1. Attack multiplier. 2. Drop(Gold) multiplier. 3. Enemy attack divisor.
-Author: ChengChung Tseng
-Name: pMyHeros
-
-Package: tw.blogspot.myappios.pmyhero
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/MyHeros0.1.2.deb
-Size: 11434660
-MD5sum: 852367db48987a48173d6985fc3a1d82
-SHA1: 25fd5d117ba6d2e8c3b77ef5e069bb9cadc25f94
-SHA256: 47d5a91ec3d46c8d8c6d48fdaeacfe0a8488aab508a3a990e5cdf0bb7c6f32b7
+Size: 11368890
+MD5sum: fcaef0e982764ed7a32a1d001f469dc1
+SHA1: 5f5105d683a7406c26e633e876e28fcf6cc935d1
+SHA256: 500b1ffc49079a255b2ecba1e971174ad47306d019424eeff242b8b6b43f964b
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/08/myheros.html
 Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor.
-Author: ChengChung Tseng
+Author: Savior
 Name: pMyHeros
-
-Package: tw.blogspot.myappios.pnightagent
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/NightAgent0.1.2.deb
-Size: 13041384
-MD5sum: 2a04e900bd98d87318e3667a4a94125c
-SHA1: 67d80824b3e58306b16bf085c6e4bbb927530950
-SHA256: 6226d546fd96a16dab7ffb4a9059c7d83b466ee803b4f04a8f4b14fe36b358d2
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
-Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
-Author: ChengChung Tseng
-Name: pNightAgent
 
 Package: tw.blogspot.myappios.pnightagent
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/NightAgent0.1.3.deb
-Size: 13043400
-MD5sum: 459c2a745c4c9deeb8de4afbbf2767e8
-SHA1: 0e1bdd3417efc1e57b44c9e194a203123e4a0a48
-SHA256: 928ea528430c92f3d0f3fc5deff8df88e3755ed99927e14a175a00da3e6141ef
+Size: 11360432
+MD5sum: 79e5495b250a4709ac4eb75ab7b4e6da
+SHA1: b1407e6213f8ee806661b2c1d6ee26eedd8cdce4
+SHA256: 9951693ed1f2ab797d255a5e45383d1c5d11520f651a1a1fa7ad44e60d522b92
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/pnightagent.html
 Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
-Author: ChengChung Tseng
+Author: Savior
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
