@@ -258,22 +258,6 @@ Author: Savior
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.3.1.deb
-Size: 11470504
-MD5sum: 95eb9426982aa89ad470ea1c1cd3e150
-SHA1: e1911395fa1d267f3c26bea5fc331462dd6f7eab
-SHA256: daef5bc8fc95aaf4ef0b220a00ff6ab3594df6bddfbe0c7895961fcff819825b
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/03/prandomdice.html
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Author: ChengChung Tseng
-Name: pRandomDice
-
-Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.2
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -283,6 +267,21 @@ Size: 11451960
 MD5sum: 7cf17a35969783d5474b575a1fa8a1e0
 SHA1: bb9ff97c5115947369327a1486d6f5b94ff2f05d
 SHA256: fc839c1425830975d228a42d0e6c3b88a9d3b39cc831315a4accc17a32d10ef2
+Section: Apps
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
+Author: Savior
+Name: pRandomDice
+
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.3.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.3.3.deb
+Size: 11718222
+MD5sum: 7527a79b7f94b6973d3790aab5293c94
+SHA1: 53113cc876e3376561d79b915c2a02a47c9d9ef8
+SHA256: a10cc4b8baca3567b5470516dc8b2e07aa52675217199c15aa4e644f6184f678
 Section: Apps
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
 Author: Savior
