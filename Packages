@@ -258,21 +258,6 @@ Author: Savior
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.3
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.3.3.deb
-Size: 11718222
-MD5sum: 7527a79b7f94b6973d3790aab5293c94
-SHA1: 53113cc876e3376561d79b915c2a02a47c9d9ef8
-SHA256: a10cc4b8baca3567b5470516dc8b2e07aa52675217199c15aa4e644f6184f678
-Section: Apps
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Author: Savior
-Name: pRandomDice
-
-Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.4
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -282,6 +267,21 @@ Size: 11718470
 MD5sum: e6e9567547d74fe1f44bfc01aebcefd4
 SHA1: d26fbc625cd9ce7dc5227c4ee09d36861c157552
 SHA256: 7a00980a6b123467515dc40812f02d139f04f22c85be87f921b83426aa6b9fba
+Section: Apps
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
+Author: Savior
+Name: pRandomDice
+
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.3.4.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.3.4.1.deb
+Size: 11718492
+MD5sum: 3e7642a5b0729889341056f6d9483546
+SHA1: 1f0c8554ee16f4559c5a11a153d5d69a9ddec54f
+SHA256: 8d2e44b31ec508f96dd1723e2abe459088d2886c1ca48b82671b7f33c534d165
 Section: Apps
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
 Author: Savior
