@@ -258,21 +258,6 @@ Author: Savior
 Name: pNightAgent
 
 Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.4
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.3.4.deb
-Size: 11718470
-MD5sum: e6e9567547d74fe1f44bfc01aebcefd4
-SHA1: d26fbc625cd9ce7dc5227c4ee09d36861c157552
-SHA256: 7a00980a6b123467515dc40812f02d139f04f22c85be87f921b83426aa6b9fba
-Section: Apps
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Author: Savior
-Name: pRandomDice
-
-Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.5
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -288,99 +273,48 @@ Author: Savior
 Name: pRandomDice
 
 Package: tw.blogspot.myappios.prod
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ROD0.1.1.deb
-Size: 13106756
-MD5sum: 1354475bcc215e9816bf5377d1d4aba4
-SHA1: 8345b38d709b1cdc700c900e6e5e0d34b8720c0a
-SHA256: 0d29ce9124140d18658b7adb13228a6154acf64eaca44b063378546abdddd50e
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/prod.html
-Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
-Author: ChengChung Tseng
-Name: pROD
-
-Package: tw.blogspot.myappios.prod
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/ROD0.1.2.deb
-Size: 13122114
-MD5sum: 68574de7dbf22138d645bd0a6c588545
-SHA1: c882fbac7619b64b991cf4e62f39446f295c69b1
-SHA256: a106c4c33beee8241bb26afdc3a9ac1c417b05b51a2ce3c3f6111a124867af0d
+Size: 11434434
+MD5sum: 6daf82888756740f1c086155fc4f8ea3
+SHA1: 0732fd2d5b2226168c63326d97f9d6fe7482aa8e
+SHA256: 735d754e534c72b0d5decd5525324b020e135681336b16472cbe2e8b8bc73e98
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/05/prod.html
 Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
-Author: ChengChung Tseng
+Author: Savior
 Name: pROD
-
-Package: tw.blogspot.myappios.psoulknight
-Version: 0.2.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/SoulKnight0.2.1.deb
-Size: 12811726
-MD5sum: 7667958dc410aa4bf06042fba5aeb6be
-SHA1: 7e75322b4fe3f427ca923e9a3fad8c1375f09fad
-SHA256: 8b877c4511dc4def30574c1dda2426da6096036cc027e300119feb39aafed432
-Section: Apps
-Homepage: https://myappios.blogspot.com/
-Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
-Author: ChengChung Tseng
-Name: pSoulKnight
 
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/SoulKnight0.2.2.deb
-Size: 13068486
-MD5sum: 6d9939094d4100adb49f927d4c0f9719
-SHA1: d8c9964875727ce93a850a762ee08bcb78210764
-SHA256: 0cbd617c3802b243149947a5f71c573612d4bc85c708622da5aecf36b04a24db
+Size: 11410996
+MD5sum: b0a5d65907210b150611ffbf264cbe1b
+SHA1: 5d113d5fa07e7c61af95bd8b88f80de7864c2a6b
+SHA256: b0a99a7b37db969df2b6f8328fb207941473262059ecbe5967731078c529e720
 Section: Apps
-Homepage: https://myappios.blogspot.com/
 Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
-Author: ChengChung Tseng
+Author: Savior
 Name: pSoulKnight
-
-Package: tw.blogspot.myappios.pstarwars
-Version: 0.1.2
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/StarWars0.1.2.deb
-Size: 12958792
-MD5sum: d453b75809627d55131699061a7230ab
-SHA1: 8df434eb74bb5da82f7e2b1819ef741422bc2ac3
-SHA256: 32c08c0eb569704b94e38af638dc64f31b2cf611748670941dc7ec16f2659415
-Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/pstarwars.html
-Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
-Author: ChengChung Tseng
-Name: pStarWars
 
 Package: tw.blogspot.myappios.pstarwars
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/StarWars0.1.3.deb
-Size: 13136598
-MD5sum: c7d70d0324c0b08f1e2168ede7c06358
-SHA1: 3a9360325a220bd7b9cef0f491b860b40dc7e9e1
-SHA256: d005b93dee6f00d58c7083de363aff43acbfadb29e97501e0f7f0265d359b698
+Size: 11430786
+MD5sum: 40f987281c8d291b10d85e43d73c9a65
+SHA1: a965269cf5dc5eb837c6fd4f46ab5f79e242fd5c
+SHA256: 7c9fde376eee588ee2835194e924389efb04ae75132c600f6e51eff325939c7d
 Section: Apps
-Homepage: https://myappios.blogspot.com/2020/01/pstarwars.html
 Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
-Author: ChengChung Tseng
+Author: Savior
 Name: pStarWars
 
 Package: tw.blogspot.myappios.pstateofsurvival
@@ -399,131 +333,63 @@ Author: Savior
 Name: pStateOfSurvival
 
 Package: tw.blogspot.myappios.ptalesrush
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/TalesRushApp0.1.5.deb
-Size: 13100002
-MD5sum: afd0b4e388c9dff4513a6a50cc87c754
-SHA1: a5bf7780f03e85f0c8476ee01f7009645c2d2402
-SHA256: 6577961b4b02afcb24b3bc1d1f99466ab99e7ec7065f282372eddc3b0690c826
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
-Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
-Author: ChengChung Tseng
-Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptalesrush
 Version: 0.1.6
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/TalesRushApp0.1.6.deb
-Size: 13122468
-MD5sum: 6142cc493b3dafeb0b4af158a8b9a301
-SHA1: 3d800bc86eaa65c10218d819e72f3ed2f829b9b2
-SHA256: 4709dc7826282809f78cce3d35a061a8967050773b85cb2923221883c03146a0
+Size: 11436142
+MD5sum: ae0893f7e013ab757eb2e7a15a44d8c0
+SHA1: 5da2c521e5c77c6e9e3128d5a4aa9abf88ad50e8
+SHA256: 2893acae8cb429ea60e09424cd41c76ce0309690a125c30c1b9fb3133593ec86
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pTalesRush.html
 Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
-Author: ChengChung Tseng
+Author: Savior
 Name: pTalesRush
-
-Package: tw.blogspot.myappios.ptriglav
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Triglav0.1.5.deb
-Size: 12991812
-MD5sum: 4100a9dd4e882f2a149c9b42327c89d9
-SHA1: 9d34cd717d6d7d8b931b0accf56b599323e9d329
-SHA256: b4b221a2b8dad3666baba3555bd2bba120e3502a1f17afcf962d1ba62a40f4d3
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
-Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X n, Gold X n.
-Author: ChengChung Tseng
-Name: pTriglav
 
 Package: tw.blogspot.myappios.ptriglav
 Version: 0.1.6
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/Triglav0.1.6.deb
-Size: 13083850
-MD5sum: 24b041c131625fe365b179ac76ec3923
-SHA1: 11ce567f4e068595420a95ddf5e9d97e7fd1be64
-SHA256: 5aad5f8e5779705a25803d4a312dd5731ec8de16b48f7f6c7d777a5132a59c13
+Size: 11429460
+MD5sum: 90f1798712aa8ae50fd072d0b98261bb
+SHA1: 8533e558a7b36b998164c6172b96b5fe21362776
+SHA256: 0ac3513d4e9606a737e4ba64bc39c20f481757f2671d96ea812a620e1f5dae8f
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/11/pkgtw.html
 Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X n, Gold X n.
-Author: ChengChung Tseng
+Author: Savior
 Name: pTriglav
-
-Package: tw.blogspot.myappios.pwcp
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/WhiteCatProject0.1.1.deb
-Size: 12852082
-MD5sum: 62fd5187af42af9434eef2cd48d8f1b3
-SHA1: 2e17c48260c0543e67b3ee5fd1b4ee7462a6b497
-SHA256: c068c7b0b225f2c73719545c5f059fab905421bb32979c15b8385223cad89656
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pwhilecatproject.html
-Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplier. 3. Add attack. 4. Add SP.
-Author: ChengChung Tseng
-Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pwcp
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/WhiteCatProject0.1.2.deb
-Size: 13129508
-MD5sum: 69173a492c036978358819257d248c08
-SHA1: daba331aefa899d70ff9192c1e70d12248456cda
-SHA256: b81758bb33264fa6f31f1e8cef86bad064418dd22d03f384768a3717dc1667f4
+Size: 11435382
+MD5sum: 20984c7c7e9d8eb07709dbe9393a8c0f
+SHA1: 67c174d904037cee4cafa5086292d7300c725f69
+SHA256: d2dc3205a610d57219a5aeebd24770baa93809795fe1a813ca2e61cda74555e7
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pwhilecatproject.html
 Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplier. 3. Add attack. 4. Add SP.
-Author: ChengChung Tseng
+Author: Savior
 Name: pWhiteCatProject
-
-Package: tw.blogspot.myappios.pzooba
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.3.deb
-Size: 13033522
-MD5sum: 259742560845aea3d6b567a2ff263206
-SHA1: 33d8dbecaa7612660a344785377886c95224b40d
-SHA256: f6d192a2b53a2adbdba68ff4940a02e347748c62ad8ca35854c0e7ee36549d61
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
-Description: Zooba patch. 1. Enable map hack.
-Author: ChengChung Tseng
-Name: pZooba
 
 Package: tw.blogspot.myappios.pzooba
 Version: 0.1.4
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/ZoobaApp0.1.4.deb
-Size: 13035010
-MD5sum: 07f473783bd882d71b855ad5db0b443a
-SHA1: 921bfa348f092e1ff4b215e417ac0020421a6b16
-SHA256: 42dc0924ef707f67ca9b00eefda8f97bdc2f711423509699d4df042110b70693
+Size: 11391338
+MD5sum: 069b4881cb4081e062daf077c2a75f53
+SHA1: d333d38f00aa2a4ec21615db04c8e4532423e47c
+SHA256: 1c07d9a10adac7f3cc9b90670eec01f3004ae747f43fce8a29bd2cd75cfa9f6a
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/12/pzooba.html
 Description: Zooba patch. 1. Enable map hack.
-Author: ChengChung Tseng
+Author: Savior
 Name: pZooba
 
 Package: tw.blogspot.myappios.tospatchsetting
@@ -543,34 +409,17 @@ Author: ChengChung Tseng
 Name: tosp設定
 
 Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.1
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.1.deb
-Size: 13658560
-MD5sum: 6b5ff87d69f54a5b1520f1048a6c0ced
-SHA1: eedfe4c79c121b64f2dbf200431f48db8cc2dfd2
-SHA256: a9ad36ea713002e90b9bdb3e865c25c3a24c5316b866bf025bf3490dbfde23b9
-Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.8.5
 Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
+Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
 Filename: debs/tospSetting0.8.5.deb
-Size: 11926320
-MD5sum: 7dd23853871a44278113aae82c41d675
-SHA1: 3d56e9f1837a9e58cf3deecee9596f3221c858b5
-SHA256: 364c260599fc42da4b24c10e29be288eb8d594a78edf7e667592eb042da4c55b
+Size: 11925602
+MD5sum: 464a0b9de0d7b90a0542277f7af2ddad
+SHA1: fdd7ce81af9e74f740f3019fd1dfe9c86daaf332
+SHA256: 4de1b2870e0903337a16bee8ee3b842f5b591283f5bfe9acfe072447192d0ef8
 Section: Apps
-Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: ChengChung Tseng
+Author: Savior
 Name: tosp設定
 
