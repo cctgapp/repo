@@ -137,6 +137,21 @@ Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplie
 Author: Savior
 Name: pHeroCantare
 
+Package: tw.blogspot.myappios.phitmanreborn
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HitmanReborn0.1.1.deb
+Size: 11410778
+MD5sum: 0cae9f16de8fc72a3c633231e087942f
+SHA1: 530774e5901c78a06a4811b28393f31104fe4ea6
+SHA256: 9777abd75185368872c38cdcce91269ee6301042a6361b69eda3588b70de81ad
+Section: Apps
+Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3. Mana multiplier.
+Author: Savior
+Name: pHitmanReborn
+
 Package: tw.blogspot.myappios.phundredsoul
 Version: 0.1.5
 Architecture: iphoneos-arm
