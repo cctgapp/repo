@@ -198,6 +198,21 @@ Author: Savior
 Name: pKGTW
 
 Package: tw.blogspot.myappios.plinechef
+Version: 0.1.10
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/LineChefApp0.1.10.deb
+Size: 11409866
+MD5sum: 62533d9a57cedf2415aa012d9c4d3b50
+SHA1: 6064c45b09cd39bc6874263eb435f4d99ee937a4
+SHA256: 8afc0085bbfbf90f4824ef1eb165025d37d36628d936ff53766ab2b8dc38a7b3
+Section: Apps
+Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
+Author: Savior
+Name: pLineChef
+
+Package: tw.blogspot.myappios.plinechef
 Version: 0.1.9
 Architecture: iphoneos-arm
 Maintainer: Savior
