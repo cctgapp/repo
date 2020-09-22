@@ -63,21 +63,6 @@ Author: ChengChung Tseng
 Name: 神魔救星
 
 Package: tw.blogspot.myappios.parchero
-Version: 0.5.6
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/Archero0.5.6.deb
-Size: 11366730
-MD5sum: a776a2d987378b4ff91c2861b9bdea9f
-SHA1: 01194e3788185fd78a0886abf2da72b33477aef0
-SHA256: 84485dbce71ac569beb729e90be9c0fc328d6fc7d72c984eb0a7454ce8b9c4f8
-Section: Apps
-Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
-Author: Savior
-Name: pArchero
-
-Package: tw.blogspot.myappios.parchero
 Version: 0.5.7
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -87,6 +72,21 @@ Size: 11414078
 MD5sum: 4b1b762fd1ee04cdb343334224568147
 SHA1: 158b007eadec503490fa413f7bf08f4212fce334
 SHA256: 7e992a2a2ba9817fcae8ae81d15a005fd2b616fe62988a6ecd0d2c9a665526fd
+Section: Apps
+Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
+Author: Savior
+Name: pArchero
+
+Package: tw.blogspot.myappios.parchero
+Version: 0.5.8
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Archero0.5.8.deb
+Size: 11414072
+MD5sum: e21b256ac9d2abcf472bbc4a238033e5
+SHA1: fd190a380bc609e718721fde420a48b96f8a43da
+SHA256: f3fa91e1c23d11dd876b3b3e0a9cd972261d996bf9c3141ce4080b7171738bdb
 Section: Apps
 Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Increase equipment drop rate. 4. Increase dropped money. 5. Increase scroll drop rate. 6. Adjustble equipment drop rate. 7. Increase sapphire rate.
 Author: Savior
@@ -107,6 +107,21 @@ Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: Savior
 Name: pDOD
 
+Package: tw.blogspot.myappios.pdod
+Version: 0.1.8
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/DungeonOfDespair0.1.8.deb
+Size: 11386284
+MD5sum: c32af2145cbd1613b40a829c435e2a0d
+SHA1: 7f9b0eeaa5d292e971df81faedfd6740cdd48a7e
+SHA256: 071b116ca8d24ca9deff262c3da65c0e6442832b080695c504a917ec94414e2f
+Section: Apps
+Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
+Author: Savior
+Name: pDOD
+
 Package: tw.blogspot.myappios.pfatego
 Version: 0.1.2
 Architecture: iphoneos-arm
@@ -117,6 +132,21 @@ Size: 11336640
 MD5sum: f24bcb0966b521faf22d799b184c3b44
 SHA1: 5a3723545d24a53a01268531ab80ff86418bdd86
 SHA256: ff689bd9eabe43f6c9183ea0de4802d54a565e667ab8cf926cee01be4ae29b09
+Section: Apps
+Description: Fate/Grand Order patch. 1. One Hit Kill.
+Author: Savior
+Name: pFateGo
+
+Package: tw.blogspot.myappios.pfatego
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/FateGoApp0.1.3.deb
+Size: 11383190
+MD5sum: 54d38580059d13a9da31f046be86da16
+SHA1: aa161915dfc81fef887d1864c0277a1158adb2ae
+SHA256: 9f75fe386b2145ff3c4bb4bef2a488757994489d9f76e7e9dd46968b7a38a420
 Section: Apps
 Description: Fate/Grand Order patch. 1. One Hit Kill.
 Author: Savior
@@ -137,6 +167,21 @@ Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
 Author: Savior
 Name: pGrandChase
 
+Package: tw.blogspot.myappios.pgrandchase
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/GrandChase0.1.4.deb
+Size: 11392134
+MD5sum: 4d5762d353226ffda25bc8d6407b59bb
+SHA1: f1a640ab46879d52567720aadd1dddcbc2015410
+SHA256: 29f36b000082bcac03be422120b4345ef7f7b6ea4d684c1ce10401e7abaa9ef7
+Section: Apps
+Description: Grand Chase patch. 1. God Mode. 2. One Hit Kill.
+Author: Savior
+Name: pGrandChase
+
 Package: tw.blogspot.myappios.pherocantare
 Version: 0.1.3
 Architecture: iphoneos-arm
@@ -147,6 +192,21 @@ Size: 11344340
 MD5sum: 53cd7df377e3bfe79c135fc603c7d0a7
 SHA1: 332e89d155c6a5f071a8c24a640abc9a603fea9b
 SHA256: d209b499c000e19c84f78c0ece47f6ee13a271b7a3f953fda5fd72c1ed64221a
+Section: Apps
+Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
+Author: Savior
+Name: pHeroCantare
+
+Package: tw.blogspot.myappios.pherocantare
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HCGlobal0.1.4.deb
+Size: 11389178
+MD5sum: bac6a47f40d1c9c6ec438cd6fb624c02
+SHA1: 89bd5038b81a89ca834545fc4872ddafe4faf244
+SHA256: bf4331a972aebce6b36db15e72ac19619e4ca55d7a90ddbc11c1b431ad541c5e
 Section: Apps
 Description: Hero Cantare patch. 1. Player ap multiplier. 2. Player hp multiplier. 3. Player shield multiplier.
 Author: Savior
@@ -167,6 +227,21 @@ Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3.
 Author: Savior
 Name: pHitmanReborn
 
+Package: tw.blogspot.myappios.phitmanreborn
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HitmanReborn0.1.2.deb
+Size: 11402116
+MD5sum: bc430061da67c012c331687c954fceea
+SHA1: 1ce85f1a74d8afc198083ad8046b8e35252b6125
+SHA256: 43f386223e6b1b9c95cb5723e673fb6d75c79c456bdd7b41b264e1b14396e5a7
+Section: Apps
+Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3. Mana multiplier.
+Author: Savior
+Name: pHitmanReborn
+
 Package: tw.blogspot.myappios.phundredsoul
 Version: 0.1.5
 Architecture: iphoneos-arm
@@ -182,6 +257,21 @@ Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
 Author: Savior
 Name: pHundredSoul
 
+Package: tw.blogspot.myappios.phundredsoul
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HundredSoul0.1.6.deb
+Size: 11409236
+MD5sum: 300b4978df118e9a3e09daa8798f7b54
+SHA1: 99c8f0723b8e7515cf84fde6d98e11f9622f6834
+SHA256: cadbfa94f3489a541b730429a8ae3eb14113f7fa033667e974ee1509fd3e1cab
+Section: Apps
+Description: hundred Soul patch. 1. Player ap multiplier. 2. Enemy ap divisor.
+Author: Savior
+Name: pHundredSoul
+
 Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.2
 Architecture: iphoneos-arm
@@ -192,6 +282,21 @@ Size: 11353582
 MD5sum: 49d4e620329a2b2114fb180e428b4e4c
 SHA1: 7e4f47e62bb311a86851ed055106b862e2a62083
 SHA256: ea2d3fea1544c8985b3c030af61ef36dca833792cbc8eabe7b2c2d37a21c899a
+Section: Apps
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
+Author: Savior
+Name: pKartRiderRush
+
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.2.3.deb
+Size: 11399776
+MD5sum: 030e0b31d8d279ac2d9a63735dabae6b
+SHA1: 0c60cda56072c79bc95ae35f1d4aead7749578dc
+SHA256: b660dfe7ece2da7d6fb65c36dd293cb436d72dca77b3a3a938c5fe50235a00eb
 Section: Apps
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
 Author: Savior
@@ -243,15 +348,15 @@ Author: Savior
 Name: pLineChef
 
 Package: tw.blogspot.myappios.plinechef
-Version: 0.1.9
+Version: 0.1.11
 Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/LineChefApp0.1.9.deb
-Size: 11362824
-MD5sum: d8308f214c6b0a3f5c481611204a696b
-SHA1: ef2433c85b9a59ff02095081a4765e70263b0e57
-SHA256: 686ee00fcf3570533ce6f1b60ce523758bc12c218555de929990bd272175bf9c
+Filename: debs/LineChefApp0.1.11.deb
+Size: 11410076
+MD5sum: 2b9051a83bc160c586363abbb762b9b6
+SHA1: 2a4df3d306ab283a7f4e071eb825e45b70105bb2
+SHA256: 73a236a1d7581f5e97bc9bb27faa25ad09099b733e946bdeb276bbdb917e58c1
 Section: Apps
 Description: Line Chef patch. 1. Set cooking time. 2. Set over cooking time. 3. Add score. 4. Add payment. 5. Add customer waiting time. 6. Combo multiplier. 7. No burn Coating.
 Author: Savior
@@ -267,6 +372,21 @@ Size: 11358104
 MD5sum: 29253d8d4e89336238ed159ea79fc727
 SHA1: dced6ba85decf4287cd3bb82c2720c444c9a0cf7
 SHA256: 7e9af293337293075b82aa32545a90d58e2baf1d0e73cc7a39b6f501da74c70c
+Section: Apps
+Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
+Author: Savior
+Name: pmwHK
+
+Package: tw.blogspot.myappios.pmwHK
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MakaiWars0.1.3.deb
+Size: 11402556
+MD5sum: 95306b15a14e64afc0d158cd44e4fd42
+SHA1: d124f0e3f1cd6b55065e97d8eb6e4333aea086b0
+SHA256: 758834c32d063687a7cb12d81927d70306ad491e0a54e3d7c13fb3c267aab22b
 Section: Apps
 Description: Makai Wars patch. 1. Decrease enemy attack. 2. Increase player attack. 3 Adjust cool down time.
 Author: Savior
