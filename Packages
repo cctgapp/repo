@@ -15,22 +15,6 @@ Author: cc
 Name: ccunboxd
 
 Package: tw.blogspot.myappios.TOS-Savior
-Version: 2.2.4
-Architecture: iphoneos-arm
-Maintainer: ChengChung Tseng
-Depends: org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/TOSSavior2.2.4.deb
-Size: 28078910
-MD5sum: 32f97ba7f8510432ddf6b799693fb0b8
-SHA1: 7b36efba1f92f837778eb91d3f79ff3b78391255
-SHA256: 718ae669c97bea8f541481e37258e0e009cf7d7f031cd981712dd28c869e6253
-Section: Apps
-Homepage: http://myappios.blogspot.tw/2016/06/blog-post.html
-Description: 神魔救星可以讓你儲存神魔之塔的備份，回復備份，查看關卡資料。
-Author: ChengChung Tseng
-Name: 神魔救星
-
-Package: tw.blogspot.myappios.TOS-Savior
 Version: 2.2.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
@@ -393,21 +377,6 @@ Author: Savior
 Name: pmwHK
 
 Package: tw.blogspot.myappios.pmyhero
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/MyHeros0.1.5.deb
-Size: 11434260
-MD5sum: 22176da3db42457dc50be034455f97a1
-SHA1: b4e412efa93deaf19e6afc3f1dd99ae4449ad2e0
-SHA256: 10d604bc9bddf2d8420c14797ecc973ee22c460622d86cc52543c785b482b86d
-Section: Apps
-Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor. 4. Attack speed multiplier. 5. Drops(gold/rune) multiplier.
-Author: Savior
-Name: pMyHeros
-
-Package: tw.blogspot.myappios.pmyhero
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -417,6 +386,21 @@ Size: 11426924
 MD5sum: 4cf7c1b1335a7766d55a389352f7b2f6
 SHA1: 86fedd44114f2e2e4eaf4f10492441bcd8f86f67
 SHA256: 0f863e163884e11af1306f18da5ad3563419595b027f608cd1bf74a3a4d970fe
+Section: Apps
+Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor. 4. Attack speed multiplier. 5. Auto Collect Item. 6. Wall Hack.
+Author: Savior
+Name: pMyHeros
+
+Package: tw.blogspot.myappios.pmyhero
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/MyHeros0.2.1.deb
+Size: 11432008
+MD5sum: b0c42d3744b49cd861a654bef1e16efb
+SHA1: e2ed07eb65db55e4ef4f3e44e1e7f7e564fdb749
+SHA256: a25f48bb2bc26362d2411693ea9e9ee949203b369040ee42e6ad0136a926870b
 Section: Apps
 Description: My Heros patch. 1. Attack multiplier. 2. Speed multiplier. 3. Enemy attack divisor. 4. Attack speed multiplier. 5. Auto Collect Item. 6. Wall Hack.
 Author: Savior
@@ -437,6 +421,21 @@ Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: Savior
 Name: pNightAgent
 
+Package: tw.blogspot.myappios.pnightagent
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/NightAgent0.1.4.deb
+Size: 11412292
+MD5sum: 15bbbaab0c9917e16706671343e29bbd
+SHA1: 310f8980799f067521865ba1491f234700c74a30
+SHA256: 79193fe4183047ad6a67d7d962fe76e0b370623bd57663f1a90bf45ca9b04676
+Section: Apps
+Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
+Author: Savior
+Name: pNightAgent
+
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.5
 Architecture: iphoneos-arm
@@ -447,6 +446,21 @@ Size: 11718166
 MD5sum: a57c6f548930119afc14edb379a469f7
 SHA1: c74ea0d53d78d59f35b9a0933870164622903b82
 SHA256: 8540fbbc506b14999d25038fa2017cf0b8d94d43e6168c72bb184c46115ca084
+Section: Apps
+Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
+Author: Savior
+Name: pRandomDice
+
+Package: tw.blogspot.myappios.prandomdice
+Version: 0.3.6
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RandomDice0.3.6.deb
+Size: 11714114
+MD5sum: 238cc6e48c189b364225546794136418
+SHA1: 6ce254783985c6f7cefc7f5ef80217844893fdc9
+SHA256: baefa46da7e2f2b5abeb56711875ed08085043879c8f5071468cc02369a6f58a
 Section: Apps
 Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
 Author: Savior
@@ -467,6 +481,21 @@ Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhanc
 Author: Savior
 Name: pROD
 
+Package: tw.blogspot.myappios.prod
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ROD0.1.3.deb
+Size: 11429972
+MD5sum: 7de76523be3b705e588360f6de714c9b
+SHA1: cd3dacec468621477031e64621259186eb64c311
+SHA256: f9b056a90fb4f61c39799d1dc5d4ce49636e80fa86a4a91e2f36d9a52de13afb
+Section: Apps
+Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhance(Atk). 5. Add Pet.
+Author: Savior
+Name: pROD
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.2
 Architecture: iphoneos-arm
@@ -477,6 +506,21 @@ Size: 11410996
 MD5sum: b0a5d65907210b150611ffbf264cbe1b
 SHA1: 5d113d5fa07e7c61af95bd8b88f80de7864c2a6b
 SHA256: b0a99a7b37db969df2b6f8328fb207941473262059ecbe5967731078c529e720
+Section: Apps
+Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
+Author: Savior
+Name: pSoulKnight
+
+Package: tw.blogspot.myappios.psoulknight
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/SoulKnight0.2.3.deb
+Size: 11406792
+MD5sum: 2dc32accb0b1c21eb1a02b916d6f6d33
+SHA1: 5ffed3b41689754954715ec74bac916eff3316c0
+SHA256: b6fc5dd26fe22faca12cc0c9a24be2a4bf4185075ce1c16ba914dedc0ec48148
 Section: Apps
 Description: Soul Knight patch. 1. At least 1 blood. 2. Armor No Damage. 3. Energy Multiplier.
 Author: Savior
@@ -497,6 +541,21 @@ Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Play
 Author: Savior
 Name: pStarWars
 
+Package: tw.blogspot.myappios.pstarwars
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/StarWars0.1.4.deb
+Size: 11426410
+MD5sum: 9fef6274287c49a5c2e04b006b6af695
+SHA1: 2f103db5c2dc9cb05aeb636d3e793d5bb3efdf48
+SHA256: 2a8aab3506dd3866d96f20217fd8d18f02568e625c9bb4e5cf14380726547285
+Section: Apps
+Description: Star Wars: Galaxy Of Heroes patch. 1. Player ap multiplier. 2. Player hp multiplier.
+Author: Savior
+Name: pStarWars
+
 Package: tw.blogspot.myappios.pstateofsurvival
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -507,6 +566,21 @@ Size: 11376616
 MD5sum: dccd5dbee6c12a8b670167e477774292
 SHA1: c06114eb2960df9b39186f9b368b3c890a243efb
 SHA256: 97311992d3298a6d231c0704e37c508c8c07c910f82a63f8334baf00d02f78cc
+Section: Apps
+Description: State Of Survival patch. 1. Bothside attack multiplier.
+Author: Savior
+Name: pStateOfSurvival
+
+Package: tw.blogspot.myappios.pstateofsurvival
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/StateOfSurvival0.1.2.deb
+Size: 11385082
+MD5sum: 07e8a25e007c2eb5b8bad88a24f5099a
+SHA1: 558edb131d326fd1da04b4b0c22055b23b76a24b
+SHA256: 627d8f1f14e6a8c5407d7d7160a0830b6fff7faeda624cb7bdb93eb7fd732480
 Section: Apps
 Description: State Of Survival patch. 1. Bothside attack multiplier.
 Author: Savior
@@ -527,6 +601,21 @@ Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed mult
 Author: Savior
 Name: pTalesRush
 
+Package: tw.blogspot.myappios.ptalesrush
+Version: 0.1.7
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/TalesRushApp0.1.7.deb
+Size: 11431704
+MD5sum: d2ce04b318c7111e22cfa3102de16da9
+SHA1: 2bc1c7b335e47cf0e85f34d69699ea7b7a6bbcb6
+SHA256: 86e7975b14435465770473a248b5c09dc8da3f531c01cfbdfec487fbb2db40f0
+Section: Apps
+Description: Tales Rush patch. 1. Player damage multiplier. 2. Player speed multiplier. 3. Attack distance multiplier. 4. Enemy damage decrease. 4. Enemy HP decrease. 6. Treasure number. 7. Treasure change.
+Author: Savior
+Name: pTalesRush
+
 Package: tw.blogspot.myappios.ptriglav
 Version: 0.1.6
 Architecture: iphoneos-arm
@@ -537,6 +626,21 @@ Size: 11429460
 MD5sum: 90f1798712aa8ae50fd072d0b98261bb
 SHA1: 8533e558a7b36b998164c6172b96b5fe21362776
 SHA256: 0ac3513d4e9606a737e4ba64bc39c20f481757f2671d96ea812a620e1f5dae8f
+Section: Apps
+Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X n, Gold X n.
+Author: Savior
+Name: pTriglav
+
+Package: tw.blogspot.myappios.ptriglav
+Version: 0.1.7
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Triglav0.1.7.deb
+Size: 11424900
+MD5sum: 69845e5e9b21b7ff2cf532d886899c5b
+SHA1: 860a4e91b226ba72f6e66d1a7bcd0e061d8ef91e
+SHA256: 233989f3f0668a31ddf1525161094bb497180b9ea3c5930ad0b4835ef09356c8
 Section: Apps
 Description: Triglav patch. 1. Adjust strength, defense, dexterity, vitality, speed and special. 2. Experience X n, Gold X n.
 Author: Savior
@@ -557,6 +661,21 @@ Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplie
 Author: Savior
 Name: pWhiteCatProject
 
+Package: tw.blogspot.myappios.pwcp
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/WhiteCatProject0.1.3.deb
+Size: 11430652
+MD5sum: 0c7272a39e95545be6dba0371b8126d7
+SHA1: 5bdfe8dcd41a671a8a7154b7fff7099c13c634c7
+SHA256: 46c49b73ae833e337b3f4401f41a692384d62adcc8a4c8e6ddc4b1c34f1314de
+Section: Apps
+Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplier. 3. Add attack. 4. Add SP.
+Author: Savior
+Name: pWhiteCatProject
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.1.4
 Architecture: iphoneos-arm
@@ -567,6 +686,21 @@ Size: 11391338
 MD5sum: 069b4881cb4081e062daf077c2a75f53
 SHA1: d333d38f00aa2a4ec21615db04c8e4532423e47c
 SHA256: 1c07d9a10adac7f3cc9b90670eec01f3004ae747f43fce8a29bd2cd75cfa9f6a
+Section: Apps
+Description: Zooba patch. 1. Enable map hack.
+Author: Savior
+Name: pZooba
+
+Package: tw.blogspot.myappios.pzooba
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ZoobaApp0.1.5.deb
+Size: 11385996
+MD5sum: 8781231f64f91a20de6bc614ad891731
+SHA1: 3119623af38407ac9779d0401d9b023bec575d24
+SHA256: c5ae2769685d1145e717424685536d1dd3ee22360e351443e7060c51c27ec883
 Section: Apps
 Description: Zooba patch. 1. Enable map hack.
 Author: Savior
@@ -589,21 +723,6 @@ Author: ChengChung Tseng
 Name: tosp設定
 
 Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.5
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.5.deb
-Size: 11925602
-MD5sum: 464a0b9de0d7b90a0542277f7af2ddad
-SHA1: fdd7ce81af9e74f740f3019fd1dfe9c86daaf332
-SHA256: 4de1b2870e0903337a16bee8ee3b842f5b591283f5bfe9acfe072447192d0ef8
-Section: Apps
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: Savior
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.8.6
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -613,6 +732,21 @@ Size: 11915364
 MD5sum: 54c839ce0fdcd01246f36c80e3b58cfe
 SHA1: c8a97b307c850475b7e2c45adaefcc4f7c82bb64
 SHA256: 4a3da29fa2ae1fcfe7db69d674dc966932184f04318b6155a1548c8c3a410417
+Section: Apps
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
+Author: Savior
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.8.7
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.8.7.deb
+Size: 11920758
+MD5sum: 6975a2d16582b11f1c3bbad933238006
+SHA1: 1f68530814d43ee24804a8288b8fafa78051c012
+SHA256: 9fad24b940a0e6b1ff5e288a13911f13433f2554776c298315229afa8935eedb
 Section: Apps
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
 Author: Savior
