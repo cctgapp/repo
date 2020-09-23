@@ -106,6 +106,21 @@ Description: DOD patch. 1. Player hp addition. 2. Gold coin multiplier.
 Author: Savior
 Name: pDOD
 
+Package: tw.blogspot.myappios.pfandays
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/FantasticDays0.1.1.deb
+Size: 11401974
+MD5sum: 7cf6d511714320a23d4f56d89107ead4
+SHA1: baed12d3b551efd68338ac3e89f70c9ed75de639
+SHA256: dae4633d175439b821eedc05000691f31e592280d773b2a6c0bc068c5bc9120b
+Section: Apps
+Description: Fantastic Days patch. 1. HP + 1000. 2. Physical Attack + 1000. 3. Magical Attack + 1000.
+Author: Savior
+Name: pFantasticDays
+
 Package: tw.blogspot.myappios.pfatego
 Version: 0.1.2
 Architecture: iphoneos-arm
