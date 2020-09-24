@@ -511,6 +511,21 @@ Description: ROD patch. 1. Enemy Lv1. 2. Boss Lv1. 3. Weak Enemy(Atk). 4. Enhanc
 Author: Savior
 Name: pROD
 
+Package: tw.blogspot.myappios.progueidle
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/RogueIdle0.1.1.deb
+Size: 11395998
+MD5sum: 324db35e381d627a916eabb9dfe0af24
+SHA1: 1a76d30766d628f8f66e990013a943c26f6353e8
+SHA256: 959bb31c624eb1846437146483f52f2c32a39671ea758589a7da39ac1544428b
+Section: Apps
+Description: RogueIdle patch. 1. HP multiplier. 2. Self attack multiplier. 3. Enemy attack divisor.
+Author: Savior
+Name: pRogueIdle
+
 Package: tw.blogspot.myappios.psoulknight
 Version: 0.2.2
 Architecture: iphoneos-arm
