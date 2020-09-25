@@ -302,21 +302,6 @@ Author: Savior
 Name: pKartRiderRush
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.5
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.8.5.deb
-Size: 11388930
-MD5sum: 729c0c95b5cac3f2def509dd1c3e5f1e
-SHA1: 1c737e81d3bbe6442b05cf871ce2fbc3aec65721
-SHA256: e79e1e30d31c88e4779109a68395b41937ba1e94e971b83b47c300aaef550faa
-Section: Apps
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
-Author: Savior
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
 Version: 0.8.6
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -328,6 +313,21 @@ SHA1: f27e9faf9570e3de6344b418fdcc9a0bbafae1d2
 SHA256: 45e81a8b60c14e88fb8e6dffe41259b88e1dca0bf1d3fb8f365dde43cdb513d5
 Section: Apps
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
+Author: Savior
+Name: pKGTW
+
+Package: tw.blogspot.myappios.pkgtw
+Version: 0.8.7
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KGTW0.8.7.deb
+Size: 11442452
+MD5sum: 0bb3616a7ae0d45e13a35ba9b07b379e
+SHA1: e972e1013b186b3dc0cec3bdfbcbb499d4a45d7f
+SHA256: fe541c050f585f9958a5a87132e86eeca97902eb1c7d09221ba03813fbb292cb
+Section: Apps
+Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
 Author: Savior
 Name: pKGTW
 
