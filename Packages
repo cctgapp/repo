@@ -286,6 +286,21 @@ Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge accelerat
 Author: Savior
 Name: pKartRiderRush
 
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.3.0.deb
+Size: 11409974
+MD5sum: cb89161bab519911b360efcffad1cee5
+SHA1: 5ff86050e1ca6bfe05c5e0b90a8d8648c2209135
+SHA256: f4885d7390ed87bb83b8a60a3895fa8e7c69612e161c8ec2f314773fd31fd959
+Section: Apps
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration. 3. Get all stars(Story Mode). 4. Disable AI.
+Author: Savior
+Name: pKartRiderRush
+
 Package: tw.blogspot.myappios.pkgtw
 Version: 0.8.6
 Architecture: iphoneos-arm
