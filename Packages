@@ -272,21 +272,6 @@ Author: Savior
 Name: pHundredSoul
 
 Package: tw.blogspot.myappios.pkartriderrush
-Version: 0.2.2
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KartRiderRush0.2.2.deb
-Size: 11353582
-MD5sum: 49d4e620329a2b2114fb180e428b4e4c
-SHA1: 7e4f47e62bb311a86851ed055106b862e2a62083
-SHA256: ea2d3fea1544c8985b3c030af61ef36dca833792cbc8eabe7b2c2d37a21c899a
-Section: Apps
-Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
-Author: Savior
-Name: pKartRiderRush
-
-Package: tw.blogspot.myappios.pkartriderrush
 Version: 0.2.3
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -298,6 +283,21 @@ SHA1: 0c60cda56072c79bc95ae35f1d4aead7749578dc
 SHA256: b660dfe7ece2da7d6fb65c36dd293cb436d72dca77b3a3a938c5fe50235a00eb
 Section: Apps
 Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration.
+Author: Savior
+Name: pKartRiderRush
+
+Package: tw.blogspot.myappios.pkartriderrush
+Version: 0.2.4
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KartRiderRush0.2.4.deb
+Size: 11409884
+MD5sum: 63a6459bf4c68ed1598a260f37fad658
+SHA1: bd644731815552abb4ebd566987e3f1089ffb133
+SHA256: ccc700372587b6a9156b3bdbe7bc5a3ba20acc11be242e6f8aca394261fc00b7
+Section: Apps
+Description: KartRiderRush+ patch. 1.Nitrogen don't decrease. 2. Gauge acceleration. 3. Get all stars(Story Mode). 4. Disable AI.
 Author: Savior
 Name: pKartRiderRush
 
