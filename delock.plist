@@ -14,5 +14,11 @@
 		<key>Buyer</key>
 		<integer>8</integer>
 	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>28709A06-C78F-4949-B8D8-2A8D1A802C55</string>
+		<key>Buyer</key>
+		<integer>8</integer>
+	</dict>
 </array>
 </plist>
