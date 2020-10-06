@@ -121,6 +121,21 @@ Description: Fantastic Days patch. 1. HP + 1000. 2. Physical Attack + 1000. 3. M
 Author: Savior
 Name: pFantasticDays
 
+Package: tw.blogspot.myappios.pfandays
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/FantasticDays0.1.2.deb
+Size: 11402120
+MD5sum: f1dc8aa594c08d37d7e78acc66e0c899
+SHA1: 7fba86aa0696cc125e9dceccb3c2ae03687e4841
+SHA256: 44f9c4ef1611b2fb577c898edc3b61a2ededfa04915b9fee9dd3501dbae6ce1c
+Section: Apps
+Description: Fantastic Days patch. 1. HP + 4000. 2. Physical Attack + 4000. 3. Magical Attack + 4000.
+Author: Savior
+Name: pFantasticDays
+
 Package: tw.blogspot.myappios.pfatego
 Version: 0.1.2
 Architecture: iphoneos-arm
