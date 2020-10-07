@@ -722,15 +722,15 @@ Author: Savior
 Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pzooba
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.4.deb
-Size: 11391338
-MD5sum: 069b4881cb4081e062daf077c2a75f53
-SHA1: d333d38f00aa2a4ec21615db04c8e4532423e47c
-SHA256: 1c07d9a10adac7f3cc9b90670eec01f3004ae747f43fce8a29bd2cd75cfa9f6a
+Filename: debs/ZoobaApp0.1.5.deb
+Size: 11385996
+MD5sum: 8781231f64f91a20de6bc614ad891731
+SHA1: 3119623af38407ac9779d0401d9b023bec575d24
+SHA256: c5ae2769685d1145e717424685536d1dd3ee22360e351443e7060c51c27ec883
 Section: Apps
 Description: Zooba patch. 1. Enable map hack.
 Author: Savior
@@ -741,11 +741,11 @@ Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.5.deb
-Size: 11385996
-MD5sum: 8781231f64f91a20de6bc614ad891731
-SHA1: 3119623af38407ac9779d0401d9b023bec575d24
-SHA256: c5ae2769685d1145e717424685536d1dd3ee22360e351443e7060c51c27ec883
+Filename: debs/ZoobaApp0.2.0.deb
+Size: 11373962
+MD5sum: aa0e8ca1ae7c354fbf227042f7ea0c66
+SHA1: 6949c50f1891ee7194d44ec90b06a461218559fe
+SHA256: cab6b76fc186fb9780ba472fafb539b9fe0865e5be347990b7fadef5cdc7aa62
 Section: Apps
 Description: Zooba patch. 1. Enable map hack.
 Author: Savior
