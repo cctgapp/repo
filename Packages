@@ -737,15 +737,15 @@ Author: Savior
 Name: pZooba
 
 Package: tw.blogspot.myappios.pzooba
-Version: 0.1.5
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: Savior
 Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
 Filename: debs/ZoobaApp0.2.0.deb
-Size: 11373962
-MD5sum: aa0e8ca1ae7c354fbf227042f7ea0c66
-SHA1: 6949c50f1891ee7194d44ec90b06a461218559fe
-SHA256: cab6b76fc186fb9780ba472fafb539b9fe0865e5be347990b7fadef5cdc7aa62
+Size: 11373974
+MD5sum: 31db128a4aa9e5506fd2bb1ec8805bb7
+SHA1: eb4aad3860dcf9bb5c68cdb16adb3e7e0bbbcbfc
+SHA256: 3c253b7db088f2af259544022f7ee898039b1712b196a7278d3404ddf40afb81
 Section: Apps
 Description: Zooba patch. 1. Enable map hack.
 Author: Savior
