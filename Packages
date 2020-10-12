@@ -722,21 +722,6 @@ Author: Savior
 Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pzooba
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/ZoobaApp0.1.5.deb
-Size: 11385996
-MD5sum: 8781231f64f91a20de6bc614ad891731
-SHA1: 3119623af38407ac9779d0401d9b023bec575d24
-SHA256: c5ae2769685d1145e717424685536d1dd3ee22360e351443e7060c51c27ec883
-Section: Apps
-Description: Zooba patch. 1. Enable map hack.
-Author: Savior
-Name: pZooba
-
-Package: tw.blogspot.myappios.pzooba
 Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -748,6 +733,21 @@ SHA1: eb4aad3860dcf9bb5c68cdb16adb3e7e0bbbcbfc
 SHA256: 3c253b7db088f2af259544022f7ee898039b1712b196a7278d3404ddf40afb81
 Section: Apps
 Description: Zooba patch. 1. Enable map hack.
+Author: Savior
+Name: pZooba
+
+Package: tw.blogspot.myappios.pzooba
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/ZoobaApp0.3.0.deb
+Size: 11385678
+MD5sum: fdeb7952cf8010893f91b65aee6bdc10
+SHA1: ee37d5b4f24ac6834aaf1643408c76953a4194b8
+SHA256: b05bfe232cca0bbcdbc9f7dcdb8b4d85a93229436a8be7c807e2f20c57d4cf48
+Section: Apps
+Description: Zooba patch. 1. Enable map hack. 2. Sight Radius. 3. Ignore Prohibit. 4. Zoom.
 Author: Savior
 Name: pZooba
 
