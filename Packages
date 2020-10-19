@@ -76,6 +76,21 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: Savior
 Name: pArchero
 
+Package: tw.blogspot.myappios.pcodm
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CODM0.1.1.deb
+Size: 11399080
+MD5sum: 98d44d4a6605b90cab426aee3d441470
+SHA1: 29600ba2359311a9a7484577f2d632a64f445e42
+SHA256: afd5787a447259684d5d3aa781d116688d9545f9104d2524cd18cc06a45f25e7
+Section: Apps
+Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil.
+Author: Savior
+Name: pCODM
+
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.7
 Architecture: iphoneos-arm
