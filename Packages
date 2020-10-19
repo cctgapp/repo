@@ -106,6 +106,21 @@ Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire i
 Author: Savior
 Name: pCODM
 
+Package: tw.blogspot.myappios.pcodm
+Version: 0.2.0-1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CODM0.2.0-1.deb
+Size: 11405778
+MD5sum: 5d5cdbb473f56e5013e8480ca44907ce
+SHA1: d45f8db10a56afa2fdd689b4be7fcb89b63abd3c
+SHA256: 0c69ef8c35ee2f664e50322d5c0f4299f5f7dcdf91110e9b02d844bcfa88baff
+Section: Apps
+Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair.
+Author: Savior
+Name: pCODM
+
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.7
 Architecture: iphoneos-arm
