@@ -77,21 +77,6 @@ Author: Savior
 Name: pArchero
 
 Package: tw.blogspot.myappios.pcodm
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CODM0.1.1.deb
-Size: 11399080
-MD5sum: 98d44d4a6605b90cab426aee3d441470
-SHA1: 29600ba2359311a9a7484577f2d632a64f445e42
-SHA256: afd5787a447259684d5d3aa781d116688d9545f9104d2524cd18cc06a45f25e7
-Section: Apps
-Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil.
-Author: Savior
-Name: pCODM
-
-Package: tw.blogspot.myappios.pcodm
 Version: 0.1.1-2
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -103,6 +88,21 @@ SHA1: 17ef103f8d5d7691b895007d11c29b8dda6ad181
 SHA256: 40cac6f3be17dd12c63046fababd69415e2b78aca7304f36980ee517a98b86fc
 Section: Apps
 Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil.
+Author: Savior
+Name: pCODM
+
+Package: tw.blogspot.myappios.pcodm
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CODM0.2.0.deb
+Size: 11405776
+MD5sum: 8c97ec3094473c85f30c13f4c7130357
+SHA1: 90d4de351c10b4e23ba8caea94413614450046b6
+SHA256: 7ff6e9579800701590aa00158d0beddef87c3488e5535f26345d5b862402501a
+Section: Apps
+Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair.
 Author: Savior
 Name: pCODM
 
