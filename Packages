@@ -77,36 +77,6 @@ Author: Savior
 Name: pArchero
 
 Package: tw.blogspot.myappios.pcodm
-Version: 0.1.1-2
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CODM0.1.1-2.deb
-Size: 11399106
-MD5sum: e44d0e993b3d7edda3ccebb06ca5f746
-SHA1: 17ef103f8d5d7691b895007d11c29b8dda6ad181
-SHA256: 40cac6f3be17dd12c63046fababd69415e2b78aca7304f36980ee517a98b86fc
-Section: Apps
-Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil.
-Author: Savior
-Name: pCODM
-
-Package: tw.blogspot.myappios.pcodm
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/CODM0.2.0.deb
-Size: 11405776
-MD5sum: 8c97ec3094473c85f30c13f4c7130357
-SHA1: 90d4de351c10b4e23ba8caea94413614450046b6
-SHA256: 7ff6e9579800701590aa00158d0beddef87c3488e5535f26345d5b862402501a
-Section: Apps
-Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair.
-Author: Savior
-Name: pCODM
-
-Package: tw.blogspot.myappios.pcodm
 Version: 0.2.0-1
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -118,6 +88,21 @@ SHA1: d45f8db10a56afa2fdd689b4be7fcb89b63abd3c
 SHA256: 0c69ef8c35ee2f664e50322d5c0f4299f5f7dcdf91110e9b02d844bcfa88baff
 Section: Apps
 Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair.
+Author: Savior
+Name: pCODM
+
+Package: tw.blogspot.myappios.pcodm
+Version: 0.3.0
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CODM0.3.0.deb
+Size: 11419660
+MD5sum: bc1554e6f85fd2ab42115837e190e965
+SHA1: 49566f54801f7fd1b7a61d25d175c79939961549
+SHA256: 8b8af2f5e52fbfeaff67fc4adf9c86fba8e7b4c42f6f0aee466e4fbb91ed1799
+Section: Apps
+Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire interval divisor. 4. Hide when fire. 5. Show enemy outline. 6. Show enemy on map. 7. No recoil. 8. Counter UAV. 9. Tiny Crosshair. 10. Tiny Crosshair. 11. Show enemy name on match. 12. No chage view when prone. 13. TPP in FPP. 14. Silencer.
 Author: Savior
 Name: pCODM
 
