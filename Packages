@@ -257,21 +257,6 @@ Author: Savior
 Name: pHeroCantare
 
 Package: tw.blogspot.myappios.phitmanreborn
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/HitmanReborn0.1.1.deb
-Size: 11410778
-MD5sum: 0cae9f16de8fc72a3c633231e087942f
-SHA1: 530774e5901c78a06a4811b28393f31104fe4ea6
-SHA256: 9777abd75185368872c38cdcce91269ee6301042a6361b69eda3588b70de81ad
-Section: Apps
-Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3. Mana multiplier.
-Author: Savior
-Name: pHitmanReborn
-
-Package: tw.blogspot.myappios.phitmanreborn
 Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -281,6 +266,21 @@ Size: 11402116
 MD5sum: bc430061da67c012c331687c954fceea
 SHA1: 1ce85f1a74d8afc198083ad8046b8e35252b6125
 SHA256: 43f386223e6b1b9c95cb5723e673fb6d75c79c456bdd7b41b264e1b14396e5a7
+Section: Apps
+Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3. Mana multiplier.
+Author: Savior
+Name: pHitmanReborn
+
+Package: tw.blogspot.myappios.phitmanreborn
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/HitmanReborn0.1.3.deb
+Size: 11371480
+MD5sum: 7aee53adb3a41e9b5acd8e0641548ca6
+SHA1: 13cf28bb94e7d6d4d069bc0e4deb9b629a1cb3e7
+SHA256: c8e3d0d8763aee5cb65284b7ce40762662603b8e273293de90f54b5b4c2d4f72
 Section: Apps
 Description: Hitman Reborn patch. 1. Defence multiplier. 2. Speed multiplier. 3. Mana multiplier.
 Author: Savior
