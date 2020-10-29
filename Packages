@@ -496,6 +496,21 @@ Description: Night Agent patch. 1. Player AP. 2. Enemy AP. 3. Speed.
 Author: Savior
 Name: pNightAgent
 
+Package: tw.blogspot.myappios.potherworld
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Otherworld0.1.1.deb
+Size: 11402686
+MD5sum: 8a53b06aef254089b983d01f2f970d6e
+SHA1: 43d54deacabd1b178abe33126865526fbdd13611
+SHA256: 44b860c6c6edef358ed0c97d3b78c62ff70adad81141e1ebbc49401c7ad1b3d8
+Section: Apps
+Description: Otherworld Legend patch. 1. Move speed multiplier. 2. Damage multiplier. 3. HP multiplier. 4. Mana multiplier. 5. Gold rate multiplier. 6. No CD.
+Author: Savior
+Name: pOtherworld
+
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.5
 Architecture: iphoneos-arm
