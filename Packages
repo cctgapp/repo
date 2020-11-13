@@ -511,6 +511,21 @@ Description: Otherworld Legend patch. 1. Move speed multiplier. 2. Damage multip
 Author: Savior
 Name: pOtherworld
 
+Package: tw.blogspot.myappios.potherworld
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/Otherworld0.2.0.deb
+Size: 11405464
+MD5sum: 00563792b519179ed96cb38f3d65699e
+SHA1: 55856b8eb1e81a7da13003dc87ee76d3d4371318
+SHA256: 1326fe086561b2660daf8c3736ab10c976c8a12d7fbf67d5b71b935939338386
+Section: Apps
+Description: Otherworld Legend patch. 1. Move speed multiplier. 2. Damage multiplier. 3. HP multiplier. 4. Mana multiplier. 5. Gold rate multiplier. 6. No CD. 7. Unlock all heros.
+Author: Savior
+Name: pOtherworld
+
 Package: tw.blogspot.myappios.prandomdice
 Version: 0.3.5
 Architecture: iphoneos-arm
