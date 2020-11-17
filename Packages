@@ -781,6 +781,22 @@ Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplie
 Author: Savior
 Name: pWhiteCatProject
 
+Package: tw.blogspot.myappios.pwildrift
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/tw.blogspot.myappios.pwildrift_0.0.1_iphoneos-arm.deb
+Size: 3110
+MD5sum: fcba3b73f641cf67779a0b2d8c2726f7
+SHA1: d1fc980e79230f9b9da4fd06040ffaad849310d4
+SHA256: 5291b62d7070446d4e2ad4aaf9ff04b4967cc8735bd6afa3442ec65df6865dcd
+Section: Tweaks
+Description: Map hack(No UI/No Switch) for LOLM - Wild Rift 1.0.2.
+Author: Savior
+Name: pWildRift
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.2.0
 Architecture: iphoneos-arm
