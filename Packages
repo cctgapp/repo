@@ -797,6 +797,22 @@ Description: Map hack(No UI/No Switch) for LOLM - Wild Rift 1.0.2.
 Author: Savior
 Name: pWildRift
 
+Package: tw.blogspot.myappios.pwildrift
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Savior
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: debs/tw.blogspot.myappios.pwildrift_0.0.2_iphoneos-arm.deb
+Size: 4146
+MD5sum: c8f0c9fa1839a7af2437fdc2a270a686
+SHA1: dddd6a27a483d4f11209187388205819a49b9fdf
+SHA256: fe2313a36220cc4b0250e331b847ce34986ef4df98fd4d8a8e79481514481f10
+Section: Tweaks
+Description: Map hack(No UI/No Switch) for LOLM - Wild Rift 1.0.2.
+Author: Savior
+Name: pWildRift
+
 Package: tw.blogspot.myappios.pzooba
 Version: 0.2.0
 Architecture: iphoneos-arm
