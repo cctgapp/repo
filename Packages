@@ -556,21 +556,6 @@ Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Rew
 Author: Savior
 Name: pRandomDice
 
-Package: tw.blogspot.myappios.prandomdice
-Version: 0.3.6-1
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/RandomDice0.3.6-1.deb
-Size: 11715186
-MD5sum: 8620dff2369e1d46d7bca4cf265fd78b
-SHA1: dc30d372f7c68c95d818d0e856e998d06118039f
-SHA256: 27a29abad5ca17eab1d939389244f0b9be965dc6acfc5632fee0f99772af6071
-Section: Apps
-Description: Random Dice patch. 1. Both attack. 2. Critical Damage. 3. Daily Reward. 4. Diamond. 5. Gold. 6. Trophy. 7. Box(Gold, Diamond, Dice). 8. Remove some cheating detection. 9. Coin payment = 1. 10. Crystal payment = 1.
-Author: Savior
-Name: pRandomDice
-
 Package: tw.blogspot.myappios.prod
 Version: 0.1.2
 Architecture: iphoneos-arm
