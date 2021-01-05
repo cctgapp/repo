@@ -835,10 +835,10 @@ Maintainer: Savior
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.2_iphoneos-arm.deb
-Size: 4140
-MD5sum: 3915c6e18a33cbb8cd949557b06b2f15
-SHA1: 4795ff0c47f2fe7527244f2fee5f55b0af606e5a
-SHA256: 0dc9e5670d285281ce9fffc53e19992f9b6db959cb8f35ac289e24c16c4f49ad
+Size: 3790
+MD5sum: d3bf0190f72d723e090f627b2e14aee9
+SHA1: 965b52478f775fde1edd7acf0b027d26c358b343
+SHA256: 984c67bfb354018d04d768779aab47d1be29cd2b0d68fd047733cbef93853986
 Section: Tweaks
 Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 2.0.0.
 Author: Savior
