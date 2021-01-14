@@ -796,49 +796,17 @@ Description: White Cat Project patch. 1. God Mode. 2. Player run speed multiplie
 Author: Savior
 Name: pWhiteCatProject
 
-Package: tw.blogspot.myappios.pwildrift
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Savior
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs/tw.blogspot.myappios.pwildrift_0.0.2_iphoneos-arm.deb
-Size: 4146
-MD5sum: c8f0c9fa1839a7af2437fdc2a270a686
-SHA1: dddd6a27a483d4f11209187388205819a49b9fdf
-SHA256: fe2313a36220cc4b0250e331b847ce34986ef4df98fd4d8a8e79481514481f10
-Section: Tweaks
-Description: Map hack(No UI/No Switch) for LOLM - Wild Rift 1.0.2.
-Author: Savior
-Name: pWildRift
-
 Package: tw.blogspot.myappios.pwildrifttw
-Version: 0.0.1
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Savior
 Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.1_iphoneos-arm.deb
-Size: 4140
-MD5sum: fe2e35ff7c549b4932e688d5c6927d15
-SHA1: 835be00db8a180ab0f5a8f4131673cf0a51c890d
-SHA256: 2dc62e2c13164309f42683d3ffbc0d379912c048f06176a3f5ae4eb53b9c11df
-Section: Tweaks
-Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 1.1.1.
-Author: Savior
-Name: pWildRiftTW
-
-Package: tw.blogspot.myappios.pwildrifttw
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Savior
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.2_iphoneos-arm.deb
-Size: 3790
-MD5sum: d3bf0190f72d723e090f627b2e14aee9
-SHA1: 965b52478f775fde1edd7acf0b027d26c358b343
-SHA256: 984c67bfb354018d04d768779aab47d1be29cd2b0d68fd047733cbef93853986
+Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.3_iphoneos-arm.deb
+Size: 3872
+MD5sum: d1b2f00615f0ff331137bbfaadea2c27
+SHA1: 866be5c32c63a9ae5125a99d163b99131bac6913
+SHA256: 5d12f5b27c6bfec0d986bd4dbd081c32158d06e63e2ec24c69a817e9f525aca3
 Section: Tweaks
 Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 2.0.0.
 Author: Savior
