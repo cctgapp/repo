@@ -347,21 +347,6 @@ Author: Savior
 Name: pKartRiderRush
 
 Package: tw.blogspot.myappios.pkgtw
-Version: 0.8.6
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
-Filename: debs/KGTW0.8.6.deb
-Size: 11436948
-MD5sum: bee26074fa9098178c9c0c0cb68a622d
-SHA1: f27e9faf9570e3de6344b418fdcc9a0bbafae1d2
-SHA256: 45e81a8b60c14e88fb8e6dffe41259b88e1dca0bf1d3fb8f365dde43cdb513d5
-Section: Apps
-Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id. 6. AutoAim.
-Author: Savior
-Name: pKGTW
-
-Package: tw.blogspot.myappios.pkgtw
 Version: 0.8.7
 Architecture: iphoneos-arm
 Maintainer: Savior
@@ -371,6 +356,21 @@ Size: 11442452
 MD5sum: 0bb3616a7ae0d45e13a35ba9b07b379e
 SHA1: e972e1013b186b3dc0cec3bdfbcbb499d4a45d7f
 SHA256: fe541c050f585f9958a5a87132e86eeca97902eb1c7d09221ba03813fbb292cb
+Section: Apps
+Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
+Author: Savior
+Name: pKGTW
+
+Package: tw.blogspot.myappios.pkgtw
+Version: 0.8.7-1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/KGTW0.8.7-1.deb
+Size: 11444452
+MD5sum: f155c66867628d0b555a9b4392d409c1
+SHA1: 5ea94a08e26780a4cdcdad91198fd3b3d580c0aa
+SHA256: 492955728a436894abf2a55b2591d8c08b5e8420df99fcbeb0d5415a5d796bc5
 Section: Apps
 Description: Arena Of Valor TW version patch. 1. Enable map hack. 2. Sight range. 3. Force show battle history. 4. 0 CD. 5. Show enemy hp bar/skill/cd/rank/icon/id/buff reborn time. 6. AutoAim.
 Author: Savior
@@ -887,35 +887,5 @@ Section: Apps
 Homepage: https://myappios.blogspot.com/2019/04/tospatch.html
 Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
 Author: ChengChung Tseng
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.8
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.8.deb
-Size: 11926538
-MD5sum: f96155795b434927d099b7268138ba80
-SHA1: 82ae0eb88ef1c646c30c68b9ce46de9921941e5e
-SHA256: 3d7e67c8bce1f46a224a388231c867df9cf79f91a3bdceed322072cd91da7419
-Section: Apps
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: Savior
-Name: tosp設定
-
-Package: tw.blogspot.myappios.tospatchsetting
-Version: 0.8.9
-Architecture: iphoneos-arm
-Maintainer: Savior
-Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
-Filename: debs/tospSetting0.8.9.deb
-Size: 11926532
-MD5sum: e176f21ed7a8a476780f1ceb4530f08f
-SHA1: ff6d56b22795ba464c0a0712f5a64f55a3f5246d
-SHA256: 93f01e2e8bd071bf4bd09099dff95d1321e35a33395bcc476b23086c7b7ae915
-Section: Apps
-Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
-Author: Savior
 Name: tosp設定
 
