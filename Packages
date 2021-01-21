@@ -76,6 +76,21 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: Savior
 Name: pArchero
 
+Package: tw.blogspot.myappios.pcloudia
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/Cloudia0.1.1.deb
+Size: 11366390
+MD5sum: 94b9a6b73b59be872eaa3896c4384ce8
+SHA1: 0c225b47ba991031480c156b96493adb06bfaa5a
+SHA256: 5cbedb10c9ea6d99987bbe3b7d38f448b683d6690ea45fd738f36f9ffebfb860
+Section: Apps
+Description: Cloudia(最後的克勞迪亞): 1. SP Full. 2. HP/MP/Ether decrease divisor. 3. Accelerate?
+Author: Savior
+Name: pCloudia
+
 Package: tw.blogspot.myappios.pcodm
 Version: 0.2.0-1
 Architecture: iphoneos-arm
