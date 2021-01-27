@@ -76,6 +76,21 @@ Description: Archero patch. 1. Decrease enemy attack. 2. Increase player attack.
 Author: Savior
 Name: pArchero
 
+Package: tw.blogspot.myappios.parknights
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/Arknights0.1.1.deb
+Size: 11390242
+MD5sum: 89f31318358e56e8a56172ff147a13fd
+SHA1: 599c12e6eeb5cdc3c7b4980a5e97f15cb48f0d96
+SHA256: 636ede2f05507431a7cd2b22437cbc394e3e8beedef1ec4309f6f1a1693877b7
+Section: Apps
+Description: pArknights(明日方舟): 1. HP/SP/Atk Speed/Attack/Defense multiplier. 2. Accelerate?
+Author: Savior
+Name: pArknights
+
 Package: tw.blogspot.myappios.pcloudia
 Version: 0.1.1
 Architecture: iphoneos-arm
