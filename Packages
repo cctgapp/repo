@@ -136,6 +136,21 @@ Description: CODM patch. 1. Move speed multiplier. 2. Jump multiplier. 3. Fire i
 Author: Savior
 Name: pCODM
 
+Package: tw.blogspot.myappios.pcrkindom
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 9.0)
+Filename: debs/CRKindom0.1.1.deb
+Size: 11385488
+MD5sum: 4f2c88da19c1e9adf05f05ecb5d9d351
+SHA1: 60299d1ba00b1d5205132b66f71284ef32f86793
+SHA256: b0b1157d7f3b9679a81c2b2b369ce6787c4d126a92c2aa6f91d6bd852381dfa5
+Section: Apps
+Description: Cookie Run: Kindom patch. 1. Attack multiplier. 2. Defense divisor.
+Author: Savior
+Name: pCRKindom
+
 Package: tw.blogspot.myappios.pdod
 Version: 0.1.7
 Architecture: iphoneos-arm
