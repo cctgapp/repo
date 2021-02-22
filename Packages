@@ -559,6 +559,21 @@ Author: Savior
 Name: tosp設定
 
 Package: tw.blogspot.myappios.tospatchsetting
+Version: 0.8.11
+Architecture: iphoneos-arm
+Maintainer: Savior
+Depends: mobilesubstrate, org.cc.unboxd, firmware (>= 8.0)
+Filename: debs/tospSetting0.8.11.deb
+Size: 11925230
+MD5sum: f18ef7d7e3850ce043b4bcc7ef90188e
+SHA1: 6ba14de4a8b66b386a8fe41befca1d43e76f8666
+SHA256: b23d2998824710bf99410107a940a4c2d0e7f32d67970aa0323bd9ec02dec2f6
+Section: Apps
+Description: 神魔之塔中英文版patch. 1. 玩家生命最多減到100~（不死）. 2. 可在系統設定裡面開關. 3. 可調整combo倍率. 4. 可增加最終轉珠時間. 5. 無視指定形狀盾. 6. 無視始終盾. 7. 無視x屬盾. 8. 無視軌跡黏附. 9. 主動技更換. 10. 競技場怪無技能. 11. 條件式怪無技能. 12. 固定版面. 13. 敵人技能換成玩家CD歸0. 14.遊戲加速.
+Author: Savior
+Name: tosp設定
+
+Package: tw.blogspot.myappios.tospatchsetting
 Version: 0.8.5
 Architecture: iphoneos-arm
 Maintainer: ChengChung Tseng
