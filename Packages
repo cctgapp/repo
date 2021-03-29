@@ -451,18 +451,18 @@ Author: Savior
 Name: pWhiteCatProject
 
 Package: tw.blogspot.myappios.pwildrifttw
-Version: 0.0.4
+Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: Savior
-Installed-Size: 76
+Installed-Size: 60
 Depends: mobilesubstrate
-Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.4_iphoneos-arm.deb
-Size: 9482
-MD5sum: 429ff1382c401b8861fac758f90213c0
-SHA1: d2a3c958e3309215b9fa44544fc6de1ec11cc9ff
-SHA256: e71c2bf5a8595ed781eb3205b7ebd7d97709c4f19136b8c9611b2b7642813ea1
+Filename: debs/tw.blogspot.myappios.pwildrifttw_0.0.5_iphoneos-arm.deb
+Size: 8972
+MD5sum: ccbee87bab09a9b8366ad295385f7c6b
+SHA1: f500b91acaf5fc1bd8fae2b3b562c54b02e02680
+SHA256: 121433d741f2bc5537f436710ba04b81eb075de78c52e8872052f87425e7e63a
 Section: Tweaks
-Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 2.1.1.
+Description: Map hack(No UI/No Switch) for LOLM - Wild Rift TW 2.2.0.
 Author: Savior
 Name: pWildRiftTW
 
