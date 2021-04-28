@@ -11,7 +11,15 @@
 	<string></string>
 	<string></string>
 	<string></string>
-	<string>AEF88277-4C1E-49D2-9C4C-3FFAB9C68BB5</string>
-	<string>3A0053F5-D63A-4F0C-93C8-41E4FF2D042B</string>
+	<string></string>
+	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string>90BF1F79-B729-48EA-BD01-28BBED63EC80</string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 </array>
 </plist>
