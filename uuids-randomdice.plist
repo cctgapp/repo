@@ -2,7 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>62B695D0-361B-44BE-AC20-EE2EC08A1366</string>
 	<string></string>
 	<string></string>
 	<string></string>
@@ -13,6 +12,15 @@
 	<string></string>
 	<string></string>
 	<string></string>
+	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string>62B695D0-361B-44BE-AC20-EE2EC08A1366</string>
+		<key>EndDate</key>
+		<date>2021-05-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>3ED65596-78AA-48F4-856F-35C4651F817C</string>
