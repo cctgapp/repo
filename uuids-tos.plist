@@ -118,6 +118,8 @@
 		<integer>1</integer>
 		<key>AutoP</key>
 		<integer>1</integer>
+		<key>LeaderBoard</key>
+		<integer>1</integer>
 	</dict>
 </array>
 </plist>
