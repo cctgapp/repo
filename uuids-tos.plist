@@ -105,6 +105,14 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>96198309-636C-4DD5-96B1-F0266199EAFC</string>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>AutoP</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>E282DDF5-3AE1-415B-B2D5-F61B5BC5416E</string>
 		<key>Extra</key>
 		<integer>1</integer>
