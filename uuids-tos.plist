@@ -14,7 +14,9 @@
 		<string>FA347C1E-0CE5-40FC-B4F0-DF405F494194</string>
 		<key>Extra</key>
 		<integer>1</integer>
-	</dict>
+	        <key>AutoP</key>
+		<integer>1</integer> 
+        </dict>
 	<dict>
 		<key>UUID</key>
 		<string>4CFC1112-C334-4251-9624-7AB6CC6E0C37</string>
