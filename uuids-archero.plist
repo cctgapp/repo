@@ -3,67 +3,45 @@
 <plist version="1.0">
 <array>
 	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>587F0DFD-3FF7-4952-A612-1725F58CD22A</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>F02F839F-A8B2-4852-B343-E0644BEEF6C5</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>0A1F0046-4E12-4EF6-A311-8EC351A47655</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>77093BF9-9A30-4FC5-814C-BE9797C52C79</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>72CBB4C2-85FE-41CE-A65E-C4AB5A02132A</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>E7367C9F-2A1B-4C8C-B422-44379CEE3621</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>8C12F96F-5CE0-4308-907E-FF68FDEB5A01</string>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
