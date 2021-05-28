@@ -35,9 +35,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-02-14T15:59:59Z</date>
+		<string>B10F07B0-F33D-4FA5-B677-C8FC9A55306E</string>
+		<key>Extra</key>
+		<integer>1</integer>
 	</dict>
 </array>
 </plist>
