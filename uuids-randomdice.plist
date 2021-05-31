@@ -80,6 +80,8 @@
 		<string>3ED65596-78AA-48F4-856F-35C4651F817C</string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>Feature</key>
+		<integer>1</integer>
 	</dict>
 </array>
 </plist>
