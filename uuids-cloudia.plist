@@ -30,6 +30,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>249B902E-0EE2-4955-9B81-4E617464A547</string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>90BF1F79-B729-48EA-BD01-28BBED63EC80</string>
 		<key>Extra</key>
 		<integer>1</integer>
