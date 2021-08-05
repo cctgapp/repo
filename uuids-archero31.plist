@@ -13,9 +13,11 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>B94E62EA-9057-4521-BB7E-14F84FEDFD43</string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2021-09-05T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
