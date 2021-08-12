@@ -97,15 +97,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>45DFD4F8-8FBF-4189-AD61-020A0DD0743B</string>
+		<string>99F1BF62-E7A0-42B7-B7A8-AC93317853E8</string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>AutoP</key>
