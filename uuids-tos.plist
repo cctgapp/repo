@@ -105,10 +105,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>45DFD4F8-8FBF-4189-AD61-020A0DD0743B</string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>AutoP</key>
+		<integer>1</integer>
+		<key>LeaderBoard</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
