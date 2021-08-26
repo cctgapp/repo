@@ -5,9 +5,11 @@
 	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>01F72CFC-F88E-4208-B69B-2E662620679A</string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2021-09-26T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
