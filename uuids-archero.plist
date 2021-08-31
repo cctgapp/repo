@@ -13,6 +13,14 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>10663492-1DB8-403F-A267-B43FCF652DCD</string>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2021-09-29T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
