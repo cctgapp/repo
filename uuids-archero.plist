@@ -22,7 +22,8 @@
 	<dict>
 		<key>UUID</key>
 		<string>85DFE917-5C86-4EDE-93E0-D479E61863E2</string>
-   <date>2021-10-05T15:59:59Z</date>
+    <key>EndDate</key>
+     <date>2021-10-05T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
