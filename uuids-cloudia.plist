@@ -7,6 +7,8 @@
 	<dict>
 		<key>UUID</key>
 		<string>E12DB74A-47F5-4281-B157-498CDEDB51BE</string>
+		<key>remark</key>
+		<string>陳映丞</string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
