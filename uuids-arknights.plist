@@ -7,7 +7,15 @@
 	<string></string>
 	<string></string>
 	<string></string>
-	<string>60A39A35-75C9-4097-B145-5A6208863A55</string>
+	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string>60A39A35-75C9-4097-B145-5A6208863A55</string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>AEF88277-4C1E-49D2-9C4C-3FFAB9C68BB5</string>
