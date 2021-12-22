@@ -5,45 +5,45 @@
 	<string></string>
 	<dict>
 		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>A87C2471-CB81-452F-85EA-0A3DEBD99D7A</string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
 		<key>EndDate</key>
-		<date>2021-09-03T15:59:59Z</date>
+		<date>2022-01-10T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
@@ -57,7 +57,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>F17E64AE-BE56-4481-B08A-5159FC03ABB0</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2021-09-26T15:59:59Z</date>
 		<key>Extra</key>
@@ -97,7 +97,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>99F1BF62-E7A0-42B7-B7A8-AC93317853E8</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>AutoP</key>
@@ -113,6 +113,8 @@
 		<key>AutoP</key>
 		<integer>1</integer>
 		<key>LeaderBoard</key>
+		<integer>1</integer>
+		<key>AutoVictory</key>
 		<integer>1</integer>
 	</dict>
 </array>
