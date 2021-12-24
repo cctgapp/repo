@@ -2,9 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>42E09448-E1D0-43BD-BADB-0DAA2402E687</string>
-	<string>96DB4C7D-3045-4BB5-B372-AA56B534B1B5</string>
-	<string>20204A8A-D0E5-48F4-A558-6B5C4BC981A3</string>
 	<string></string>
 	<string></string>
 	<string></string>
@@ -13,5 +10,7 @@
 	<string></string>
 	<string></string>
 	<string></string>
+	<string></string>
+	<string>144FE818-E524-44C7-A828-57AC2AD9751B</string>
 </array>
 </plist>
