@@ -40,8 +40,31 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<string></string>
-	<string></string>
+	<string>SuperWizard</string>
+	<dict>
+		<key>UUID</key>
+		<string>D17D184D-E670-43D1-9A25-98DDE1EBD49D</string>
+		<key>EndDate</key>
+		<date>2022-01-06T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<string></string>
 	<string>98E56B29-2DEF-4298-91B6-608CADCF2880</string>
 	<dict>
