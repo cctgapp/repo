@@ -65,7 +65,15 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<string></string>
+	<string>RDWars</string>
+	<dict>
+		<key>UUID</key>
+		<string>22D3AC2B-E536-472F-81C3-11CD178EB063</string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<string>98E56B29-2DEF-4298-91B6-608CADCF2880</string>
 	<dict>
 		<key>UUID</key>
