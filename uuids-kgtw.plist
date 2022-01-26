@@ -2,6 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>0</integer>
+				<key>count</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+	</dict>
 	<string>IPA-start</string>
 	<string>07958C24-8C43-4190-BF9E-A1F33E38683C</string>
 	<string>DC5396EF-9BA9-47CB-919A-D53C6DECB3E3</string>
