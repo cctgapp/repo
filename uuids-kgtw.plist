@@ -10,7 +10,7 @@
 			<dict>
 				<key>index</key>
 				<integer>0</integer>
-				<key>count</key>
+				<key>limit</key>
 				<integer>-1</integer>
 			</dict>
 		</array>
