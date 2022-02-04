@@ -14,6 +14,10 @@
 				<string>-1</string>
 			</dict>
 		</array>
+		<key>Servers</key>
+		<array>
+			<string>https://www.dropbox.com/s/umwt364nnsfmouk/uuids-zinjiaking.plist?dl=1</string>
+		</array>
 	</dict>
 	<string>IPA-start</string>
 	<string>07958C24-8C43-4190-BF9E-A1F33E38683C</string>
