@@ -64,7 +64,8 @@
 		<integer>1</integer>
      <key>AutoVictory</key>
 		<integer>1</integer>
-	</dict>
+		<key>LeaderBoard</key>
+		<integer>1</integer>	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
