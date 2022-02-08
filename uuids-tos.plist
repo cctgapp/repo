@@ -51,7 +51,7 @@
 		<key>UUID</key>
 		<string>02B94800-145E-45C4-BFA4-5FC0DB5991D2</string>
 		<key>EndDate</key>
-		<date>2022-02-07T15:59:59Z</date>
+		<date>2022-03-10T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
@@ -62,10 +62,11 @@
 		<date>2022-02-26T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-     <key>AutoVictory</key>
+		<key>AutoVictory</key>
 		<integer>1</integer>
 		<key>LeaderBoard</key>
-		<integer>1</integer>	</dict>
+		<integer>1</integer>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
