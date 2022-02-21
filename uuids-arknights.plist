@@ -10,7 +10,7 @@
 	<string>PunBall</string>
 	<dict>
 		<key>UUID</key>
-		<string>B2B8613F-8013-46E0-A631-E7FEBAE9404A</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -26,7 +26,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>B2B8613F-8013-46E0-A631-E7FEBAE9404A</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -43,7 +43,7 @@
 	<string>SuperWizard</string>
 	<dict>
 		<key>UUID</key>
-		<string>DFE21D90-204E-40D1-A220-FB7FEDCB00F9</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-01-22T15:59:59Z</date>
 		<key>Extra</key>
@@ -68,7 +68,7 @@
 	<string>RDWars</string>
 	<dict>
 		<key>UUID</key>
-		<string>6DB3C9E5-FE26-417A-B8F7-ABD04A6E7258</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -82,10 +82,10 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<string>98E56B29-2DEF-4298-91B6-608CADCF2880</string>
+	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>8C487B89-5112-48D4-AE25-A1A8AD8A786A</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -93,7 +93,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>60A39A35-75C9-4097-B145-5A6208863A55</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -101,7 +101,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>2635E1DD-FC40-453E-9268-F16080730951</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
