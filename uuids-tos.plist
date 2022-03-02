@@ -8,36 +8,48 @@
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -57,6 +69,14 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>A89E7407-8951-4576-A398-68FE3515B352</string>
+		<key>EndDate</key>
+		<date>2022-04-02T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
 		<date>2022-02-26T15:59:59Z</date>
@@ -65,14 +85,6 @@
 		<key>AutoVictory</key>
 		<integer>1</integer>
 		<key>LeaderBoard</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
-		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
