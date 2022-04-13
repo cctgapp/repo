@@ -11,13 +11,13 @@
 				<key>index</key>
 				<integer>3</integer>
 				<key>limit</key>
-				<string>160</string>
+				<string>180</string>
 			</dict>
 			<dict>
 				<key>index</key>
 				<integer>4</integer>
 				<key>limit</key>
-				<string>160</string>
+				<string>180</string>
 			</dict>
 		</array>
 		<key>Servers</key>
