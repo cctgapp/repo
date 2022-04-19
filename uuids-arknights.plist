@@ -51,11 +51,13 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>A17AD98C-A899-43A0-9430-C29A087491E9</string>
 		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
+		<date>2022-04-19T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>New item</key>
+		<string>Kylo Ran</string>
 	</dict>
 	<dict>
 		<key>UUID</key>
