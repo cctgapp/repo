@@ -7,6 +7,8 @@
 	<dict>
 		<key>UUID</key>
 		<string>32392CC3-7A93-44DD-84DA-C47437F18145</string>
+		<key>Extra</key>
+		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-20T15:59:59Z</date>
 	</dict>
