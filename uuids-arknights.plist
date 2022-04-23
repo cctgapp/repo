@@ -67,12 +67,12 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<string>RDWars</string>
+	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>5373B317-7690-4FCC-A232-10772CA16A74</string>
 		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
+		<date>2022-05-23T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
