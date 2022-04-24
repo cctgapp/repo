@@ -3,19 +3,6 @@
 <plist version="1.0">
 <array>
 	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string></string>
-	<string>PunBall</string>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-03-28T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
@@ -43,14 +30,6 @@
 	<string>SuperWizard</string>
 	<dict>
 		<key>UUID</key>
-		<string>1A3369EF-3741-4AC3-9501-82F964DB5A97</string>
-		<key>EndDate</key>
-		<date>2022-05-01T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>F266FE99-B07C-46CA-87B2-BB3D4DC9D397</string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
@@ -58,6 +37,15 @@
 		<integer>1</integer>
 		<key>New item</key>
 		<string>Kylo Ran</string>
+	</dict>
+	<string>cyc</string>
+	<dict>
+		<key>UUID</key>
+		<string>1A3369EF-3741-4AC3-9501-82F964DB5A97</string>
+		<key>EndDate</key>
+		<date>2022-05-01T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -67,7 +55,6 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<string></string>
 	<dict>
 		<key>UUID</key>
 		<string>5373B317-7690-4FCC-A232-10772CA16A74</string>
@@ -84,23 +71,47 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-04-30T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<string></string>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
