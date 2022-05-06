@@ -190,6 +190,15 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
+
+	<dict>
+		<key>UUID</key>
+		<string>D176EB48-505F-4514-BC35-2C67CFE94251</string>
+		<key>EndDate</key>
+		<date>2022-06-06T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+	</dict>
 	<string></string>
 </array>
 </plist>
