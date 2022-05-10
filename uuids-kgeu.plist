@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>3</integer>
+				<key>limit</key>
+				<string>33</string>
+			</dict>
+		</array>
+		<key>Servers</key>
+		<array/>
+	</dict>
+	<string>Nguyễn Thành Nguyên</string>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>remark</key>
+		<string>Customer who own this UUID or anything you want.</string>
+		<key>EndDate</key>
+		<date>2022-05-12T15:59:59Z</date>
+	</dict>
+</array>
+</plist>
