@@ -2,6 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>6</integer>
+				<key>limit</key>
+				<string>-1</string>
+			</dict>
+		</array>
+		<key>Servers</key>
+		<array>
+			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-myheros.plist</string>
+			<string>https://www.dropbox.com/s/ux491083jbjgdf1/uuids-myheros.plist?dl=1</string>
+			<string>https://www.dropbox.com/s/3mxcloupul4l6mh/uuids-zinjiaking.plist?dl=1</string>
+			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
+			<string>https://www.dropbox.com/s/b7cj2mwfjsw0czn/uuids-chenyc.plist?dl=1</string>
+		</array>
+	</dict>
 	<string></string>
 	<string></string>
 	<string></string>
@@ -11,7 +32,5 @@
 	<string></string>
 	<string></string>
 	<string></string>
-	<string>E1CA89D5-5A32-4A29-A0A9-C8A509BFE642</string>
-	<string>58904297-1DA5-4BE8-B76C-E42C1E92B8FF</string>
 </array>
 </plist>
