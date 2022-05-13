@@ -20,14 +20,6 @@
 	<string>Nguyễn Thành Nguyên</string>
 	<dict>
 		<key>UUID</key>
-		<string>5510C7F7-722B-4CA3-9CE0-6E59324E535A</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>2F553CB6-A780-4007-919B-C58FC89C9BFC</string>
 		<key>remark</key>
 		<string>Customer who own this UUID or anything you want.</string>
@@ -57,54 +49,6 @@
 		<string>Customer who own this UUID or anything you want.</string>
 		<key>EndDate</key>
 		<date>2022-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>EBAC17AE-98CC-4632-BE60-E7047649C93A</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BEA40193-D9E6-46FF-A2E0-73889666C749</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>1F4E613B-BB0D-4E2D-87B6-427AB1129F16</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F9063636-85B1-40F0-85EF-AEC03A11BF12</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7D6FD5E3-85C2-47A4-BAAF-1932C96972A8</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F787CAB2-95BF-4EB4-9724-3A9F333B99B2</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-12T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
