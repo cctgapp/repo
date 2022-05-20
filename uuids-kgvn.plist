@@ -20,38 +20,6 @@
 	<string>Nguyễn Thành Nguyên</string>
 	<dict>
 		<key>UUID</key>
-		<string>F6CB300F-7088-4B6C-9965-1CE71BFA1027</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>367D746C-F629-49F1-A386-A94CA85FAD48</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>30069ACB-2661-4111-9EAE-A298FBDD29C5</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>10C004D3-B9FE-4D98-8BA2-02DBC9777B05</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
-		<key>EndDate</key>
-		<date>2022-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>A80AFB08-4C35-4143-AD9C-82EF46A0BDF7</string>
 		<key>remark</key>
 		<string>Customer who own this UUID or anything you want.</string>
