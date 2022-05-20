@@ -25,19 +25,15 @@
 	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>1C4ED050-84B2-4C6A-AC25-71CEF4E18D44</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-20T15:59:59Z</date>
 	</dict>
-	<string>Idlecus</string>
-	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>BE2A0BAB-7C4D-4292-9463-626E13A3E99B</string>
-		<key>remark</key>
-		<string>陳映丞</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
@@ -45,7 +41,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>126774BD-7E6E-41BC-B8C3-7427E92D9388</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
@@ -67,9 +63,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>02F75DE9-79DC-4076-8FC2-299D62F1AFE4</string>
-		<key>Marks</key>
-		<string>Idlecus</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
@@ -77,7 +71,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>90BF1F79-B729-48EA-BD01-28BBED63EC80</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
