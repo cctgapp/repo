@@ -27,7 +27,7 @@
 	<string>Kylo Ran</string>
 	<dict>
 		<key>UUID</key>
-		<string>32392CC3-7A93-44DD-84DA-C47437F18145</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
@@ -59,7 +59,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>B10F07B0-F33D-4FA5-B677-C8FC9A55306E</string>
+		<string></string>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
