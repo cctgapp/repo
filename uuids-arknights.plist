@@ -23,7 +23,7 @@
 			<string>https://www.dropbox.com/s/b7cj2mwfjsw0czn/uuids-chenyc.plist?dl=1</string>
 		</array>
 	</dict>
-	<string>1ED2F164-38CC-4F81-A83D-EA437E32BA0E</string>
+	<string></string>
 	<dict>
 		<key>UUID</key>
 		<string></string>
@@ -52,7 +52,7 @@
 	<string>Kylo Ran</string>
 	<dict>
 		<key>UUID</key>
-		<string>817209B5-C6EC-4133-921C-8DB7734D905A</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-05-02T15:59:59Z</date>
 		<key>Extra</key>
@@ -60,7 +60,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>F266FE99-B07C-46CA-87B2-BB3D4DC9D397</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 		<key>Extra</key>
@@ -93,7 +93,7 @@
 	<string>cyc</string>
 	<dict>
 		<key>UUID</key>
-		<string>1A3369EF-3741-4AC3-9501-82F964DB5A97</string>
+		<string></string>
 		<key>EndDate</key>
 		<date>2022-05-01T15:59:59Z</date>
 		<key>Extra</key>
