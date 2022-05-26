@@ -15,12 +15,7 @@
 			</dict>
 		</array>
 		<key>Servers</key>
-		<array>
-			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-cloudia.plist</string>
-			<string>https://www.dropbox.com/s/3yzsivezeiebfpd/uuids-cloudia.plist?dl=1</string>
-			<string>https://www.dropbox.com/s/3mxcloupul4l6mh/uuids-zinjiaking.plist?dl=1</string>
-			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
-		</array>
+		<array/>
 	</dict>
 	<string></string>
 	<dict>
