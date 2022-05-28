@@ -17,7 +17,7 @@
 		<key>Servers</key>
 		<array/>
 	</dict>
-	<string>51453E95-AC23-4088-8595-F3641E10BD94</string>
+	<string></string>
 	<dict>
 		<key>UUID</key>
 		<string>CB9E8EA2-A892-4451-AE43-FE4D481B53DA</string>
@@ -548,7 +548,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>2FA328D8-358F-46D8-8F50-9094F9623FD9</string>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
