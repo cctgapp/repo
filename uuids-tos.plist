@@ -28,11 +28,13 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>FD28CC4A-0379-48C6-95AD-CDCA44356615</string>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>AutoP</key>
+		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-03-16T15:59:59Z</date>
+		<date>2022-06-29T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
