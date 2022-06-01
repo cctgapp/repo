@@ -20,14 +20,6 @@
 	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>6E316617-7DA4-458E-97ED-5A80B9C33C18</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-05-21T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>FD28CC4A-0379-48C6-95AD-CDCA44356615</string>
 		<key>Extra</key>
 		<integer>1</integer>
@@ -35,38 +27,6 @@
 		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-06-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-03-16T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-03-16T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-03-16T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-03-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -88,7 +48,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-04-02T15:59:59Z</date>
+		<date>2022-07-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
@@ -96,19 +56,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-02-26T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoVictory</key>
-		<integer>1</integer>
-		<key>LeaderBoard</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
+		<date>2022-07-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
@@ -116,7 +64,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
+		<date>2022-07-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
@@ -124,18 +72,16 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-04-30T15:59:59Z</date>
+		<date>2022-07-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
+		<key>EndDate</key>
+		<date>2022-07-02T15:59:59Z</date>
 		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoP</key>
-		<integer>1</integer>
-		<key>LeaderBoard</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
