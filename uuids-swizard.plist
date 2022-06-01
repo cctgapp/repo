@@ -20,30 +20,6 @@
 	<string>cyc</string>
 	<dict>
 		<key>UUID</key>
-		<string>A279EBA4-B3AD-4D8D-9341-3B56EE396E1B</string>
-		<key>EndDate</key>
-		<date>2022-05-26T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7DE700D5-4A58-4296-9653-4FD31686FDFB</string>
-		<key>EndDate</key>
-		<date>2022-05-26T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8DF81768-3E20-4047-AA40-2879FCBB4550</string>
-		<key>EndDate</key>
-		<date>2022-05-27T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>69B6A000-00B7-4871-9DB9-54B9765CB95C</string>
 		<key>EndDate</key>
 		<date>2022-06-03T15:59:59Z</date>
@@ -176,7 +152,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -184,7 +160,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -192,7 +168,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -200,7 +176,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -208,7 +184,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -216,7 +192,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -224,7 +200,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -232,7 +208,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -240,15 +216,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-27T15:59:59Z</date>
+		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
