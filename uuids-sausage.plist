@@ -28,14 +28,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>3E1AD5E4-A472-4D39-BEF1-8588EA668CCC</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>6E034461-E60B-43C4-A93F-B08AEF756C62</string>
 		<key>Extra</key>
 		<integer>1</integer>
