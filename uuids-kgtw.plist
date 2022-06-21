@@ -56,9 +56,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>4252059E-4789-4EDE-87A9-BFC30F008A5E</string>
 		<key>EndDate</key>
-		<date>2022-07-21T15:59:59Z</date>
+		<date>2022-06-28T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -98,44 +98,10 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>1968CD13-7244-4FAB-A345-496D1FF63E8D</string>
-		<key>EndDate</key>
-		<date>2022-06-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>EF35DD22-DB25-47F4-9560-C6BB14C3DCB9</string>
-		<key>EndDate</key>
-		<date>2022-05-27T15:59:59Z</date>
-	</dict>
-	<string>林宇</string>
-	<dict>
-		<key>UUID</key>
-		<string>D545AE65-9C81-4D39-B53D-3A79B97F1BF1</string>
-		<key>EndDate</key>
-		<date>2022-06-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>3858ED7A-AB86-4D97-890A-B9FE25409DDC</string>
 		<key>EndDate</key>
 		<date>2022-06-22T15:59:59Z</date>
 	</dict>
-	<string>cyc</string>
-	<dict>
-		<key>UUID</key>
-		<string>D7696FF5-8558-4B67-B407-AA0A6367385C</string>
-		<key>EndDate</key>
-		<date>2022-05-20T15:59:59Z</date>
-	</dict>
-	<string>cyc-temp</string>
-	<dict>
-		<key>UUID</key>
-		<string>063CD969-6B9F-4342-A19F-99743DA3B791</string>
-		<key>EndDate</key>
-		<date>2022-05-06T15:59:59Z</date>
-	</dict>
-	<string>Wesley Fei</string>
 	<dict>
 		<key>UUID</key>
 		<string>E7F290A6-C057-4CE6-A5C8-BDCBC4CC984F</string>
@@ -148,12 +114,6 @@
 		<string>54F5A208-2B6D-4C3E-B5E3-CDDBEB7F8754</string>
 		<key>EndDate</key>
 		<date>2022-06-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C960528B-E0FB-4C53-8F9E-28CADD738B2C</string>
-		<key>EndDate</key>
-		<date>2022-06-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
