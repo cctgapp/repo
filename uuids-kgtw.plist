@@ -128,31 +128,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>B52353B6-6AE5-4519-87EF-407B3777E3EF</string>
-		<key>EndDate</key>
-		<date>2022-06-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3858ED7A-AB86-4D97-890A-B9FE25409DDC</string>
-		<key>EndDate</key>
-		<date>2022-06-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E7F290A6-C057-4CE6-A5C8-BDCBC4CC984F</string>
-		<key>EndDate</key>
-		<date>2022-06-22T15:59:59Z</date>
-	</dict>
-	<string>Wesley Fei</string>
-	<dict>
-		<key>UUID</key>
-		<string>54F5A208-2B6D-4C3E-B5E3-CDDBEB7F8754</string>
-		<key>EndDate</key>
-		<date>2022-06-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>C6EC7D20-A0E5-4137-A2CC-19499B339785</string>
 		<key>EndDate</key>
 		<date>2022-07-07T15:59:59Z</date>
