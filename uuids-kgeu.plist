@@ -22,14 +22,11 @@
 			<string>https://www.dropbox.com/s/320mv59zki4600x/AIMBOT-EU.plist?dl=1</string>
 		</array>
 	</dict>
-	<string>Nguyễn Thành Nguyên</string>
 	<dict>
 		<key>UUID</key>
-		<string>4622FFC3-0302-4752-9026-51B7E212E2DD</string>
-		<key>remark</key>
-		<string>Customer who own this UUID or anything you want.</string>
+		<string>DBACF02A-61C3-4666-8F57-30E11ECA74D9</string>
 		<key>EndDate</key>
-		<date>2022-05-30T15:59:59Z</date>
+		<date>2022-07-28T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
