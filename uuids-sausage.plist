@@ -668,38 +668,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>1AB9D78C-1BCD-43CB-BEA2-18B2E3EE905B</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8841D041-A040-4C4A-BABD-EADA977330F3</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>20566A7C-7F0F-4E20-8FAE-3A55D49659B8</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>31D0FE32-5977-4FC5-A413-4E3988BAE5AC</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>96168D3A-C989-4393-9CE5-7C533ED08FE5</string>
 		<key>Extra</key>
 		<integer>1</integer>
