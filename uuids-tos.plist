@@ -44,16 +44,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>1C4A01C2-5194-4873-AB98-32FD5B61C157</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>AutoP</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-06-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>6DE517E2-EC62-42AE-9203-D84CC5DA21D4</string>
 		<key>EndDate</key>
 		<date>2022-07-19T15:59:59Z</date>
