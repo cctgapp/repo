@@ -25,6 +25,8 @@
 		<date>2022-07-25T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
+		<key>AutoVictory</key>
+		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
