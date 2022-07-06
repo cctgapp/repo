@@ -35,9 +35,10 @@
 		<string></string>
 		<key>EndDate</key>
 		<date>2022-08-05T15:59:59Z</date>
-	</dict>	<dict>
+	</dict>	
+   <dict>
 		<key>UUID</key>
-		<string></string>
+		<string>D11D77F6-9660-47BC-AC5F-AC5BF2984473</string>
 		<key>EndDate</key>
 		<date>2022-08-05T15:59:59Z</date>
 	</dict>
