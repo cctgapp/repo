@@ -22,25 +22,25 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-08-06T15:59:59Z</date>
+		<date>2022-08-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-08-06T15:59:59Z</date>
+		<date>2022-08-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-08-06T15:59:59Z</date>
+		<date>2022-08-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-08-06T15:59:59Z</date>
+		<date>2022-08-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -935,54 +935,6 @@
 		<string>F24D4A19-000B-4B0E-9180-6C42FC2622F8</string>
 		<key>EndDate</key>
 		<date>2022-08-02T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8DC95F58-90D7-4FF8-93FC-D6ACFFC0381F</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>26ECABA8-002A-4BD8-93DC-955937B2CEC0</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BE4E2B69-404A-463A-91C5-909A32BFF558</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A8308CD2-D9FB-486C-93A9-B75BD4AE38DA</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>ECF46F62-66C3-49C9-BB61-85058087DCCD</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>68735CD4-4AD3-4449-8E87-41B6B589C6C2</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>75D7F288-061D-41A4-90D9-2A704BB5BE36</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E6040F81-5B02-4F86-AD09-B94BEAFCA5E3</string>
-		<key>EndDate</key>
-		<date>2022-07-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
