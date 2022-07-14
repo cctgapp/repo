@@ -23,7 +23,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-08-11T15:59:59Z</date>
+		<date>2022-08-14T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -31,7 +31,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-08-11T15:59:59Z</date>
+		<date>2022-08-14T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -39,7 +39,23 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>EndDate</key>
-		<date>2022-08-11T15:59:59Z</date>
+		<date>2022-08-14T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-08-14T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>EndDate</key>
+		<date>2022-08-14T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -288,38 +304,6 @@
 		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-07-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7852D768-F2BB-4116-89FB-88486AF1A96B</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-07-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>131BE1BE-9735-439A-B8F6-E8BD8E6FB0A1</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-07-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>674F55BA-2991-4C3D-A03D-2E75270BCCF2</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-07-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C9CE64A3-E1E3-44F6-AED0-66E6C4384311</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-07-14T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
