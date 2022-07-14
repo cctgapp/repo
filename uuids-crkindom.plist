@@ -18,7 +18,6 @@
 		<array/>
 	</dict>
 	<string></string>
-	<string>Kylo Ran</string>
 	<dict>
 		<key>UUID</key>
 		<string></string>
@@ -26,14 +25,6 @@
 		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>55F5BB5A-88EF-49B1-85F2-B634F07E3760</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-07-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
