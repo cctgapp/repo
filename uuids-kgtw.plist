@@ -25,12 +25,18 @@
 				<key>limit</key>
 				<string>1</string>
 			</dict>
-	                <dict>
+			<dict>
 				<key>index</key>
 				<integer>7</integer>
 				<key>limit</key>
 				<string>10</string>
-	                </dict>
+			</dict>
+			<dict>
+				<key>index</key>
+				<integer>8</integer>
+				<key>limit</key>
+				<string>10</string>
+			</dict>
 		</array>
 		<key>Servers</key>
 		<array>
@@ -42,6 +48,7 @@
 			<string>https://www.dropbox.com/s/2n8szx0s0ldblkn/uuids-hsj.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/2dlu8vfyt6bxalk/uuids-kylo.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/0xi5935d5451wk5/uuids-kuku.plist?dl=1</string>
+			<string>https://www.dropbox.com/s/ublo8p7l18ockuk/uuids-ljh.plist?dl=1</string>
 		</array>
 	</dict>
 	<dict>
