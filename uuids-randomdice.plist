@@ -20,14 +20,6 @@
 	<string></string>
 	<dict>
 		<key>UUID</key>
-		<string>9200F068-48ED-434D-A3F7-30ADBFE4B3D7</string>
-		<key>EndDate</key>
-		<date>2022-07-19T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
 		<date>2021-05-30T15:59:59Z</date>
