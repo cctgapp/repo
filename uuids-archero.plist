@@ -44,46 +44,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>2417458A-564D-423D-9A45-27CD828B5C3F</string>
-		<key>EndDate</key>
-		<date>2022-08-13T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>695A05E3-34A8-4D1A-A1E2-5CBDD080A423</string>
-		<key>EndDate</key>
-		<date>2022-08-11T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A5067E22-7C98-4D8D-9E6D-BD60B5986EAA</string>
-		<key>EndDate</key>
-		<date>2022-08-07T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A7B1AF77-14B5-42D6-A78D-71B7BDA48B65</string>
-		<key>EndDate</key>
-		<date>2022-08-02T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>40E09314-0A4C-406D-92B0-72C7B5DEBA74</string>
-		<key>EndDate</key>
-		<date>2022-08-02T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>94CD71B1-F866-438E-BA39-1E2F22926580</string>
 		<key>EndDate</key>
 		<date>2022-08-31T15:59:59Z</date>
