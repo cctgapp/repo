@@ -105,29 +105,5 @@
 		<key>EndDate</key>
 		<date>2022-08-28T15:59:59Z</date>
 	</dict>	
-	<dict>
-		<key>UUID</key>
-		<string>93B31BA1-AD0B-48F0-BFE9-F87989C81B98</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-08-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DA7FC2D6-AE97-4097-B1B6-B5A9EF54509D</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-08-21T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3FC699B2-B6BE-4151-804B-4430C4A3BB48</string>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EndDate</key>
-		<date>2022-08-21T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
