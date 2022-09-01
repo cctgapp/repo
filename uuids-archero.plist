@@ -22,47 +22,31 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-09-23T15:59:59Z</date>
+		<date>2022-10-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-09-23T15:59:59Z</date>
+		<date>2022-10-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-09-23T15:59:59Z</date>
+		<date>2022-10-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>DE320A7D-F4F7-4B71-81E0-1D1E4B38B141</string>
 		<key>EndDate</key>
-		<date>2022-09-23T15:59:59Z</date>
+		<date>2022-10-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>0EA2E232-686C-4C66-A37C-ABFDDFEAFF7E</string>
 		<key>EndDate</key>
 		<date>2022-09-20T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D6A978F1-388C-4CAD-ABBF-7F2E069E3ECF</string>
-		<key>EndDate</key>
-		<date>2022-08-25T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>94CD71B1-F866-438E-BA39-1E2F22926580</string>
-		<key>EndDate</key>
-		<date>2022-08-31T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
