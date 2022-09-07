@@ -73,7 +73,19 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-09-28T15:59:59Z</date>
+		<date>2022-10-08T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-10-08T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-10-08T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -107,21 +119,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>62AA725D-383B-4123-B122-32D0F4F49A44</string>
-		<key>EndDate</key>
-		<date>2022-09-03T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>95916919-94E4-4712-AF89-8D1ABC2CFFAA</string>
 		<key>EndDate</key>
 		<date>2022-09-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>145C77FE-A068-4D4A-BCD5-CACE950492F2</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -188,157 +188,6 @@
 		<string>C257C58C-AD68-46AF-9611-096BDFB6D6EA</string>
 		<key>EndDate</key>
 		<date>2022-09-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>44DF156C-3E70-4F8B-85EB-D0013F5EDF0D</string>
-		<key>EndDate</key>
-		<date>2022-09-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F7703C5F-15C8-49A3-BF8F-949E6F3498B1</string>
-		<key>EndDate</key>
-		<date>2022-09-04T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0DC1A3AE-78BA-474D-AC8A-F0921ADF3D6C</string>
-		<key>EndDate</key>
-		<date>2022-09-03T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FA4C8C5B-659C-4E7F-B4AF-34F1B002AF60</string>
-		<key>EndDate</key>
-		<date>2022-09-03T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>30F51F0D-4B55-4CF4-AD3B-23042B2324A8</string>
-		<key>EndDate</key>
-		<date>2022-09-02T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7D775A80-254D-4C70-ADCF-C381520CDB91</string>
-		<key>EndDate</key>
-		<date>2022-09-01T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BC18BD7A-B451-48B6-9F2C-C8B7F5489F7F</string>
-		<key>EndDate</key>
-		<date>2022-08-31T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>258E08EC-57EB-4778-A5DE-FBA18294036D</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3556C6DC-B9EB-4FD5-A0B8-86235ADDF6B5</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>1126346D-617F-4434-B99C-8E2BA7898254</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
-	</dict>
-
-	<dict>
-		<key>UUID</key>
-		<string>DED30C40-4B93-4B09-B549-6F1DC954B310</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A01C062F-BCA7-4E57-8EC2-08A2D579F910</string>
-		<key>EndDate</key>
-		<date>2022-08-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>87A0E472-7422-44F0-8FE1-5BFFA71CC291</string>
-		<key>EndDate</key>
-		<date>2022-08-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7C93A5BF-E49D-4EB5-A872-E8A5E0DC9254</string>
-		<key>EndDate</key>
-		<date>2022-08-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FA41FC02-D26E-4720-9A90-C36C7CD1159A</string>
-		<key>EndDate</key>
-		<date>2022-08-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FA41FC02-D26E-4720-9A90-C36C7CD1159A</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F2DFADD3-A13F-41C5-83E3-DC9FE87F0CE4</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FB0344FD-7BFE-4D0A-ABE0-D6A9E2832595</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>44754377-D662-4D94-9824-1B2EB304A7D3</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4B0C0F83-5F08-4963-AEFE-B53F79E6728A</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>139D0658-6578-486E-8099-1AD273D867E1</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>5DD710FC-7213-42BD-944A-CB075AB700C8</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>50ED0D08-8543-4CDC-AB1B-0CF677D9D9D5</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FB62C243-7EBF-4F15-BFBB-B199422C5895</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>48BE494D-C09C-4068-B97D-D7DF58B6CC84</string>
-		<key>EndDate</key>
-		<date>2022-08-28T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
