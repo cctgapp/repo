@@ -22,19 +22,13 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-10-01T15:59:59Z</date>
+		<date>2022-11-02T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-10-01T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4292E8EA-064C-48F8-A806-6F759A4C4FA9</string>
-		<key>EndDate</key>
-		<date>2022-10-01T15:59:59Z</date>
+		<date>2022-11-02T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -53,12 +47,6 @@
 		<string>94CD71B1-F866-438E-BA39-1E2F22926580</string>
 		<key>EndDate</key>
 		<date>2022-10-05T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DE320A7D-F4F7-4B71-81E0-1D1E4B38B141</string>
-		<key>EndDate</key>
-		<date>2022-10-01T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
