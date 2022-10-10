@@ -22,13 +22,24 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-11-02T15:59:59Z</date>
+		<date>2022-11-09T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>E7D0667C-F3BA-48C9-B109-24FBEED89686</string>
+		<string></string>
 		<key>EndDate</key>
-		<date>2022-10-09T15:59:59Z</date>
+		<date>2022-11-09T15:59:59Z</date>
+	</dict>	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-11-09T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2022-11-09T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -132,72 +143,6 @@
 		<string>29C8C5E6-FCCA-4BBD-A728-E43CE8F49524</string>
 		<key>EndDate</key>
 		<date>2022-10-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BCFB7B8A-7BD0-46FF-BBCD-52431353CE4C</string>
-		<key>EndDate</key>
-		<date>2022-10-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0FDDF369-9D53-4EFA-A63E-E297C114A198</string>
-		<key>EndDate</key>
-		<date>2022-10-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0B4DB3D5-A328-450D-B110-9300D60A850C</string>
-		<key>EndDate</key>
-		<date>2022-10-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>5EDDB6BF-FF1E-4342-814A-81470678D79A</string>
-		<key>EndDate</key>
-		<date>2022-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3DF0B42A-C8DA-4C91-A62A-8433BCEAEBFA</string>
-		<key>EndDate</key>
-		<date>2022-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>53B977FE-B3AF-4B81-AA82-66F54CA9687C-T3</string>
-		<key>EndDate</key>
-		<date>2022-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>175424F4-875E-4221-8A11-CC9713459EBB</string>
-		<key>EndDate</key>
-		<date>2022-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>626D9823-7BF7-45E9-B464-2ED8776A733D</string>
-		<key>EndDate</key>
-		<date>2022-10-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E193596F-574B-44FD-9FA4-6D6D300B25BF</string>
-		<key>EndDate</key>
-		<date>2022-10-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0E066751-8964-4650-8010-E0C565577234</string>
-		<key>EndDate</key>
-		<date>2022-10-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>607B0174-5933-41AC-BBC3-8CC86AC46502</string>
-		<key>EndDate</key>
-		<date>2022-10-03T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
