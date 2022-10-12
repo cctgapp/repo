@@ -15,11 +15,12 @@
 			</dict>
 		</array>
 		<key>Servers</key>
+		<array>
 			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-unhappy.plist</string>
 			<string>https://www.dropbox.com/s/3mxcloupul4l6mh/uuids-zinjiaking.plist?dl=1</string>
 			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
 			<string>https://www.dropbox.com/s/ear8kw4z1bhx9we/uuids-unhcyc.plist?dl=1</string>
-		<array/>
+		</array>
 	</dict>
 	<string></string>
 	<dict>
@@ -56,7 +57,7 @@
 		<key>UUID</key>
 		<string>6425EF47-7304-437E-8A1D-A8E6C11BD38D</string>
 		<key>EndDate</key>
-		<date>2022-11-10T15:59:59Z</date>
+		<date>2022-11-11T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
