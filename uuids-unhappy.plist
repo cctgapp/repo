@@ -77,17 +77,5 @@
 		<key>EndDate</key>
 		<date>2022-11-11T15:59:59Z</date>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>B84709A2-B2C1-4A1C-BFDC-FDE19D0308E6</string>
-		<key>EndDate</key>
-		<date>2022-10-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>9FFD9B32-E6C7-4FD4-8EC7-D304D830A38B</string>
-		<key>EndDate</key>
-		<date>2022-10-15T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
