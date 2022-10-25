@@ -54,47 +54,5 @@
 		<key>EndDate</key>
 		<date>2022-11-02T15:59:59Z</date>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>32C65652-D6A8-4DC5-8304-E5106DAA24F5</string>
-		<key>EndDate</key>
-		<date>2022-10-05T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>16EAC755-CBE2-46F6-A2A2-3364A4DE774C</string>
-		<key>EndDate</key>
-		<date>2022-10-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DA14DDA9-8AF7-4244-BC6F-B9524EADD21A</string>
-		<key>EndDate</key>
-		<date>2022-10-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A60BED89-8B91-40EA-9ADB-2C1F758CDBD7</string>
-		<key>EndDate</key>
-		<date>2022-10-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7DA90368-926E-4135-8241-4BE3BDAC77C0</string>
-		<key>EndDate</key>
-		<date>2022-10-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>9B80B384-BB97-4460-A982-B533F27FE43F</string>
-		<key>EndDate</key>
-		<date>2022-10-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>77956A61-4F6D-4090-A7A6-161F61F980ED</string>
-		<key>EndDate</key>
-		<date>2022-10-17T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
