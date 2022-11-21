@@ -2,13 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>6</integer>
+				<key>limit</key>
+				<string>-1</string>
+			</dict>
+		</array>
+		<key>Servers</key>
+		<array>
+			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-wildrifttw.plist</string>
+			<string>https://www.dropbox.com/s/3mxcloupul4l6mh/uuids-zinjiaking.plist?dl=1</string>
+			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
+		</array>
+	</dict>	
 	<string></string>
 	<string></string>
 	<string></string>
 	<string></string>
 	<string></string>
-	<string>cn</string>
-	<string>87F2FD01-224F-48BC-8453-712C3F54D7A9</string>
 	<string></string>
 	<string></string>
 	<string></string>
@@ -20,7 +37,6 @@
 	<string></string>
 	<string></string>
 	<string></string>
-	<string>1B426D87-EE54-4795-B22E-7357D138A504</string>
-	<string>C2087D08-DD0B-4695-AC06-15BB78FF9A5A</string>
+	<string>E9D9D2FA-9F4F-42C4-A5BB-7BB3CD02748B</string>
 </array>
 </plist>
