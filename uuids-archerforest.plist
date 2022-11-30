@@ -170,7 +170,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>282A7977-C02F-4309-91F3-9609920A84D8</string>
+		<string>60495659-2E0E-40D8-BEAF-B7251B681399</string>
 		<key>EndDate</key>
 		<date>2022-12-04T15:59:59Z</date>
 	</dict>
@@ -194,27 +194,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>F6026B97-4A3C-4126-A20C-01B4E64F6505</string>
-		<key>EndDate</key>
-		<date>2022-11-05T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>F9CCED8D-61DF-48C7-A5FA-767CEE0C2A33</string>
 		<key>EndDate</key>
 		<date>2022-11-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8A8F86A3-0B8F-40E8-8476-230506920609</string>
-		<key>EndDate</key>
-		<date>2022-11-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>EFA20529-F096-44A9-85C8-DC869FF93528</string>
-		<key>EndDate</key>
-		<date>2022-11-28T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
