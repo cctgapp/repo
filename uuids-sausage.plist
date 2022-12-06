@@ -65,18 +65,5 @@
 		<string>47338B1C-405E-4FCF-A8A0-A0360BC6EB20</string>
 		<key>EndDate</key>
 		<date>2022-12-18T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>UUID</key>
-		<string>77956A61-4F6D-4090-A7A6-161F61F980ED</string>
-		<key>EndDate</key>
-		<date>2022-11-21T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A8FA8605-605A-4C92-A9EB-E635D0AD6E80</string>
-		<key>EndDate</key>
-		<date>2022-11-21T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
