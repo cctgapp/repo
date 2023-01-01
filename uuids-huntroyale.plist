@@ -68,6 +68,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>6DFE9DAB-18BB-4330-983B-25282F69BCFB</string>
+		<key>EndDate</key>
+		<date>2023-01-29T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>8AA72C43-AE7E-40B5-B174-D011B3022D57</string>
 		<key>Extra</key>
 		<integer>1</integer>
