@@ -51,24 +51,22 @@
 			<string>https://www.dropbox.com/s/ublo8p7l18ockuk/uuids-ljh.plist?dl=1</string>
 		</array>
 		<key>Devices</key>
-		<array>
+		<dict>
+			<key>35</key>
 			<dict>
-				<key>device</key>
-				<integer>35</integer>
 				<key>hor</key>
 				<integer>20</integer>
 				<key>ver</key>
 				<integer>0</integer>
 			</dict>
+			<key>26</key>
 			<dict>
-				<key>device</key>
-				<integer>26</integer>
 				<key>hor</key>
 				<integer>30</integer>
 				<key>ver</key>
 				<integer>0</integer>
 			</dict>
-		</array>
+		</dict>
 	</dict>
 	<dict>
 		<key>UUID</key>
