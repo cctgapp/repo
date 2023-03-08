@@ -70,6 +70,15 @@
 				<key>sz</key>
 				<string>102</string>
 			</dict>
+			<key>46</key>
+			<dict>
+				<key>hor</key>
+				<integer>50</integer>
+				<key>ver</key>
+				<integer>0</integer>
+				<key>sz</key>
+				<string>102</string>
+			</dict>
 		</dict>
 	</dict>
 	<dict>
