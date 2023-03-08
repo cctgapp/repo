@@ -58,6 +58,8 @@
 				<integer>16</integer>
 				<key>ver</key>
 				<integer>-10</integer>
+				<key>sz</key>
+				<string>110</string>
 			</dict>
 			<key>26</key>
 			<dict>
@@ -65,6 +67,8 @@
 				<integer>30</integer>
 				<key>ver</key>
 				<integer>0</integer>
+				<key>sz</key>
+				<string>102</string>
 			</dict>
 		</dict>
 	</dict>
