@@ -50,6 +50,23 @@
 			<string>https://www.dropbox.com/s/0xi5935d5451wk5/uuids-kuku.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/ublo8p7l18ockuk/uuids-ljh.plist?dl=1</string>
 		</array>
+		<key>Devices</key>
+		<dict>
+			<key>35</key>
+			<dict>
+				<key>hor</key>
+				<integer>20</integer>
+				<key>ver</key>
+				<integer>0</integer>
+			</dict>
+			<key>26</key>
+			<dict>
+				<key>hor</key>
+				<integer>30</integer>
+				<key>ver</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
 	</dict>
 	<dict>
 		<key>UUID</key>
