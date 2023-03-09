@@ -61,7 +61,34 @@
 				<key>sz</key>
 				<string>111</string>
 			</dict>
+			<key>41</key>
+			<dict>
+				<key>hor</key>
+				<integer>18</integer>
+				<key>ver</key>
+				<integer>2</integer>
+				<key>sz</key>
+				<string>111</string>
+			</dict>
 			<key>26</key>
+			<dict>
+				<key>hor</key>
+				<integer>30</integer>
+				<key>ver</key>
+				<integer>0</integer>
+				<key>sz</key>
+				<string>102</string>
+			</dict>
+			<key>27</key>
+			<dict>
+				<key>hor</key>
+				<integer>30</integer>
+				<key>ver</key>
+				<integer>0</integer>
+				<key>sz</key>
+				<string>102</string>
+			</dict>
+			<key>32</key>
 			<dict>
 				<key>hor</key>
 				<integer>30</integer>
