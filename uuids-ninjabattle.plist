@@ -66,35 +66,5 @@
 		<key>EndDate</key>
 		<date>2023-04-10T15:59:59Z</date>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D1774944-279C-4564-AE3A-27913E46C7D3</string>
-		<key>EndDate</key>
-		<date>2023-03-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C52A1C37-D965-4FFA-BDF0-971EE284C6EA</string>
-		<key>EndDate</key>
-		<date>2023-03-23T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>1AE5D66F-82D5-47CE-B4AD-8C502FE06005</string>
-		<key>EndDate</key>
-		<date>2023-02-23T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8D014021-1174-4B87-AF11-31AE203F859B</string>
-		<key>EndDate</key>
-		<date>2023-02-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>62C991D7-718F-48EE-B8E7-3132FDB1D694</string>
-		<key>EndDate</key>
-		<date>2023-02-14T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
