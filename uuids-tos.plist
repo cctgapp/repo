@@ -30,8 +30,6 @@
 		<string></string>
 		<key>EndDate</key>
 		<date>2022-07-25T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>AutoVictory</key>
 		<integer>1</integer>
 	</dict>
@@ -39,7 +37,19 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-01-12T15:59:59Z</date>
+		<date>2023-06-12T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-06-12T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-06-12T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -49,41 +59,15 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>BEDACA66-1C7D-44E6-9A50-6D8EE4A63C02</string>
-		<key>EndDate</key>
-		<date>2023-03-02T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0497E0A7-8A06-4692-A6F5-DFB114C17155</string>
-		<key>EndDate</key>
-		<date>2023-04-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>128F2F6D-F106-4B61-A4FD-4642C1BB1A7D</string>
-		<key>EndDate</key>
-		<date>2023-02-03T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>502A3C25-0FCA-46BF-A505-3E87AB9F8688</string>
 		<key>EndDate</key>
 		<date>2023-05-21T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>BBF5ADCF-6224-40F8-B3B9-330108DB17E3</string>
-		<key>EndDate</key>
-		<date>2023-04-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>8C7E5D36-1F39-40BC-9A28-FBF7E9BE5041</string>
 		<key>EndDate</key>
 		<date>2023-05-19T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -96,17 +80,7 @@
 		<string></string>
 		<key>EndDate</key>
 		<date>2023-03-21T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>AutoP</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>285D62ED-6406-494F-8D1D-93E35498CF32</string>
-		<key>EndDate</key>
-		<date>2023-05-10T15:59:59Z</date>
-		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
