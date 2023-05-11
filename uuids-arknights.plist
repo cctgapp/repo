@@ -40,13 +40,5 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>0D47DF93-5BBA-471A-90B7-D4182246196F</string>
-		<key>EndDate</key>
-		<date>2022-06-23T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
 </array>
 </plist>
