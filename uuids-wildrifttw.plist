@@ -146,51 +146,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>CE7DE076-D5A1-4271-90D2-3E548B2B3657</string>
-		<key>EndDate</key>
-		<date>2023-05-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FB319186-1DFA-473D-8200-7F9F941D4997</string>
-		<key>EndDate</key>
-		<date>2023-05-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BE27E434-B013-43C1-86C6-5C77FB2E29AC</string>
-		<key>EndDate</key>
-		<date>2023-05-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>AEB72506-FBC6-48FE-9C84-9C6B091ABC35</string>
-		<key>EndDate</key>
-		<date>2023-05-04T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>FA5690D5-169B-455A-A65D-AFE64F46C23A</string>
-		<key>EndDate</key>
-		<date>2023-05-04T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>05353074-4FB0-4E11-884A-07C883D697AB</string>
-		<key>EndDate</key>
-		<date>2023-05-02T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>5A03CAF1-B60E-42AC-A3CE-EAAB7E93B24E</string>
 		<key>EndDate</key>
 		<date>2023-05-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3292DEDA-0842-4767-8010-776AC4F4991F</string>
-		<key>EndDate</key>
-		<date>2023-04-28T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
