@@ -41,41 +41,5 @@
 		<key>EndDate</key>
 		<date>2022-11-16T15:59:59Z</date>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3580E89A-31E6-4B69-BE18-7D06E863FD98</string>
-		<key>EndDate</key>
-		<date>2022-11-16T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>F3AE12A4-BA03-4DB0-A12F-FA18899B0BE9</string>
-		<key>EndDate</key>
-		<date>2022-10-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>342FC22B-E56E-4B7A-BCA2-21E86DDCD668</string>
-		<key>EndDate</key>
-		<date>2022-11-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>5C998989-0D7B-481B-A951-4648E671C5AA</string>
-		<key>EndDate</key>
-		<date>2022-11-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>2E9935DF-7630-4519-B958-DBE2713A6478</string>
-		<key>EndDate</key>
-		<date>2022-11-11T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>6425EF47-7304-437E-8A1D-A8E6C11BD38D</string>
-		<key>EndDate</key>
-		<date>2022-11-11T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
