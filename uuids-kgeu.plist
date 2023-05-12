@@ -9,25 +9,13 @@
 		<array>
 			<dict>
 				<key>index</key>
-				<integer>3</integer>
-				<key>limit</key>
-				<string>0</string>
-			</dict>
-			<dict>
-				<key>index</key>
-				<integer>4</integer>
-				<key>limit</key>
-				<string>0</string>
-			</dict>
-			<dict>
-				<key>index</key>
-				<integer>5</integer>
+				<integer>2</integer>
 				<key>limit</key>
 				<string>10</string>
 			</dict>
 			<dict>
 				<key>index</key>
-				<integer>6</integer>
+				<integer>3</integer>
 				<key>limit</key>
 				<string>5</string>
 			</dict>
@@ -35,10 +23,7 @@
 		<key>Servers</key>
 		<array>
 			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-kgeu.plist</string>
-			<string>https://www.dropbox.com/s/t0fakcc2km6levz/uuids-kgtw.plist?dl=1</string>
 			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
-			<string>https://www.dropbox.com/s/tsyz52ch0ua0yva/uuids-hsj.plist?dl=1</string>
-			<string>https://www.dropbox.com/s/gm4nrfm12lgc0i9/uuids-gaomh2%202.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/qio853z3oipr6xa/uuids-linyz.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/8tt3bsotqrdb325/uuids-kgeu-NTG.plist?dl=1</string>
 		</array>
