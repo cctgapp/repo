@@ -75,5 +75,11 @@
 		<key>EndDate</key>
 		<date>2023-07-01T15:59:59Z</date>
 	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>9DF65F02-0858-456F-B4B4-038974D6B5FA</string>
+		<key>EndDate</key>
+		<date>2023-06-26T15:59:59Z</date>
+	</dict>
 </array>
 </plist>
