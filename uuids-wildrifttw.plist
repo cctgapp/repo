@@ -74,7 +74,7 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>C3FDBEE9-21FF-4211-B83A-436C7E2798E7</string>
+		<string>E7F9711D-1580-4B69-804F-E3B51EE13C09</string>
 		<key>EndDate</key>
 		<date>2023-07-11T15:59:59Z</date>
 	</dict>
@@ -125,12 +125,6 @@
 		<string>1CE064DD-6B17-4859-9600-1C2292A8A24D</string>
 		<key>EndDate</key>
 		<date>2023-06-25T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>307B0ACA-DAE8-4239-A79D-8D46829E4CEF</string>
-		<key>EndDate</key>
-		<date>2023-06-14T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
