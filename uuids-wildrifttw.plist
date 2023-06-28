@@ -182,18 +182,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>77DFCA02-0D07-497E-8117-1C7D09CE1CE8</string>
-		<key>EndDate</key>
-		<date>2023-06-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>EC6E1520-2C27-4374-8882-9AB1CB47421F</string>
-		<key>EndDate</key>
-		<date>2023-06-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>C0A91F75-A099-4DB7-86FA-B5339AC24122</string>
 		<key>EndDate</key>
 		<date>2023-07-25T15:59:59Z</date>
