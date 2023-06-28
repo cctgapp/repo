@@ -51,18 +51,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>D5094443-E312-4431-88C1-31FAFC744F5B</string>
-		<key>EndDate</key>
-		<date>2023-05-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7F13609D-7A61-4446-8004-6F25C454761B</string>
-		<key>EndDate</key>
-		<date>2023-05-24T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string></string>
 		<key>Feature</key>
 		<integer>7</integer>
