@@ -57,5 +57,17 @@
 		<key>EndDate</key>
 		<date>2023-07-20T15:59:59Z</date>
 	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-07-20T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>563DFA66-1232-4AC1-92EA-5A0EE1850662</string>
+		<key>EndDate</key>
+		<date>2023-08-17T15:59:59Z</date>
+	</dict>
 </array>
 </plist>
