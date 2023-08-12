@@ -87,10 +87,14 @@
 		<date>2023-09-02T15:59:59Z</date>
 	</dict>
         <dict>
+		<key>EndDate</key>
+		<date>2023-09-10T16:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴昆佑</string>
 		<key>UUID</key>
 		<string>730F898E-2E1C-4382-B77A-4551F2968193</string>
-		<key>EndDate</key>
-		<date>2023-08-11T15:59:59Z</date>
 	</dict>
         <dict>
 		<key>UUID</key>
