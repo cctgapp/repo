@@ -46,6 +46,16 @@
 		<key>EndDate</key>
 		<date>2023-08-25T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-09-14T08:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴MoMo</string>
+		<key>UUID</key>
+		<string>B0E63AD3-4AA2-4034-926C-A88CD26BB6A4</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>D46021AC-D270-4012-905A-02CD1AA8ECFB</string>
