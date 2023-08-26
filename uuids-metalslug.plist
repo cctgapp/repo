@@ -49,6 +49,26 @@
 		<date>2023-09-20T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2023-09-25T08:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴 小熊🐻</string>
+		<key>UUID</key>
+		<string>479AFFC4-4916-4361-A705-0C446ECCF4ED</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2023-09-25T07:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴Fan</string>
+		<key>UUID</key>
+		<string>0590071C-A75E-44C2-8AC4-1C0605708E3B</string>
+	</dict>	
+	<dict>
 		<key>UUID</key>
 		<string>E410A7E1-DFBC-49D5-9268-0F2DFA92F5A6</string>
 		<key>EndDate</key>
@@ -86,7 +106,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string></string>
+		<string>7523F75F-9F93-4101-BE4E-1ADD0F5F2F7E </string>
 		<key>UUID</key>
 		<string></string>
 	</dict>
