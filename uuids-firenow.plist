@@ -50,6 +50,16 @@
 	</dict>
         <dict>
 		<key>EndDate</key>
+		<date>2023-09-28T12:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴XÜE</string>
+		<key>UUID</key>
+		<string>C02491CD-708B-4CE6-B173-00B8419D08F1</string>
+	</dict>
+        <dict>
+		<key>EndDate</key>
 		<date>2023-09-28T08:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
