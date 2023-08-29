@@ -48,6 +48,16 @@
 		<key>EndDate</key>
 		<date>2023-09-13T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-09-28T08:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>DC-longgia</string>
+		<key>UUID</key>
+		<string></string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>E3C07085-5E39-4206-BF7F-BDCD99862028</string>
