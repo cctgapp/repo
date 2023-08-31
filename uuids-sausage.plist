@@ -60,6 +60,16 @@
 		<key>EndDate</key>
 		<date>2023-09-28T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-09-30T14:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string></string>
+		<key>UUID</key>
+		<string>9DE54BF7-5FCF-4B07-8886-6115F8250A18</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>A4A72168-245D-4CCF-B8CA-650B9C510026</string>
