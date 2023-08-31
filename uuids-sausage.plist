@@ -13,11 +13,47 @@
 				<key>limit</key>
 				<string>5</string>
 			</dict>
+			<dict>
+				<key>index</key>
+				<integer>3</integer>
+				<key>limit</key>
+				<string>5</string>
+			</dict>
+			<dict>
+				<key>index</key>
+				<integer>4</integer>
+				<key>limit</key>
+				<string>5</string>
+			</dict>
 		</array>
 		<key>Servers</key>
-		<array/>
+		<array>
+			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-sausage.plist</string>
+			<string>https://www.dropbox.com/s/3mxcloupul4l6mh/uuids-zinjiaking.plist?dl=1</string>
+			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
+			<string>https://www.dropbox.com/s/ear8kw4z1bhx9we/uuids-unhcyc.plist?dl=1</string>
+			<string>https://www.dropbox.com/s/ublo8p7l18ockuk/uuids-ljh.plist?dl=1</string>
+		</array>
 	</dict>
 	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-09-28T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-09-28T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-09-28T15:59:59Z</date>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
@@ -29,12 +65,6 @@
 		<string>A4A72168-245D-4CCF-B8CA-650B9C510026</string>
 		<key>EndDate</key>
 		<date>2023-09-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>7E353CF1-2049-40D4-8998-64F383AF6709</string>
-		<key>EndDate</key>
-		<date>2023-08-28T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -61,42 +91,6 @@
 		<string></string>
 		<key>UUID</key>
 		<string>A306641A-E2ED-45D1-8D24-77939A18FD1C</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>9F141CA6-8C79-4FE1-A007-0567F3A35C07</string>
-		<key>EndDate</key>
-		<date>2023-08-26T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E9184D5B-1AA2-475A-ADF0-B1D61EA5C5B1</string>
-		<key>EndDate</key>
-		<date>2023-08-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C4CDB536-1A33-4675-9C44-D45C50E20E90</string>
-		<key>EndDate</key>
-		<date>2023-07-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>930F9637-AD12-4CF5-B75B-258230B2EF3E</string>
-		<key>EndDate</key>
-		<date>2023-07-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4F3E08ED-ABE1-4344-8557-2EF98729A0AB</string>
-		<key>EndDate</key>
-		<date>2023-07-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>339DB429-5527-46CF-AD0A-DFEBAEB78E89</string>
-		<key>EndDate</key>
-		<date>2023-08-30T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
