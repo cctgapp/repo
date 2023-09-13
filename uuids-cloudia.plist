@@ -21,54 +21,32 @@
 	<dict>
 		<key>UUID</key>
 		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-17T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-02-28T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
+		<string>B6AA39A5-F892-4ADB-BD58-1D177DDB78CB</string>
 		<key>EndDate</key>
-		<date>2023-02-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>Extra</key>
-		<integer>1</integer>
+		<date>2023-10-12T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
