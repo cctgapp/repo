@@ -54,6 +54,16 @@
 		<key>EndDate</key>
 		<date>2023-10-08T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-10-18T13:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴柏緯</string>
+		<key>UUID</key>
+		<string>681B52F2-C814-4305-9BC5-0692C377FCF7</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>6E7E02A9-6E5D-434A-A39C-4634F69C379B</string>
