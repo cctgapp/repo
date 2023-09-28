@@ -46,6 +46,16 @@
 		<key>EndDate</key>
 		<date>2023-10-25T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-10-28T09:00:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>蝦esrup1020</string>
+		<key>UUID</key>
+		<string>B185C3C3-811D-4A8C-A7FF-6C82486AA3C5</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>99206DC5-2D06-4195-ACB5-FA01058925F9</string>
