@@ -40,31 +40,37 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-09-07T15:59:59Z</date>
+		<date>2023-11-07T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-09-07T15:59:59Z</date>
+		<date>2023-11-07T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-11-07T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-11-07T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>61CD05C6-A33E-424F-96B8-2D156DF32D1C</string>
+		<key>EndDate</key>
+		<date>2023-11-04T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>0CFEE96C-B838-4335-B196-3FB98E045652</string>
 		<key>EndDate</key>
 		<date>2023-10-21T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>1E80DDC5-5085-49C3-9D44-3CE656BF699F</string>
-		<key>EndDate</key>
-		<date>2023-10-01T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>45984C8B-A203-4243-AFD4-F538CB5F2253</string>
-		<key>EndDate</key>
-		<date>2023-09-20T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
