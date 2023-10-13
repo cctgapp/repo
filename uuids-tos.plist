@@ -52,6 +52,8 @@
 		<date>2023-06-12T15:59:59Z</date>
 	</dict>
 	<dict>
+	        <key>AutoP</key>
+		<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
@@ -59,9 +61,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>E72F949E-B6AE-490A-9CD5-547B36CA78CF</string>
 		<key>EndDate</key>
-		<date>2023-03-21T15:59:59Z</date>
+		<date>2023-11-12T15:59:59Z</date>
 		<key>AutoP</key>
 		<integer>1</integer>
 	</dict>
