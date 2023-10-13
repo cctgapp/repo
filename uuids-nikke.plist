@@ -56,89 +56,15 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>5A7ED6B2-EF30-475B-B8D8-B50CC2183D50</string>
 		<key>EndDate</key>
-		<date>2023-11-11T15:59:59Z</date>
+		<date>2023-11-12T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>8FC4D1BA-7973-4EFF-A297-77DE4A1A9FDB</string>
 		<key>EndDate</key>
 		<date>2023-10-17T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2023-10-12T12:10:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴Andy</string>
-		<key>UUID</key>
-		<string>A3336CBA-D384-48F5-BD41-70D1ABC600BE</string>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2023-10-10T07:50:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴Junjia</string>
-		<key>UUID</key>
-		<string>27571C33-657D-4CC4-A84E-FC581439E07F</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E788FB28-9DD4-4470-91E1-BAC2D7103A67</string>
-		<key>EndDate</key>
-		<date>2023-10-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>18FF2681-E37C-46A1-93AF-40D09F80D182</string>
-		<key>EndDate</key>
-		<date>2023-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>1F9144D2-D34F-449C-8963-D4DDF1C463B7</string>
-		<key>EndDate</key>
-		<date>2023-09-22T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BFFA2923-E611-49C9-BFBA-5F1167927A04</string>
-		<key>EndDate</key>
-		<date>2023-08-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4F438E27-2B63-479E-B1AE-386926362441</string>
-		<key>EndDate</key>
-		<date>2023-09-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>449A1A14-8317-44BD-8AFE-D2DD01B24D34</string>
-		<key>EndDate</key>
-		<date>2023-09-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BFFA2923-E611-49C9-BFBA-5F1167927A04</string>
-		<key>EndDate</key>
-		<date>2023-09-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>8646DC7A-A42A-4B7D-8ACA-9CAEA80790AB</string>
-		<key>EndDate</key>
-		<date>2023-09-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>CF66DE48-EED2-4880-A551-AB7E99AC3267</string>
-		<key>EndDate</key>
-		<date>2023-09-06T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
