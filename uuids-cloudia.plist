@@ -42,6 +42,16 @@
 		<key>EndDate</key>
 		<date>2022-04-30T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-11-17T16:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴仁祥</string>
+		<key>UUID</key>
+		<string>D303BF14-5A59-473E-BC40-5346642957B4</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>B6AA39A5-F892-4ADB-BD58-1D177DDB78CB</string>
