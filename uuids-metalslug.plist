@@ -52,7 +52,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-11-08T15:59:59Z</date>
+		<date>2023-11-23T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -74,7 +74,7 @@
 	</dict>
         <dict>
 		<key>EndDate</key>
-		<date>2023-10-25T13:20:00Z</date>
+		<date>2023-11-25T13:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
