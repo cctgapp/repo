@@ -32,13 +32,31 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-10-25T15:59:59Z</date>
+		<date>2023-11-25T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-10-25T15:59:59Z</date>
+		<date>2023-11-25T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-11-25T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-11-25T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>B017CD1A-017F-445F-BDDF-C79253C472F1</string>
+		<key>EndDate</key>
+		<date>2023-11-24T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -65,56 +83,6 @@
 		<string>蝦esrup1020</string>
 		<key>UUID</key>
 		<string>976EAB7A-ED2C-4233-A263-486F3A7D0F41</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>99206DC5-2D06-4195-ACB5-FA01058925F9</string>
-		<key>EndDate</key>
-		<date>2023-10-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D6287250-37C8-484B-901B-C03A0884BCC5</string>
-		<key>EndDate</key>
-		<date>2023-10-08T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2023-09-24T12:10:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string></string>
-		<key>UUID</key>
-		<string>B3763455-3E51-4091-8A3D-C582D5497584</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C17B91BF-854D-40D1-9A57-9444681518E2</string>
-		<key>EndDate</key>
-		<date>2023-09-23T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2023-09-14T08:50:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴MoMo</string>
-		<key>UUID</key>
-		<string>B0E63AD3-4AA2-4034-926C-A88CD26BB6A4</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D46021AC-D270-4012-905A-02CD1AA8ECFB</string>
-		<key>EndDate</key>
-		<date>2023-09-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>6A9C2582-F400-4F46-BF16-97D41D469B12</string>
-		<key>EndDate</key>
-		<date>2023-08-28T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
