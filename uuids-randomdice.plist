@@ -56,20 +56,16 @@
 		<date>2021-05-30T15:59:59Z</date>
 	</dict>
 	<dict>
-		<key>UUID</key>
-		<string>EC3F1D1C-A6C9-474E-833A-1AC0B2481310</string>
 		<key>EndDate</key>
-		<date>2023-09-28T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2023-08-09T08:10:00Z</date>
+		<date>2023-11-27T04:50:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Merge</key>
 		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴阿坤</string>
 		<key>UUID</key>
-		<string>7FC62B4E-57EF-4C55-B557-12BD43F68E68</string>
+		<string>87552AE7-8DB8-43B0-B9C4-8E467038F2A4</string>
 	</dict>
 	<dict>
 		<key>UUID</key>
