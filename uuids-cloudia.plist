@@ -52,11 +52,5 @@
 		<key>UUID</key>
 		<string>D303BF14-5A59-473E-BC40-5346642957B4</string>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>B6AA39A5-F892-4ADB-BD58-1D177DDB78CB</string>
-		<key>EndDate</key>
-		<date>2023-10-12T15:59:59Z</date>
-	</dict>
 </array>
 </plist>
