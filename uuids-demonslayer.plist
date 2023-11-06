@@ -67,6 +67,26 @@
 		<date>2023-02-27T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2023-12-06T04:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Change</key>
+		<integer>1</integer>
+		<key>Season</key>
+		<integer>1</integer>
+		<key>PetUpg</key>
+		<integer>1</integer>
+		<key>CardUpg</key>
+		<integer>1</integer>
+		<key>EquipUpg</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴翊</string>
+		<key>UUID</key>
+		<string>F51F938D-2A42-44A8-8B6D-5C1E069E28C5</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>FB7216C8-CD84-4CC7-9CAE-07304CA7057A</string>
 		<key>Change</key>
