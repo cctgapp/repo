@@ -40,13 +40,25 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-11-02T15:59:59Z</date>
+		<date>2023-12-02T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-11-02T15:59:59Z</date>
+		<date>2023-12-02T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-02T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>0A0BEFF6-5B1B-4FEC-A9D2-A53504CF3276</string>
+		<key>EndDate</key>
+		<date>2023-12-08T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -68,37 +80,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>CBBD2053-C9ED-4ED1-94F1-1BAFC167CF00</string>
-		<key>EndDate</key>
-		<date>2023-11-06T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2023-11-01T13:50:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴黃國溢</string>
-		<key>UUID</key>
-		<string>3EF68ACD-0405-421D-BDC2-4F9AC068EBA0</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>11BA9CE2-BC1D-4A41-9248-59FD2BA811CA</string>
-		<key>EndDate</key>
-		<date>2023-10-19T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>BCDEC27D-2B83-45EB-A628-C3F4DE71EBC1</string>
 		<key>EndDate</key>
 		<date>2023-11-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BAFCD248-2837-4628-B520-7150EF1E11A5</string>
-		<key>EndDate</key>
-		<date>2023-10-05T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
