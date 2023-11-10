@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CC</key>
+		<string>Restriction</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>index</key>
+				<integer>2</integer>
+				<key>limit</key>
+				<string>10</string>
+			</dict>
+		</array>
+		<key>Servers</key>
+		<array>
+			<string>https://raw.githubusercontent.com/cctgapp/repo/master/uuids-wildrift.plist</string>
+			<string>https://tsehome-my.sharepoint.com/:u:/g/personal/cct_tsehome_onmicrosoft_com/EYCeikFQ8rpOnqSt-NlPK3YBA3URQMkT0fEecI-70Zv-DA?e=d9tigh&amp;download=1</string>
+			<string>https://www.dropbox.com/scl/fi/q9r2tdn3xo50jdfj82gk3/uuids-vongoc-2.plist?rlkey=iywmncc7ppcqardoa3psx5200&amp;dl=1</string>
+		</array>
+	</dict>
+	<string></string>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2023-12-06T15:59:59Z</date>
+	</dict>
+</array>
+</plist>
