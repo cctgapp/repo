@@ -235,5 +235,15 @@
 		<key>EndDate</key>
 		<date>2023-03-18T15:59:59Z</date>
 	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2023-12-15T07:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴柏均</string>
+		<key>UUID</key>
+		<string>5CDAAA08-13FE-4ED3-8291-F607E4DA99ED</string>
+	</dict>
 </array>
 </plist>
