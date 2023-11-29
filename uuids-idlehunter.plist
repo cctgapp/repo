@@ -65,9 +65,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>783D63FD-DC8D-496D-ADCF-B7633310F952</string>
 		<key>EndDate</key>
-		<date>2023-12-23T15:59:59Z</date>
+		<date>2023-12-29T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -86,36 +86,6 @@
 		<string>EBA3C11B-BDA2-4DFA-BAA9-0A02ACBC526F</string>
 		<key>EndDate</key>
 		<date>2023-12-01T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>3F583221-BD1E-4351-A235-99DBCD621957</string>
-		<key>EndDate</key>
-		<date>2023-11-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>053A5E90-541D-4C85-89F2-13BA82755095</string>
-		<key>EndDate</key>
-		<date>2023-11-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>46262866-8405-4D9E-A297-587A28347F11</string>
-		<key>EndDate</key>
-		<date>2023-11-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A4C7BDD0-49A9-4E21-AE8C-5425097F4097</string>
-		<key>EndDate</key>
-		<date>2023-11-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>EAD2FAD3-5CED-4080-AFF3-714EE64D2D81</string>
-		<key>EndDate</key>
-		<date>2023-11-08T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
