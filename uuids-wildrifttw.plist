@@ -60,6 +60,18 @@
 		<key>EndDate</key>
 		<date>2023-12-27T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2023-12-31T13:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>EquipUpg</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴戴宇君</string>
+		<key>UUID</key>
+		<string>BC464D09-3B86-4C7A-9DC7-C82E72C8C373</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>468DD6E7-9052-4490-A0B6-7423784D209F</string>
