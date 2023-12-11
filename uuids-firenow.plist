@@ -42,6 +42,16 @@
 		<key>EndDate</key>
 		<date>2023-11-13T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2024-01-10T11:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>Hao</string>
+		<key>UUID</key>
+		<string>FE0FA0FA-F96B-40ED-8DA2-C727D37BD823</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>26511909-1407-463E-9372-DE7A3BD262D2</string>
