@@ -40,49 +40,31 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-12-23T15:59:59Z</date>
+		<date>2024-01-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-12-23T15:59:59Z</date>
+		<date>2024-01-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-12-23T15:59:59Z</date>
+		<date>2024-01-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-12-23T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A493F1FF-FA7E-4D69-91D3-6999449A108A</string>
-		<key>EndDate</key>
-		<date>2023-12-10T15:59:59Z</date>
+		<date>2024-01-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>F3E2F436-271F-4CF3-B229-09274207BB38</string>
 		<key>EndDate</key>
-		<date>2023-12-01T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D46E9547-4F75-48C3-9D10-E6FC815B8704</string>
-		<key>EndDate</key>
-		<date>2023-11-25T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DA5804CE-2100-4703-968E-49881C009420</string>
-		<key>EndDate</key>
-		<date>2023-11-18T15:59:59Z</date>
+		<date>2024-01-20T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
