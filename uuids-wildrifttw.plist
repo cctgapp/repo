@@ -54,6 +54,16 @@
 		<key>EndDate</key>
 		<date>2024-01-20T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2024-02-02T14:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴戴宇君</string>
+		<key>UUID</key>
+		<string>BC464D09-3B86-4C7A-9DC7-C82E72C8C373</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>3A825305-0FE2-401B-88E0-36084E749065</string>
