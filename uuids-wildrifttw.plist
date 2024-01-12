@@ -40,13 +40,25 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-01-20T15:59:59Z</date>
+		<date>2024-02-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-01-20T15:59:59Z</date>
+		<date>2024-02-20T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2024-02-20T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>D580737A-EA0E-464F-BBD9-6875C589E684</string>
+		<key>EndDate</key>
+		<date>2024-02-10T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
@@ -72,36 +84,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>094D7D8C-B444-4AF3-88E4-AFBACCDDB53B</string>
-		<key>EndDate</key>
-		<date>2024-01-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>62B0A12C-F886-4E7D-BE72-CFBA2D8FFE48</string>
-		<key>EndDate</key>
-		<date>2024-01-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>78FDC79E-449F-4A0C-BA18-782940562BA7</string>
-		<key>EndDate</key>
-		<date>2024-01-02T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2023-12-31T13:30:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>EquipUpg</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴戴宇君</string>
-		<key>UUID</key>
-		<string>BC464D09-3B86-4C7A-9DC7-C82E72C8C373</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>A9D1ED6B-8CB6-4F0A-B366-3ED17D2B8EAB</string>
 		<key>EndDate</key>
 		<date>2024-02-04T15:59:59Z</date>
@@ -116,11 +98,6 @@
 		<key>UUID</key>
 		<string>FB328837-9093-40F8-927F-2D6AE571C112</string>
 	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>801C2493-685F-4233-88B4-BCF80E1F95E4</string>
-		<key>EndDate</key>
-		<date>2024-01-10T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
