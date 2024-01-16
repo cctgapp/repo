@@ -47,16 +47,20 @@
 		<date>2024-01-25T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2024-02-15T01:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴16號愛人</string>
+		<key>UUID</key>
+		<string>1B7F8C77-3B8D-4B2F-970E-F3B64DB1DF3A</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>F485C2E5-219E-41E1-8CCE-C1178165B5F3</string>
 		<key>EndDate</key>
 		<date>2024-02-06T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>AC19872E-F06E-4EF2-A901-8478ED423F36</string>
-		<key>EndDate</key>
-		<date>2023-12-30T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
