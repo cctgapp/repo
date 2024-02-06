@@ -61,10 +61,14 @@
 		<date>2022-02-14T15:59:59Z</date>
 	</dict>
 	<dict>
-		<key>UUID</key>
-		<string>91FCC1D6-B87E-42BC-9FD1-D8CE5CE3AB39</string>
 		<key>EndDate</key>
-		<date>2024-02-05T15:59:59Z</date>
+		<date>2024-03-07T08:00:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴德</string>
+		<key>UUID</key>
+		<string>5B6E2DFE-EE11-472C-A096-987B1E2AC749</string>
 	</dict>
-</array>
+	</array>
 </plist>
