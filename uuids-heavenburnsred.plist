@@ -40,13 +40,19 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-09-16T15:59:59Z</date>
+		<date>2024-09-16T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-09-16T15:59:59Z</date>
+		<date>2024-09-16T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>2E236DF0-149C-43CC-B48F-051158F2A3FE</string>
+		<key>EndDate</key>
+		<date>2024-03-12T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
