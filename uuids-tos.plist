@@ -29,29 +29,35 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2022-07-25T15:59:59Z</date>
-		<key>AutoVictory</key>
+		<date>2024-06-12T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>AutoP</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-06-12T15:59:59Z</date>
+		<date>2024-06-12T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>AutoP</key>
+		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2023-06-12T15:59:59Z</date>
+		<date>2024-06-12T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>AutoP</key>
+		<integer>1</integer>
 	</dict>
 	<dict>
-		<key>UUID</key>
-		<string></string>
-		<key>EndDate</key>
-		<date>2023-06-12T15:59:59Z</date>
-	</dict>
-	<dict>
+		<key>Extra</key>
+		<integer>1</integer>
 		<key>AutoP</key>
 		<integer>1</integer>
 		<key>UUID</key>
@@ -65,6 +71,8 @@
 		<key>EndDate</key>
 		<date>2024-03-24T15:59:59Z</date>
 		<key>AutoP</key>
+		<integer>1</integer>
+		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
