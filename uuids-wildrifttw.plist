@@ -50,59 +50,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>CE699DDD-6837-48F5-8BED-05D749DE1FB9</string>
 		<key>EndDate</key>
-		<date>2024-02-23T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>2C4B311E-C805-471A-9713-219E9BDC4CEB</string>
-		<key>EndDate</key>
-		<date>2024-02-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4C84E7F6-D761-49B7-A13A-54B2185BF830</string>
-		<key>EndDate</key>
-		<date>2024-02-15T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D580737A-EA0E-464F-BBD9-6875C589E684</string>
-		<key>EndDate</key>
-		<date>2024-02-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>DC481928-B816-4E8A-AE52-E12E837FDE83</string>
-		<key>EndDate</key>
-		<date>2024-02-07T15:59:59Z</date>
-	</dict>
-        <dict>
-		<key>EndDate</key>
-		<date>2024-02-02T14:30:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴戴宇君</string>
-		<key>UUID</key>
-		<string>BC464D09-3B86-4C7A-9DC7-C82E72C8C373</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A9D1ED6B-8CB6-4F0A-B366-3ED17D2B8EAB</string>
-		<key>EndDate</key>
-		<date>2024-02-04T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2024-02-11T08:40:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴SIANG</string>
-		<key>UUID</key>
-		<string>FB328837-9093-40F8-927F-2D6AE571C112</string>
+		<date>2024-05-10T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
