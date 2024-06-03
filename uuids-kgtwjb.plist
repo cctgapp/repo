@@ -202,7 +202,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-06-18T15:59:59Z</date>
+		<date>2024-07-18T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
@@ -210,7 +210,23 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-06-18T15:59:59Z</date>
+		<date>2024-07-18T15:59:59Z</date>
+		<key>FULL</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2024-07-18T15:59:59Z</date>
+		<key>FULL</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>9235D5C0-3F99-4C02-9BDF-FCC7738E3A4A</string>
+		<key>EndDate</key>
+		<date>2024-07-03T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
