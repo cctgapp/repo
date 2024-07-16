@@ -48,21 +48,15 @@
 		<key>EndDate</key>
 		<date>2024-04-07T15:59:59Z</date>
 	</dict>
-        <dict>
+	<dict>
 		<key>EndDate</key>
-		<date>2024-04-10T16:00:00Z</date>
+		<date>2024-08-15T09:30:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>威爺</string>
+		<string>官方L陳楷文</string>
 		<key>UUID</key>
-		<string>432802E4-43EE-4985-BA44-607A1BA53E2C</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>38AC0EBA-AAB1-40AE-9040-D9F773DFBA4D</string>
-		<key>EndDate</key>
-		<date>2024-05-10T15:59:59Z</date>
+		<string>7062018D-E8ED-4D97-BDD9-B6549456893D</string>
 	</dict>
 </array>
 </plist>
