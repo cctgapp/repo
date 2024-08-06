@@ -202,7 +202,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-07-18T15:59:59Z</date>
+		<date>2024-09-18T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
@@ -210,15 +210,23 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-07-18T15:59:59Z</date>
+		<date>2024-09-18T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>8A9B244A-0D89-4D12-9498-4D57B19A8575</string>
+		<string></string>
 		<key>EndDate</key>
-		<date>2024-07-06T15:59:59Z</date>
+		<date>2024-09-18T15:59:59Z</date>
+		<key>FULL</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2024-09-18T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
@@ -226,23 +234,7 @@
 		<key>UUID</key>
 		<string>9235D5C0-3F99-4C02-9BDF-FCC7738E3A4A</string>
 		<key>EndDate</key>
-		<date>2024-07-03T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>452DC9E7-3763-4032-8856-41B9A1D575D8</string>
-		<key>EndDate</key>
-		<date>2024-07-02T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D667C134-D8BA-4AAD-8AE0-48CDA945B750</string>
-		<key>EndDate</key>
-		<date>2024-06-29T15:59:59Z</date>
+		<date>2024-09-05T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
@@ -256,14 +248,6 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>4E098335-AD23-454F-8042-6491A516A900</string>
-		<key>EndDate</key>
-		<date>2024-07-21T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>D512F9DA-BAAF-4E69-9F41-C02422FE6718</string>
 		<key>EndDate</key>
 		<date>2024-08-21T15:59:59Z</date>
@@ -272,65 +256,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>76761D4B-748C-4F53-83FC-82FB410480D7</string>
-		<key>EndDate</key>
-		<date>2024-07-21T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>83F98FBE-09FC-45AB-B06D-B45A7F94FD02</string>
-		<key>EndDate</key>
-		<date>2024-06-13T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>9235D5C0-3F99-4C02-9BDF-FCC7738E3A4A</string>
-		<key>EndDate</key>
-		<date>2024-06-04T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>90ECB645-FC24-4C33-BB71-FC10AEDD83A5</string>
-		<key>EndDate</key>
-		<date>2024-06-04T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>4A76B8BB-CA2A-4D7C-98A6-D25AB7AB122C</string>
-		<key>EndDate</key>
-		<date>2024-07-28T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>452DC9E7-3763-4032-8856-41B9A1D575D8</string>
-		<key>EndDate</key>
-		<date>2024-05-28T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
 		<string>A37404DD-8B2E-436B-A6F7-FC6425F45135</string>
 		<key>EndDate</key>
 		<date>2024-08-24T15:59:59Z</date>
-		<key>FULL</key>
-		<integer>1</integer>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E487141F-D96F-4B3F-9AFA-93FD33F061EE</string>
-		<key>EndDate</key>
-		<date>2024-05-27T15:59:59Z</date>
 		<key>FULL</key>
 		<integer>1</integer>
 	</dict>
