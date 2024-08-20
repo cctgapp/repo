@@ -35,10 +35,9 @@
 		<string>387997C9-86AC-49EC-8B14-BC80E017945B</string>
 		<key>EndDate</key>
 		<date>2024-04-12T15:59:59Z</date>
-	</dict>
-        <dict>
+	<dict>
 		<key>EndDate</key>
-		<date>2024-08-19T11:40:00Z</date>
+		<date>2024-09-19T07:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Merge</key>
