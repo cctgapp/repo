@@ -49,6 +49,16 @@
 		<key>EndDate</key>
 		<date>2024-09-13T15:59:59Z</date>
 	</dict>
+        <dict>
+		<key>EndDate</key>
+		<date>2024-10-14T11:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方L鄭家杰</string>
+		<key>UUID</key>
+		<string>AAB5C3B0-EF97-4E02-A105-87A14E5EE57E</string>
+	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>E6BFE255-D59C-4693-8FDA-C1A4FEB709D2</string>
