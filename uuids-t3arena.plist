@@ -47,6 +47,18 @@
 		<date>2024-03-25T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2024-11-09T10:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Merge</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴SIANG</string>
+		<key>UUID</key>
+		<string>C46C27DD-3309-4882-9A19-84BDB5E83328</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>57BADE05-9AC3-408B-9063-4F08EAC5F219</string>
 		<key>EndDate</key>
