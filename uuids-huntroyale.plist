@@ -49,6 +49,16 @@
 		<date>2024-07-02T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2024-11-21T16:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴HY</string>
+		<key>UUID</key>
+		<string>92DF46CE-41F2-4161-B2F1-515AAA758B55</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>23ECF0F1-5A25-4C47-AB68-8A8594FE49C9</string>
 		<key>EndDate</key>
