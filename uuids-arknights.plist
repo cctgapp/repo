@@ -46,5 +46,15 @@
 		<key>Extra</key>
 		<integer>1</integer>
 	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2024-12-07T15:55:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>DC-Rufus</string>
+		<key>UUID</key>
+		<string>DD267383-8F2E-4B08-A1AC-3355C7048C0A</string>
+	</dict>
 </array>
 </plist>
