@@ -36,15 +36,17 @@
 		<key>EndDate</key>
 		<date>2024-04-12T15:59:59Z</date>
 	</dict>
-   <dict>
+	<dict>
 		<key>EndDate</key>
-		<date>2024-11-20T04:40:00Z</date>
+		<date>2024-12-23T15:10:00Z</date>
 		<key>Extra</key>
+		<integer>1</integer>
+		<key>Merge</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>DC-Rufus</string>
 		<key>UUID</key>
 		<string>3AD1FE6C-5A4A-4C16-9AEC-37C789B723A6</string>
 	</dict>
-</array>
+	</array>
 </plist>
