@@ -49,13 +49,25 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-11-05T15:59:59Z</date>
+		<date>2025-01-05T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-11-05T15:59:59Z</date>
+		<date>2025-01-05T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string></string>
+		<key>EndDate</key>
+		<date>2025-01-05T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>CA931B28-56EB-4FDF-BEE6-C8706290EC47</string>
+		<key>EndDate</key>
+		<date>2025-01-23T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
