@@ -31,6 +31,16 @@
 		<date>2024-04-17T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2025-04-15T13:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>Hao客戶</string>
+		<key>UUID</key>
+		<string>B36CFC98-62CE-4E5F-A14B-7D64CC5262C7</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>387997C9-86AC-49EC-8B14-BC80E017945B</string>
 		<key>EndDate</key>
