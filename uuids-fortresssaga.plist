@@ -50,6 +50,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>5C491D76-9AFA-4389-AEF2-97D988238F2F</string>
+		<key>EndDate</key>
+		<date>2025-05-25T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>77AC14F6-56FF-462B-B8EE-0C3D68E8689A</string>
 		<key>EndDate</key>
 		<date>2025-04-20T15:59:59Z</date>
