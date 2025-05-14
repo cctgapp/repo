@@ -216,6 +216,14 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>95196F8A-D208-47C9-B4F6-013E4C2F7235</string>
+		<key>EndDate</key>
+		<date>2025-06-14T15:59:59Z</date>
+		<key>FULL</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>1DCBCBB0-4BFF-4AF5-801C-39F28EA3C489</string>
 		<key>EndDate</key>
 		<date>2025-06-04T15:59:59Z</date>
