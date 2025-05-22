@@ -9,9 +9,9 @@
 		<array>
 			<dict>
 				<key>index</key>
-				<integer>6</integer>
+				<integer>2</integer>
 				<key>limit</key>
-				<string>-1</string>
+				<string>5</string>
 			</dict>
 		</array>
 		<key>Servers</key>
@@ -24,12 +24,98 @@
 	</dict>
 	<string></string>
 	<dict>
-		<key>UUID</key>
-		<string></string>
 		<key>EndDate</key>
-		<date>2022-07-25T15:59:59Z</date>
+		<date>2025-05-26T15:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+             	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+		<key>UUID</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-05-26T15:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+             	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+		<key>Mark</key>
+		<string>自己測試用</string>
+		<key>UUID</key>
+		<string>EB770E67-EC7E-4D1C-AE69-273C3B6B6F55</string>
+	</dict>
+       <dict>
+		<key>EndDate</key>
+		<date>2025-05-30T09:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+             	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+		<key>Mark</key>
+		<string>Hao客戶</string>
+		<key>UUID</key>
+		<string>D59B2831-49F4-4B1F-AE78-99EF36E92C1A</string>
+	</dict>
+       <dict>
+		<key>EndDate</key>
+		<date>2025-06-19T07:50:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴JayShan</string>
+		<key>UUID</key>
+		<string>831F27C5-393F-45A7-B151-5242E728B284</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-06-21T15:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+              	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴愛了不該愛的</string>
+		<key>UUID</key>
+		<string>9C545F41-6983-4D6E-B530-2357DD5283AD</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-06-21T15:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴至均月卡制</string>
+		<key>UUID</key>
+		<string>86D6049D-874D-4C8C-970D-80796E61E28D</string>
 	</dict>
 </array>
 </plist>
