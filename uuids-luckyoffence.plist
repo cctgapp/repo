@@ -40,13 +40,19 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2025-05-18T15:59:59Z</date>
+		<date>2025-06-18T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2025-05-18T15:59:59Z</date>
+		<date>2025-06-18T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>80B855D5-1C09-47F9-8C83-9B9759DE1522</string>
+		<key>EndDate</key>
+		<date>2025-06-23T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
