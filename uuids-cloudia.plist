@@ -48,10 +48,8 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-05-13T15:59:59Z</date>
+		<date>2025-07-05T15:59:59Z</date>
 		<key>Extra</key>
-		<integer>1</integer>
-		<key>Merge</key>
 		<integer>1</integer>
 		<key>Mark</key>
 		<string>DC-Rufus</string>
