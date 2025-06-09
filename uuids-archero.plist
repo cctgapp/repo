@@ -49,6 +49,12 @@
 		<key>EndDate</key>
 		<date>2024-09-13T15:59:59Z</date>
 	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>649A9117-13B7-4761-B43E-82CDB6A61D19</string>
+		<key>EndDate</key>
+		<date>2025-07-04T15:59:59Z</date>
+	</dict>
         <dict>
 		<key>EndDate</key>
 		<date>2024-10-14T11:50:00Z</date>
