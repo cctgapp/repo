@@ -41,7 +41,7 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-06-12T15:59:59Z</date>
+		<date>2024-07-12T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>AutoP</key>
@@ -60,6 +60,20 @@
               	<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-08-10T15:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
+             	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+		<key>UUID</key>
+		<string>55B1A4B6-948B-4B20-8A42-8105CDA39730</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
