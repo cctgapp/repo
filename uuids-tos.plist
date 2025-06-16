@@ -66,6 +66,20 @@
 		<date>2025-07-16T15:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
+    		<key>LeaderBoard</key>
+    		<integer>1</integer>
+    		<key>AutoVictory</key>
+    		<integer>1</integer>
+    		<key>AutoP</key>
+    		<integer>1</integer>
+		<key>UUID</key>
+		<string>32995546-B33F-4C36-AC6A-D262C382DD61</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-07-16T15:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
     		<key>AutoVictory</key>
     		<integer>1</integer>
     		<key>AutoP</key>
