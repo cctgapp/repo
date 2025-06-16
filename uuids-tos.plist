@@ -87,6 +87,20 @@
     		<key>AutoP</key>
     		<integer>1</integer>
 		<key>UUID</key>
+		<string>29805359-822E-40EA-B67A-6CEE69545C0A</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-06-26T15:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    		<key>LeaderBoard</key>
+    		<integer>1</integer>
+    		<key>AutoVictory</key>
+    		<integer>1</integer>
+    		<key>AutoP</key>
+    		<integer>1</integer>
+		<key>UUID</key>
 		<string>03D87479-9076-4190-83DF-517C4E987EEA</string>
 	</dict>
 	<dict>
