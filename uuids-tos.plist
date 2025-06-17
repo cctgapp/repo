@@ -67,6 +67,48 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
+		<date>2025-07-05T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    		<key>LeaderBoard</key>
+    		<integer>1</integer>
+    		<key>AutoVictory</key>
+    		<integer>1</integer>
+    		<key>AutoP</key>
+    		<integer>1</integer>
+		<key>UUID</key>
+		<string>0FBB4ABA-60A4-4D4F-9C48-1DA43894172D</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-07-17T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    		<key>LeaderBoard</key>
+    		<integer>0</integer>
+    		<key>AutoVictory</key>
+    		<integer>1</integer>
+    		<key>AutoP</key>
+    		<integer>1</integer>
+		<key>UUID</key>
+		<string>8B4B08A7-3B83-41B6-89D5-C4C8D2FECA42</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2025-06-21T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    		<key>LeaderBoard</key>
+    		<integer>1</integer>
+    		<key>AutoVictory</key>
+    		<integer>1</integer>
+    		<key>AutoP</key>
+    		<integer>1</integer>
+		<key>UUID</key>
+		<string>B356735B-1EB2-436E-961F-C22E13E676E6</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
 		<date>2025-07-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
