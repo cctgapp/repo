@@ -50,81 +50,9 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string>5C491D76-9AFA-4389-AEF2-97D988238F2F</string>
+		<string>7A237C75-A9E5-48F1-A821-3DFD8572BE38</string>
 		<key>EndDate</key>
 		<date>2025-06-29T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>5C491D76-9AFA-4389-AEF2-97D988238F2F</string>
-		<key>EndDate</key>
-		<date>2025-05-25T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>77AC14F6-56FF-462B-B8EE-0C3D68E8689A</string>
-		<key>EndDate</key>
-		<date>2025-04-20T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>6CF0B348-462C-40EA-8BFF-6BD685C3694C</string>
-		<key>EndDate</key>
-		<date>2025-03-30T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E208B635-880F-418A-8BAB-DB6D31D08496</string>
-		<key>EndDate</key>
-		<date>2025-03-12T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>A74926F3-C7C1-4756-BA8E-8F1CFAF741BD</string>
-		<key>EndDate</key>
-		<date>2025-03-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>D5E973F7-A3B5-49B9-A3F5-D1732250ABF9</string>
-		<key>EndDate</key>
-		<date>2025-02-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>BCED9CEA-4F73-436F-A1C8-CDCF08EC66A6</string>
-		<key>EndDate</key>
-		<date>2024-12-09T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>B7FB5C2E-6D3F-4C67-8BC4-92AA7BB5FFA4</string>
-		<key>EndDate</key>
-		<date>2024-11-17T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>C5B11330-5133-40AB-9585-3B2F4ABC11C3</string>
-		<key>EndDate</key>
-		<date>2024-10-25T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>81CE65B2-C230-483F-9F02-34125AE69638</string>
-		<key>EndDate</key>
-		<date>2024-10-10T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>900A59E1-2DE5-4261-BF49-95975193CE5E</string>
-		<key>EndDate</key>
-		<date>2024-09-27T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>436B52D3-27B2-4A21-A32B-8CEA87A01B4B</string>
-		<key>EndDate</key>
-		<date>2025-03-01T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
