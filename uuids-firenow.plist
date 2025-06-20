@@ -50,37 +50,15 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
-		<string></string>
+		<string>D46EF5B8-6F71-4CFA-BEA3-4FF13F6682BB</string>
 		<key>EndDate</key>
-		<date>2025-03-13T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>CC26F2E6-728F-4FCD-B73F-12503B2A033E</string>
-		<key>EndDate</key>
-		<date>2025-03-17T15:59:59Z</date>
+		<date>2025-07-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string>D38918ED-94EE-43D8-A183-FBB8820F40BC</string>
 		<key>EndDate</key>
 		<date>2025-07-07T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>E59D2EAE-C10E-48E5-8AAA-3C7077453AD7</string>
-		<key>EndDate</key>
-		<date>2025-02-18T15:59:59Z</date>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2024-02-12T16:10:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴Lonc</string>
-		<key>UUID</key>
-		<string>B1E963D6-DD29-4367-B609-0059A8E49E72</string>
 	</dict>
 </array>
 </plist>
