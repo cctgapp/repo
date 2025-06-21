@@ -22,30 +22,24 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-04-20T15:59:59Z</date>
+		<date>2024-08-20T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2024-04-17T15:59:59Z</date>
+		<date>2024-08-17T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-04-15T13:20:00Z</date>
+		<date>2025-07-21T06:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Mark</key>
-		<string>Hao客戶</string>
+		<string>官方賴Rufus</string>
 		<key>UUID</key>
-		<string>2713B692-04CC-4A1E-8CD7-5DDCC6E0FA55</string>
-	</dict>
-	<dict>
-		<key>UUID</key>
-		<string>387997C9-86AC-49EC-8B14-BC80E017945B</string>
-		<key>EndDate</key>
-		<date>2024-04-12T15:59:59Z</date>
-	</dict>
+		<string>22EC81D0-8DE8-4E40-A6DD-FB9FE941ED29</string>
+	</dict>	
 	<dict>
 		<key>EndDate</key>
 		<date>2025-07-05T15:59:59Z</date>
