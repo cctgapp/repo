@@ -165,20 +165,6 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-06-18T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-    		<key>LeaderBoard</key>
-    		<integer>1</integer>
-    		<key>AutoVictory</key>
-    		<integer>1</integer>
-    		<key>AutoP</key>
-    		<integer>1</integer>
-		<key>UUID</key>
-		<string>ED6D4020-350E-4E79-ACD5-46E03A8CD9D4</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
 		<date>2025-07-21T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
@@ -204,20 +190,6 @@
     		<integer>1</integer>
 		<key>UUID</key>
 		<string>700D5EB3-1194-4C10-AE91-9B114F74CC87</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2025-07-05T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-    		<key>LeaderBoard</key>
-    		<integer>1</integer>
-    		<key>AutoVictory</key>
-    		<integer>1</integer>
-    		<key>AutoP</key>
-    		<integer>1</integer>
-		<key>UUID</key>
-		<string>0FBB4ABA-60A4-4D4F-9C48-1DA43894172D</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -260,20 +232,6 @@
     		<integer>1</integer>
 		<key>UUID</key>
 		<string>5E93A0CB-F2E3-43D7-8C92-163651F2C753</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2025-06-26T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-    		<key>LeaderBoard</key>
-    		<integer>1</integer>
-    		<key>AutoVictory</key>
-    		<integer>1</integer>
-    		<key>AutoP</key>
-    		<integer>1</integer>
-		<key>UUID</key>
-		<string>EC21A0AE-647A-4307-B07C-796B01430C0F</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
@@ -413,20 +371,6 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-07-07T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
-             	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-		<key>UUID</key>
-		<string>7C2FB105-0701-44EA-9A13-D1FBF3DF0EE8</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
 		<date>2025-07-03T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
@@ -441,75 +385,15 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-07-03T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
-             	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-		<key>UUID</key>
-		<string>30BD9BD1-2385-4E55-8381-B9A77CACA847</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2025-06-19T15:59:59Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
-             	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-		<key>UUID</key>
-		<string>BA7E4AC2-496F-41D0-8949-C6DDEECA4829</string>
-	</dict>
-       <dict>
-		<key>EndDate</key>
-		<date>2025-06-19T07:50:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-              	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴JayShan</string>
-		<key>UUID</key>
-		<string>324AF3FD-7DAC-481A-A08B-F3515D83D971</string>
-	</dict>
-	<dict>
-		<key>EndDate</key>
-		<date>2025-06-21T15:10:00Z</date>
-		<key>Extra</key>
-		<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-              	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
-		<key>Mark</key>
-		<string>官方賴愛了不該愛的</string>
-		<key>UUID</key>
-		<string>AEC09272-3384-476B-A1C0-CB523D46DC7E</string>
-	</dict>
-<dict>
-		<key>EndDate</key>
 		<date>2025-07-22T02:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-              <key>AutoVictory</key>
-              <integer>1</integer>
-              <key>AutoP</key>
-              <integer>1</integer>
-              <key>LeaderBoard</key>
-              <integer>1</integer>
+              	<key>AutoVictory</key>
+              	<integer>1</integer>
+              	<key>AutoP</key>
+              	<integer>1</integer>
+              	<key>LeaderBoard</key>
+              	<integer>1</integer>
 		<key>Mark</key>
 		<string>官方賴至均月卡制</string>
 		<key>UUID</key>
