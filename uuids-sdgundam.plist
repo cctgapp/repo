@@ -11,7 +11,7 @@
 				<key>index</key>
 				<integer>1</integer>
 				<key>limit</key>
-				<string>0</string>
+				<string>3</string>
 			</dict>
 			<dict>
 				<key>index</key>
@@ -23,7 +23,7 @@
 				<key>index</key>
 				<integer>4</integer>
 				<key>limit</key>
-				<string>0</string>
+				<string>3</string>
 			</dict>
 		</array>
 		<key>Servers</key>
