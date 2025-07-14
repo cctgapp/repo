@@ -49,6 +49,16 @@
 		<date>2025-08-18T15:59:59Z</date>
 	</dict>
 	<dict>
+		<key>EndDate</key>
+		<date>2025-08-13T17:00:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴Rufus</string>
+		<key>UUID</key>
+		<string>E2798382-C699-45C5-8F14-174BB7162912</string>
+	</dict>
+	<dict>
 		<key>UUID</key>
 		<string>065E6CEF-1A2A-4832-80E9-ED4B101CDBEE</string>
 		<key>EndDate</key>
