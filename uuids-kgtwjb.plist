@@ -222,6 +222,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>7C9CDCF1-D3BC-4D10-86CB-E8AEEEE2F9E7</string>
+		<key>EndDate</key>
+		<date>2025-09-18T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>A416381B-ECA9-48D1-A1E1-C52AA156369C</string>
 		<key>EndDate</key>
 		<date>2025-12-10T15:59:59Z</date>
