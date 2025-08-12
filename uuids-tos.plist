@@ -67,6 +67,22 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
+		<date>2025-09-11T03:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴易</string>
+		<key>UUID</key>
+		<string>0F33864B-408F-46FB-83BB-400E79623068</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
 		<date>2025-09-10T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
