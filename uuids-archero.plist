@@ -51,6 +51,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>7E8CFAB4-AEA8-4776-9FC1-EC0563E4EE88</string>
+		<key>EndDate</key>
+		<date>2025-09-15T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>8DB4A887-7101-4A6A-AE1B-8F8B25BB0F8F</string>
 		<key>EndDate</key>
 		<date>2025-09-01T15:59:59Z</date>
@@ -59,7 +65,7 @@
 		<key>UUID</key>
 		<string>9184232A-A4BF-4342-B281-ACDF2FB44F8C</string>
 		<key>EndDate</key>
-		<date>2025-08-24T15:59:59Z</date>
+		<date>2025-10-24T15:59:59Z</date>
 	</dict>
 </array>
 </plist>
