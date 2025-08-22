@@ -513,15 +513,15 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-08-21T08:40:00Z</date>
+		<date>2025-09-21T08:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-              	<key>AutoVictory</key>
-              	<integer>1</integer>
-              	<key>AutoP</key>
-              	<integer>1</integer>
-              	<key>LeaderBoard</key>
-              	<integer>1</integer>
+              <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
 		<key>Mark</key>
 		<string>官方賴至均月卡制</string>
 		<key>UUID</key>
