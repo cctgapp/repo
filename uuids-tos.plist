@@ -125,13 +125,13 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-09-14T15:59:59Z</date>
+		<date>2025-10-14T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
-    	<integer>0</integer>
-    	<key>AutoVictory</key>
     	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>0</integer>
     	<key>AutoP</key>
     	<integer>1</integer>
 		<key>UUID</key>
