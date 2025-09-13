@@ -281,7 +281,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-09-12T15:59:59Z</date>
+		<date>2025-10-12T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     		<key>LeaderBoard</key>
@@ -567,7 +567,7 @@
     		<key>AutoP</key>
     		<integer>1</integer>
 		<key>UUID</key>
-		<string>3DCE5124-7B1A-440C-953B-5113A8E2C5CD</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
