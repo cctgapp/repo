@@ -203,7 +203,7 @@
     	<key>LeaderBoard</key>
     	<integer>1</integer>
     	<key>AutoVictory</key>
-    	<integer>0</integer>
+    	<integer>1</integer>
     	<key>AutoP</key>
     	<integer>1</integer>
 		<key>UUID</key>
