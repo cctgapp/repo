@@ -799,7 +799,7 @@
 	</dict>
 <dict>
 		<key>EndDate</key>
-		<date>2025-10-22T00:00:00Z</date>
+		<date>2025-11-23T01:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
@@ -809,7 +809,7 @@
               <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
-		<string>官方賴至均月卡制</string>
+		<string>官方賴至均</string>
 		<key>UUID</key>
 		<string>6B14E1B8-EA9C-4B5F-BF51-D3FE596B2C14</string>
 	</dict>
