@@ -85,7 +85,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
-    	<integer>1</integer>
+    	<integer>0</integer>
     	<key>AutoVictory</key>
     	<integer>1</integer>
     	<key>AutoP</key>
@@ -663,7 +663,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2025-12-12T15:59:59Z</date>
+		<date>2026-01-12T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     		<key>LeaderBoard</key>
