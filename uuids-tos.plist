@@ -993,9 +993,9 @@
 		<key>UUID</key>
 		<string>5A8EDC63-0652-40E2-94FA-D97705C70125</string>
 	</dict>
-  <dict>
+<dict>
 		<key>EndDate</key>
-		<date>2025-12-23T02:00:00Z</date>
+		<date>2026-01-25T02:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
