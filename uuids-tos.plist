@@ -65,6 +65,38 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
+<dict>
+		<key>EndDate</key>
+		<date>2026-02-03T11:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴翊</string>
+		<key>UUID</key>
+		<string>0B7F44BD-208A-451E-BEEB-BF98AA4C6FF7</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-03T11:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴翊</string>
+		<key>UUID</key>
+		<string>E2F346C6-7B66-43CA-99A5-A3B85A188D28</string>
+	</dict>
 	<dict>
 		<key>EndDate</key>
 		<date>2026-02-03T15:59:59Z</date>
