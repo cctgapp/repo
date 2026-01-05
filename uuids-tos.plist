@@ -65,6 +65,34 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-04T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>745F0443-9176-4266-AD81-1DF8E4042CF7</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-04T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>53CAC7C7-0491-4192-9278-A0B0BDA54EE3</string>
+	</dict>
 <dict>
 		<key>EndDate</key>
 		<date>2026-02-03T11:30:00Z</date>
