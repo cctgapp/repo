@@ -73,6 +73,34 @@
     	<key>LeaderBoard</key>
     	<integer>1</integer>
     	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>BF27F4F6-8225-4973-9F7F-53634BCC89B5</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-09T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>034BCB98-7721-4724-96B2-4080D4B46B83</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-09T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
     	<integer>0</integer>
     	<key>AutoP</key>
     	<integer>1</integer>
