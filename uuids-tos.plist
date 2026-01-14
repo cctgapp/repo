@@ -39,7 +39,7 @@
 	<string></string>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-02-11T15:59:59Z</date>
+		<date>2026-02-13T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
@@ -53,7 +53,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-02-11T15:59:59Z</date>
+		<date>2026-02-13T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
@@ -65,7 +65,21 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
-<dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-02-13T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>0</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>5E17F7DD-1B12-4A28-83E6-A1BDBA2E1158</string>
+	</dict>
+    <dict>
 		<key>EndDate</key>
 		<date>2026-02-12T14:20:00Z</date>
 		<key>Extra</key>
