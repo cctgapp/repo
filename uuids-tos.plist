@@ -500,11 +500,11 @@
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
-              <integer>1</integer>
+              <integer>0</integer>
               <key>AutoP</key>
               <integer>1</integer>
               <key>LeaderBoard</key>
-              <integer>1</integer>
+              <integer>0</integer>
 		<key>Mark</key>
 		<string>Hao</string>
 		<key>UUID</key>
