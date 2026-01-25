@@ -1438,9 +1438,9 @@
 		<key>UUID</key>
 		<string>5A8EDC63-0652-40E2-94FA-D97705C70125</string>
 	</dict>
-<dict>
+  <dict>
 		<key>EndDate</key>
-		<date>2026-01-25T02:40:00Z</date>
+		<date>2026-02-24T03:00:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
@@ -1450,7 +1450,7 @@
               <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
-		<string>官方賴至均</string>
+		<string>官方賴 至均</string>
 		<key>UUID</key>
 		<string>6B14E1B8-EA9C-4B5F-BF51-D3FE596B2C14</string>
 	</dict>
