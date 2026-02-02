@@ -42,12 +42,12 @@
 		<date>2026-03-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-    <key>LeaderBoard</key>
-    <integer>1</integer>
-    <key>AutoVictory</key>
-    <integer>1</integer>
-    <key>AutoP</key>
-    <integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
 	</dict>
@@ -56,14 +56,28 @@
 		<date>2026-03-02T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-    <key>LeaderBoard</key>
-    <integer>1</integer>
-    <key>AutoVictory</key>
-    <integer>1</integer>
-    <key>AutoP</key>
-    <integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-03-04T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>  
+		<string>2DC47A75-FF77-4076-8106-77E7D2CC8AD0/string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
