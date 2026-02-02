@@ -76,8 +76,8 @@
     	<integer>1</integer>
     	<key>AutoP</key>
     	<integer>1</integer>
-		<key>UUID</key>  
-		<string>2DC47A75-FF77-4076-8106-77E7D2CC8AD0/string>
+		<key>UUID</key>
+		<string>2DC47A75-FF77-4076-8106-77E7D2CC8AD0</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
