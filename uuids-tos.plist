@@ -439,11 +439,11 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-02-03T15:59:59Z</date>
+		<date>2026-03-06T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
-    	<integer>1</integer>
+    	<integer>0</integer>
     	<key>AutoVictory</key>
     	<integer>1</integer>
     	<key>AutoP</key>
