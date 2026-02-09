@@ -41,7 +41,6 @@
 			<string>https://www.dropbox.com/s/ear8kw4z1bhx9we/uuids-unhcyc.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/ublo8p7l18ockuk/uuids-ljh.plist?dl=1</string>
 			<string>https://www.dropbox.com/s/ashqcoghmckipw8/uuids-virawu.plist?dl=1</string>
-
 		</array>
 	</dict>
 	<string></string>
@@ -49,13 +48,19 @@
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2026-02-05T15:59:59Z</date>
+		<date>2026-03-05T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
 		<string></string>
 		<key>EndDate</key>
-		<date>2026-02-05T15:59:59Z</date>
+		<date>2026-03-05T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
+		<string>1CBD38DF-2DCF-4DF3-B45E-FD5AE2C75CB1</string>
+		<key>EndDate</key>
+		<date>2026-03-11T15:59:59Z</date>
 	</dict>
 	<dict>
 		<key>UUID</key>
