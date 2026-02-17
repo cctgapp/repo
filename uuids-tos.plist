@@ -67,6 +67,20 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
+		<date>2026-03-19T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>335B4896-495C-42E5-95F4-568AAA571EEB</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
 		<date>2026-03-18T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
