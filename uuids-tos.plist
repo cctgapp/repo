@@ -39,7 +39,7 @@
 	<string></string>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-04-17T15:59:59Z</date>
+		<date>2026-05-17T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
@@ -50,6 +50,36 @@
     	<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-05-17T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string></string>
+	</dict>
+  <dict>
+		<key>EndDate</key>
+		<date>2026-05-01T10:30:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+              <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴俊宏</string>
+		<key>UUID</key>
+		<string>04DFD786-A673-4C10-B3A7-61305AD0EC1D</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
