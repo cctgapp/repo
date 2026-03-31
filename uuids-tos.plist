@@ -71,7 +71,7 @@
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
-    	<integer>1</integer>
+    	<integer>0</integer>
     	<key>AutoVictory</key>
     	<integer>1</integer>
     	<key>AutoP</key>
