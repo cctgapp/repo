@@ -423,7 +423,7 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-04-08T15:59:59Z</date>
+		<date>2026-05-08T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
@@ -1796,7 +1796,7 @@
     		<key>AutoP</key>
     		<integer>1</integer>
 		<key>UUID</key>
-		<string>62EE7382-E89F-4E23-A3A4-A6411B6E13A5</string>
+		<string>62EA4B54-E064-4691-A17B-167DB524C9B7</string>
 	</dict>
 	<dict>
 		<key>EndDate</key>
