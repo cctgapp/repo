@@ -39,6 +39,12 @@
 	</dict>
 	<dict>
 		<key>UUID</key>
+		<string>F6BE8F7E-AFC8-4227-934D-31AB7CB1DE6D</string>
+		<key>EndDate</key>
+		<date>2026-05-24T15:59:59Z</date>
+	</dict>
+	<dict>
+		<key>UUID</key>
 		<string>B8875EFA-4F9A-4916-A5C2-2443E2337C53</string>
 		<key>EndDate</key>
 		<date>2026-05-06T15:59:59Z</date>
