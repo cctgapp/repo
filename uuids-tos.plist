@@ -1978,7 +1978,7 @@
 	</dict>
   <dict>
 		<key>EndDate</key>
-		<date>2026-04-25T03:00:00Z</date>
+		<date>2026-05-31T14:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
@@ -1988,7 +1988,7 @@
               <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
-		<string>官方賴 至均</string>
+		<string>官方賴至均</string>
 		<key>UUID</key>
 		<string>6B14E1B8-EA9C-4B5F-BF51-D3FE596B2C14</string>
 	</dict>
