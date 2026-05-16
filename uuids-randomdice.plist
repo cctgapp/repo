@@ -37,15 +37,9 @@
 		</array>
 	</dict>
 	<string></string>
-	<dict>
-		<key>UUID</key>
-		<string></string>
+  <dict>
 		<key>EndDate</key>
-		<date>2022-12-30T15:59:59Z</date>
-	</dict>
-    <dict>
-		<key>EndDate</key>
-		<date>2026-03-06T14:15:00Z</date>
+		<date>2026-06-06T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Merge</key>
@@ -53,9 +47,9 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
-    <dict>
+  <dict>
 		<key>EndDate</key>
-		<date>2026-03-06T14:15:00Z</date>
+		<date>2026-06-06T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Merge</key>
@@ -63,15 +57,25 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
-    <dict>
+  <dict>
 		<key>EndDate</key>
-		<date>2026-03-06T14:15:00Z</date>
+		<date>2026-06-05T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
 		<key>Merge</key>
 		<integer>1</integer>
 		<key>UUID</key>
-		<string></string>
+		<string>9D9484C3-04A7-4A4C-935E-6C97ED8970CC</string>
+	</dict>
+  <dict>
+		<key>EndDate</key>
+		<date>2026-05-24T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Merge</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>AFA51209-F0A0-4D4F-B283-6E23F8DB86EB</string>
 	</dict>
 </array>
 </plist>
