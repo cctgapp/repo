@@ -47,7 +47,7 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
-    <dict>
+   <dict>
 		<key>EndDate</key>
 		<date>2026-06-06T15:59:59Z</date>
 		<key>Extra</key>
@@ -56,6 +56,16 @@
 		<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
+	</dict>
+    <dict>
+		<key>EndDate</key>
+		<date>2026-06-19T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Merge</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>D5843C19-9643-4703-8B1C-6F87592C049C</string>
 	</dict>
     <dict>
 		<key>EndDate</key>
