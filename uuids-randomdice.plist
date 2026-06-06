@@ -37,7 +37,7 @@
 		</array>
 	</dict>
 	<string></string>
-  <dict>
+    <dict>
 		<key>EndDate</key>
 		<date>2026-07-06T15:59:59Z</date>
 		<key>Extra</key>
@@ -47,7 +47,7 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
-  <dict>
+    <dict>
 		<key>EndDate</key>
 		<date>2026-07-06T15:59:59Z</date>
 		<key>Extra</key>
@@ -56,6 +56,16 @@
 		<integer>1</integer>
 		<key>UUID</key>
 		<string></string>
+	</dict>
+    <dict>
+		<key>EndDate</key>
+		<date>2026-07-06T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+		<key>Merge</key>
+		<integer>1</integer>
+		<key>UUID</key>
+		<string>5C74A76C-3A27-4200-BD9E-05C741EE59B0</string>
 	</dict>
    <dict>
 		<key>EndDate</key>
