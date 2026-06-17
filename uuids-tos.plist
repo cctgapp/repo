@@ -73,6 +73,20 @@
     	<key>LeaderBoard</key>
     	<integer>1</integer>
     	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>1DEAD1AF-2889-41E6-BEB7-CD329F52BE05</string>
+	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-07-17T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
     	<integer>0</integer>
     	<key>AutoP</key>
     	<integer>1</integer>
