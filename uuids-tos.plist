@@ -65,6 +65,20 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
+  <dict>
+		<key>EndDate</key>
+		<date>2026-09-12T09:20:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+             <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴陳一恩</string>
+		<key>UUID</key>
+		<string>76ED71A9-2CCB-4353-8D72-B1840BE8538F</string>
+	</dict>
 	<dict>
 		<key>EndDate</key>
 		<date>2026-09-05T15:59:59Z</date>
