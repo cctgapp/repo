@@ -65,6 +65,20 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
+	<dict>
+		<key>EndDate</key>
+		<date>2026-09-16T15:59:59Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+    	<key>LeaderBoard</key>
+    	<integer>1</integer>
+    	<key>AutoVictory</key>
+    	<integer>1</integer>
+    	<key>AutoP</key>
+    	<integer>1</integer>
+		<key>UUID</key>
+		<string>00ACCD3F-BA7B-4A71-B96D-30CBD369C58F</string>
+	</dict>
   <dict>
 		<key>EndDate</key>
 		<date>2026-09-12T09:20:00Z</date>
