@@ -81,7 +81,7 @@
 	</dict>
   <dict>
 		<key>EndDate</key>
-		<date>2026-09-12T09:20:00Z</date>
+		<date>2026-09-12T19:20:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
              <key>AutoVictory</key>
@@ -2144,7 +2144,7 @@
 	</dict>
   <dict>
 		<key>EndDate</key>
-		<date>2026-09-03T13:10:00Z</date>
+		<date>2026-09-03T23:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
              <key>AutoVictory</key>
