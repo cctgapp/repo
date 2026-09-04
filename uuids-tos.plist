@@ -2170,14 +2170,14 @@
 		<key>UUID</key>
 		<string>5A8EDC63-0652-40E2-94FA-D97705C70125</string>
 	</dict>
-  <dict>
+<dict>
 		<key>EndDate</key>
-		<date>2026-09-03T23:10:00Z</date>
+		<date>2026-10-04T12:50:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
-             <key>AutoVictory</key>
-              <integer>1</integer>
               <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
 		<string>官方賴 至均</string>
