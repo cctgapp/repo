@@ -1330,9 +1330,9 @@
 		<key>UUID</key>
 		<string>9C0926D7-DE7C-48C9-87B5-4963BD611431</string>
 	</dict>
-<dict>
+  <dict>
 		<key>EndDate</key>
-		<date>2026-08-14T14:10:00Z</date>
+		<date>2026-10-17T14:10:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoP</key>
@@ -1340,7 +1340,7 @@
               <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
-		<string>Hao客戶</string>
+		<string>Hao</string>
 		<key>UUID</key>
 		<string>D32075B9-6D5E-439C-9FD7-17FDC5303935</string>
 	</dict>
