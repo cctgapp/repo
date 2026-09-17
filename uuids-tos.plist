@@ -449,7 +449,7 @@
 	</dict>
   <dict>
 		<key>EndDate</key>
-		<date>2026-07-30T15:59:59Z</date>
+		<date>2026-10-17T11:40:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
               <key>AutoVictory</key>
@@ -459,7 +459,7 @@
               <key>LeaderBoard</key>
               <integer>1</integer>
 		<key>Mark</key>
-		<string>官方賴俊宏</string>
+		<string>官方賴 俊宏</string>
 		<key>UUID</key>
 		<string>04DFD786-A673-4C10-B3A7-61305AD0EC1D</string>
 	</dict>
