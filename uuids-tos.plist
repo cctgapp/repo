@@ -847,11 +847,11 @@
 	</dict>
 	<dict>
 		<key>EndDate</key>
-		<date>2026-03-07T15:59:59Z</date>
+		<date>2026-10-21T15:59:59Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
     	<key>LeaderBoard</key>
-    	<integer>1</integer>
+    	<integer>0</integer>
     	<key>AutoVictory</key>
     	<integer>1</integer>
     	<key>AutoP</key>
