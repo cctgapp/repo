@@ -65,6 +65,22 @@
 		<key>UUID</key>
 		<string></string>
 	</dict>
+  <dict>
+		<key>EndDate</key>
+		<date>2026-10-26T16:40:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+             <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>官方賴 志</string>
+		<key>UUID</key>
+		<string>5737DA63-6442-4FA4-AA5C-0820C6A8E94B</string>
+	</dict>
 	<dict>
 		<key>EndDate</key>
 		<date>2026-10-25T15:59:59Z</date>
