@@ -67,6 +67,22 @@
 	</dict>
   <dict>
 		<key>EndDate</key>
+		<date>2026-11-06T12:10:00Z</date>
+		<key>Extra</key>
+		<integer>1</integer>
+             <key>AutoVictory</key>
+              <integer>1</integer>
+              <key>AutoP</key>
+              <integer>1</integer>
+              <key>LeaderBoard</key>
+              <integer>1</integer>
+		<key>Mark</key>
+		<string>Hao客戶</string>
+		<key>UUID</key>
+		<string>C044A05D-4DCE-4B98-AE64-FC6ADAC683F2</string>
+	</dict>
+  <dict>
+		<key>EndDate</key>
 		<date>2026-10-26T02:55:00Z</date>
 		<key>Extra</key>
 		<integer>1</integer>
